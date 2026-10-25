@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Private data
+/data/
+
+# Large simulation outputs
+/results/raw/
+
+# Local settings
+.env.*
+.DS_Store
