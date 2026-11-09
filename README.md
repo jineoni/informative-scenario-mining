@@ -19,8 +19,11 @@ informative-scenario-mining/
 │   └── processed/
 ├── notebooks/
 │   ├── 01_traffic_data_eda.ipynb # Traffic data exploration
-│   └── 02_sumo_quickstart.ipynb  # SUMO simulation testing
-├── simulations/                  # SUMO networks and configurations
+│   ├── 02_sumo_quickstart.ipynb  # SUMO simulation testing
+│   ├── 03_traffic_data_eda_extended.ipynb # Vehicle attributes and repeated observations
+│   └── 04_scenario_pipeline.ipynb # Initial SUMO pipeline and controller comparison
+├── initial_simulation/           # Standalone scenario-to-evaluation pipeline
+├── simulations/                  # Existing SUMO quickstart networks and configurations
 ├── results/
 │   ├── raw/                      # Raw simulation outputs (not tracked)
 │   ├── figures/                  # Visualizations
@@ -29,3 +32,6 @@ informative-scenario-mining/
 ├── .gitignore
 └── README.md
 ```
+## Initial simulation pipeline
+
+See [initial_simulation/README.md](initial_simulation/README.md) for the folder structure, command-line and notebook instructions, feature definitions, fixed conditions, controller settings, and metric aggregation. The notebook entry point is [04_scenario_pipeline.ipynb](notebooks/04_scenario_pipeline.ipynb).

@@ -228,3 +228,6 @@ __marimo__/
 # Local settings
 .env.*
 .DS_Store
+
+# Regenerable initial SUMO experiment artifacts
+/results/initial_simulation/
