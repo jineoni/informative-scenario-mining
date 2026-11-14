@@ -1,6 +1,6 @@
 # Initial SUMO Scenario Pipeline
 
-This folder contains a standalone scenario generation and evaluation pipeline. Run it from the repository root, or call the same functions from `notebooks/04_scenario_pipeline.ipynb`. Markdown, comments, and generated plots use English.
+This folder contains a standalone scenario generation and evaluation pipeline. Run it from `notebooks/04_initial_scenario_pipeline.ipynb`. Markdown, comments, and generated plots use English.
 
 ## Folder structure
 
@@ -15,10 +15,9 @@ initial_simulation/
 ├── evaluation.py             # Vehicle outcomes and queue aggregation
 ├── plotting.py               # Input, metric, and queue visualizations
 ├── __init__.py               # Public Python API
-├── __main__.py               # Command-line interface
 └── tests/test_pipeline.py    # Feature, geometry, and aggregation checks
 
-notebooks/04_scenario_pipeline.ipynb
+notebooks/04_initial_scenario_pipeline.ipynb
 results/initial_simulation/
 ├── pilot/                    # Short fixed-time demand review
 └── baseline/                 # Full nine-scenario, two-controller experiment
@@ -66,46 +65,9 @@ conda activate scenario-mining
 
 Install SUMO separately. `sumo`, `netconvert`, and optionally `sumo-gui` must be available. Discovery checks `SUMO_HOME/bin`, `PATH`, and the standard Eclipse SUMO framework location on macOS. The pipeline runs SUMO as a subprocess and parses its outputs; it does not require a live TraCI connection or a notebook kernel to run simulations.
 
-### Command line
-
-Run these commands from the repository root:
-
-```bash
-# Short demand review: all nine scenarios, fixed-time controller only
-python -m initial_simulation pilot --output-dir results/initial_simulation/pilot
-
-# Full experiment: nine scenarios and both controllers
-python -m initial_simulation run --output-dir results/initial_simulation/baseline
-
-# Read existing results without starting SUMO
-python -m initial_simulation summarize --output-dir results/initial_simulation/baseline
-```
-
-To inspect inputs before simulating:
-
-```bash
-python -m initial_simulation prepare --output-dir results/initial_simulation/baseline
-```
-
-A smaller execution can select scenario IDs or controllers:
-
-```bash
-python -m initial_simulation run --output-dir results/initial_simulation/subset \
-  --scenarios s05 --controllers fixed actuated
-```
-
-Change `configs/default.json`, or provide another configuration:
-
-```bash
-python -m initial_simulation run --config path/to/experiment.json \
-  --output-dir results/initial_simulation/experiment_02
-```
-
-Use a new output directory after changing configuration, simulation/evaluation Python code, or SUMO version. A directory's signature prevents mixing different experiments. Repeating the same command reuses successful runs whose inputs and outputs still match their checksums. Failed or incomplete runs are retried. `--rerun` repeats matching completed runs; it does not override a configuration mismatch. `summarize` and `load_results` can read older results after code changes. Plot styling is excluded from the simulation signature, so changing figure appearance does not require new SUMO runs.
-
 ### Notebook
 
-Open `notebooks/04_scenario_pipeline.ipynb`, select the `scenario-mining` kernel, and run the cells in order. It calls the same public API, shows the pilot, checks generated inputs, runs or reuses the full experiment, and plots the results.
+Open `notebooks/04_initial_scenario_pipeline.ipynb`, select the `scenario-mining` kernel, and run the cells in order. It calls the same public API, shows the pilot, checks generated inputs, runs or reuses the full experiment, and plots the results.
 
 ```python
 from initial_simulation import load_config, run_experiment, load_results
@@ -118,17 +80,9 @@ summary = results["summary"]
 
 Change the notebook's experiment directory names when using a different configuration. Existing results can be loaded directly without executing the pilot or simulation cells.
 
+Use a new output directory after changing configuration, simulation/evaluation Python code, or SUMO version. A directory's signature prevents mixing different experiments. Repeating the same run reuses successful runs whose inputs and outputs still match their checksums. Failed or incomplete runs are retried. `rerun=True` repeats matching completed runs; it does not override a configuration mismatch. `load_results` can read older results after code changes. Plot styling is excluded from the simulation signature, so changing figure appearance does not require new SUMO runs.
+
 ### GUI replay
-
-```bash
-# Print the replay command
-python -m initial_simulation gui --output-dir results/initial_simulation/baseline \
-  --scenario s08 --controller actuated
-
-# Launch it
-python -m initial_simulation gui --output-dir results/initial_simulation/baseline \
-  --scenario s08 --controller actuated --launch
-```
 
 Replay uses the same network, demand, timing, and seed, but writes no evaluation outputs. Opening the GUI does not overwrite the completed experiment's data. The notebook prints these commands and does not launch a GUI automatically.
 
