@@ -231,3 +231,6 @@ __marimo__/
 
 # Regenerable initial SUMO experiment artifacts
 /results/initial_simulation/
+
+# Regenerable Phase 1 SUMO experiment artifacts
+/results/phase1_simulation/

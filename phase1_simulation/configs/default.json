@@ -1,0 +1,35 @@
+{
+  "demand_vph": [600, 1200, 1800],
+  "directional_imbalance": [-0.5, 0, 0.5],
+  "arrival_profiles": {
+    "uniform": [1, 1, 1, 1, 1, 1],
+    "two_peaks": [30, 30, 10, 10, 10, 10],
+    "sustained_peak": [40, 30, 10, 10, 5, 5],
+    "sharp_peak": [50, 20, 10, 10, 5, 5],
+    "gradual_decline": [40, 20, 20, 10, 5, 5]
+  },
+  "turning_profiles": {
+    "through_only": [0, 100, 0],
+    "low_turns": [10, 80, 10],
+    "balanced_turns": [20, 60, 20],
+    "left_heavy": [40, 60, 0],
+    "right_heavy": [0, 60, 40]
+  },
+  "platooning": [0.2, 0.5, 0.8],
+  "short_gap_s": 2,
+  "headway_threshold_s": 3,
+  "bin_s": 600,
+  "warmup_s": 300,
+  "drain_s": 900,
+  "arm_length_m": 200,
+  "speed_limit_kmh": 50,
+  "vehicle": {"accel": 2.6, "decel": 4.5, "tau": 1, "minGap": 2.5, "length": 5, "sigma": 0, "speedDev": 0},
+  "fixed_green_s": 20,
+  "min_green_s": 10,
+  "max_green_s": 40,
+  "yellow_s": 3,
+  "all_red_s": 1,
+  "max_gap_s": 3,
+  "detector_gap_s": 2,
+  "halt_speed_mps": 0.1
+}
