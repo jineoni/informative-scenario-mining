@@ -21,8 +21,12 @@ informative-scenario-mining/
 │   ├── 01_traffic_data_eda.ipynb # Traffic data exploration
 │   ├── 02_sumo_quickstart.ipynb  # SUMO simulation testing
 │   ├── 03_traffic_data_eda_extended.ipynb # Vehicle attributes and repeated observations
-│   └── 04_initial_scenario_pipeline.ipynb # Initial SUMO pipeline and controller comparison
+│   ├── 04_initial_scenario_pipeline.ipynb # Initial SUMO pipeline and controller comparison
+│   └── phase1/
+│       ├── 05_compass_iot_observed_ranges.ipynb # Observed arrivals and turning proportions
+│       └── 06_phase1_scenario_pipeline.ipynb # Scenario generation, simulation, and comparison
 ├── initial_simulation/           # Standalone scenario-to-evaluation pipeline
+├── phase1_simulation/            # Independent five-feature SUMO pipeline
 ├── simulations/                  # Existing SUMO quickstart networks and configurations
 ├── results/
 │   ├── raw/                      # Raw simulation outputs (not tracked)
@@ -35,3 +39,7 @@ informative-scenario-mining/
 ## Initial simulation pipeline
 
 See [initial_simulation/README.md](initial_simulation/README.md) for the folder structure, notebook instructions, feature definitions, fixed conditions, controller settings, and metric aggregation. The notebook entry point is [04_initial_scenario_pipeline.ipynb](notebooks/04_initial_scenario_pipeline.ipynb).
+
+## Phase 1 simulation pipeline
+
+[Notebook 05](notebooks/phase1/05_compass_iot_observed_ranges.ipynb) uses Compass IoT observations to inform candidate arrival and turning profiles. [Notebook 06](notebooks/phase1/06_phase1_scenario_pipeline.ipynb) generates vehicle schedules, runs fixed-time and actuated control, and compares mean delay, queue length, and travel time. See the [Phase 1 README](phase1_simulation/README.md) for setup and evaluation details.
