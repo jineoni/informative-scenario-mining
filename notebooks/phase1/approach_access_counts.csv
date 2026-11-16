@@ -1,0 +1,21 @@
+rank,osm_node,approach,200 m,150 m,100 m,50 m
+1,69515841,West · 8th Street Northeast,5,4,3,1
+1,69515841,East · 8th Street Northeast,3,3,2,0
+1,69515841,North · Peachtree Street Northeast,3,3,1,0
+1,69515841,South · Peachtree Street Northeast,2,2,1,0
+3,69515840,West · Fifth Street Northeast,4,3,1,1
+3,69515840,East · Fifth Street Northeast,3,3,2,0
+3,69515840,North · Peachtree Street Northeast,4,3,2,0
+3,69515840,South · Peachtree Street Northeast,2,1,0,0
+4,69214484,South · Krog Street Northeast,,,0,0
+4,69214484,North · Krog Street Northeast,4,4,2,1
+4,69214484,East · Edgewood Avenue Northeast,4,2,1,1
+4,69214484,West · Edgewood Avenue Northeast,1,1,1,0
+6,3582046439,South · Jackson Street Northeast,5,4,3,1
+6,3582046439,East · Auburn Avenue Northeast,1,1,1,1
+6,3582046439,North · Jackson Street Northeast,6,5,4,2
+6,3582046439,West · Auburn Avenue Northeast,5,3,2,1
+7,69292799,South · Boulevard Southeast,,,2,1
+7,69292799,North · Boulevard Northeast,3,2,1,1
+7,69292799,West · Edgewood Avenue Northeast,1,1,1,0
+7,69292799,East · Edgewood Avenue Northeast,1,1,1,0

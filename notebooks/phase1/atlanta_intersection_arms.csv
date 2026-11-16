@@ -1,0 +1,1753 @@
+intersection,osm_node,longitude,latitude,osm_way,two_way,dedicated_turn_lane,inbound_lanes,outbound_lanes,total_lanes
+Baker St × Spring St,69500539,-84.3890221,33.7622672,631165845,False,False,,,4
+Baker St × Spring St,69500539,-84.3890221,33.7622672,617206187,False,False,,,4
+Baker St × Spring St,69500539,-84.3890221,33.7622672,631165844,False,False,,,4
+Baker St × Spring St,69500539,-84.3890221,33.7622672,631165848,False,False,,,4
+"Martin Luther King, Jr. Dr × Peachtree St",69167140,-84.3921442,33.7520695,385744394,False,False,,,3
+"Martin Luther King, Jr. Dr × Peachtree St",69167140,-84.3921442,33.7520695,629278230,True,False,1,1,2
+"Martin Luther King, Jr. Dr × Peachtree St",69167140,-84.3921442,33.7520695,630391544,False,False,,,3
+"Martin Luther King, Jr. Dr × Peachtree St",69167140,-84.3921442,33.7520695,1390618856,True,False,,,
+Carroll Dr × Marietta Boulevard,3370843979,-84.4363933,33.8024787,9276308,True,False,,,
+Carroll Dr × Marietta Boulevard,3370843979,-84.4363933,33.8024787,330110214,False,True,,,4
+Carroll Dr × Marietta Boulevard,3370843979,-84.4363933,33.8024787,424164912,False,False,,,2
+Carroll Dr × Marietta Boulevard,3370843979,-84.4363933,33.8024787,1424959671,True,False,,,
+Cameron Madison Alexander Blvd × Northside Dr,69594678,-84.404836,33.768196,9278152,True,False,,,
+Cameron Madison Alexander Blvd × Northside Dr,69594678,-84.404836,33.768196,119948088,True,False,,,6
+Cameron Madison Alexander Blvd × Northside Dr,69594678,-84.404836,33.768196,338503274,True,False,,,
+Cameron Madison Alexander Blvd × Northside Dr,69594678,-84.404836,33.768196,338503280,True,False,,,6
+Langhorn St × Lucile Av,69426892,-84.432386,33.742291,181272943,True,False,,,
+Langhorn St × Lucile Av,69426892,-84.432386,33.742291,181272943,True,False,,,
+Langhorn St × Lucile Av,69426892,-84.432386,33.742291,561299421,True,False,,,
+Langhorn St × Lucile Av,69426892,-84.432386,33.742291,561299421,True,False,,,
+Lee St × West End Av,69354766,-84.4140337,33.7444059,9255725,True,False,,,
+Lee St × West End Av,69354766,-84.4140337,33.7444059,9252116,True,False,,,
+Lee St × West End Av,69354766,-84.4140337,33.7444059,9273173,True,False,,,
+Lee St × West End Av,69354766,-84.4140337,33.7444059,230895060,True,False,,,
+Gardner St × McDaniel St,69308537,-84.401691,33.730512,9251802,True,False,,,
+Gardner St × McDaniel St,69308537,-84.401691,33.730512,507009475,True,False,,,
+Gardner St × McDaniel St,69308537,-84.401691,33.730512,507009475,True,False,,,
+Gardner St × McDaniel St,69308537,-84.401691,33.730512,1573534225,True,False,,,
+Glen Iris Dr × Highland Av,69342358,-84.367842,33.761325,41545411,True,True,2,1,3
+Glen Iris Dr × Highland Av,69342358,-84.367842,33.761325,44097075,True,False,,,
+Glen Iris Dr × Highland Av,69342358,-84.367842,33.761325,630643911,True,False,,,
+Glen Iris Dr × Highland Av,69342358,-84.367842,33.761325,1377415981,True,True,2,1,3
+Memorial Dr × Washington St,1861951606,-84.390915,33.7469337,9277561,True,True,2,2,4
+Memorial Dr × Washington St,1861951606,-84.390915,33.7469337,1110500851,True,False,2,1,3
+Memorial Dr × Washington St,1861951606,-84.390915,33.7469337,1110500852,False,False,,,4
+Memorial Dr × Washington St,1861951606,-84.390915,33.7469337,1110500853,False,True,,,5
+Flat Shoals Ave × Memorial Dr,69251194,-84.350412,33.747361,129601737,True,True,2,1,3
+Flat Shoals Ave × Memorial Dr,69251194,-84.350412,33.747361,856050051,True,False,,,
+Flat Shoals Ave × Memorial Dr,69251194,-84.350412,33.747361,856050051,True,False,,,
+Flat Shoals Ave × Memorial Dr,69251194,-84.350412,33.747361,1331074928,True,True,2,1,3
+17Th St × State St,1278536813,-84.3987526,33.7911626,1564974888,True,True,3,2,5
+17Th St × State St,1278536813,-84.3987526,33.7911626,1564974888,True,True,2,3,5
+17Th St × State St,1278536813,-84.3987526,33.7911626,1564974949,False,True,,,4
+17Th St × State St,1278536813,-84.3987526,33.7911626,1564974949,False,True,,,4
+Monroe Dr × Park Dr,69491581,-84.36745,33.785694,61853028,True,False,,,
+Monroe Dr × Park Dr,69491581,-84.36745,33.785694,1355126856,True,False,,,4
+Monroe Dr × Park Dr,69491581,-84.36745,33.785694,1355126856,True,False,,,4
+Monroe Dr × Park Dr,69491581,-84.36745,33.785694,1423354532,True,False,,,
+Piedmont Ave × 7th St,69515344,-84.381216,33.778327,9268354,True,False,1,1,2
+Piedmont Ave × 7th St,69515344,-84.381216,33.778327,42507417,True,False,,,
+Piedmont Ave × 7th St,69515344,-84.381216,33.778327,547651109,False,False,,,3
+Piedmont Ave × 7th St,69515344,-84.381216,33.778327,547651109,False,False,,,3
+Donald Lee Hollowell Parkway × Northside Dr,3090667867,-84.4089716,33.7732363,304518364,False,False,,,1
+Donald Lee Hollowell Parkway × Northside Dr,3090667867,-84.4089716,33.7732363,370376234,False,False,,,2
+Donald Lee Hollowell Parkway × Northside Dr,3090667867,-84.4089716,33.7732363,1041727481,False,False,,,2
+Donald Lee Hollowell Parkway × Northside Dr,3090667867,-84.4089716,33.7732363,1041727482,False,False,,,2
+Donald Lee Hollowell Parkway × James P. Brawley Dr,69184258,-84.4124229,33.7730619,9242395,True,False,,,
+Donald Lee Hollowell Parkway × James P. Brawley Dr,69184258,-84.4124229,33.7730619,1041727480,True,False,,,4
+Donald Lee Hollowell Parkway × James P. Brawley Dr,69184258,-84.4124229,33.7730619,1041727480,True,False,,,4
+Donald Lee Hollowell Parkway × James P. Brawley Dr,69184258,-84.4124229,33.7730619,1424963403,True,False,,,
+Donald Lee Hollowell Parkway × Marietta Boulevard,4136926008,-84.425033,33.7727059,9237370,True,False,,,
+Donald Lee Hollowell Parkway × Marietta Boulevard,4136926008,-84.425033,33.7727059,9269901,True,False,1,1,2
+Donald Lee Hollowell Parkway × Marietta Boulevard,4136926008,-84.425033,33.7727059,412168598,False,False,,,2
+Donald Lee Hollowell Parkway × Marietta Boulevard,4136926008,-84.425033,33.7727059,764089157,False,True,,,3
+Donald Lee Hollowell Parkway × Florence Place,69309441,-84.441965,33.7728,9251941,True,False,,,
+Donald Lee Hollowell Parkway × Florence Place,69309441,-84.441965,33.7728,304517312,True,False,,,4
+Donald Lee Hollowell Parkway × Florence Place,69309441,-84.441965,33.7728,630644089,True,False,,,
+Donald Lee Hollowell Parkway × Florence Place,69309441,-84.441965,33.7728,1322475970,True,True,3,1,4
+Donald Lee Hollowell Parkway × Wood St,69439849,-84.457184,33.776553,9270767,True,False,,,
+Donald Lee Hollowell Parkway × Wood St,69439849,-84.457184,33.776553,1207073955,True,False,,,
+Donald Lee Hollowell Parkway × Wood St,69439849,-84.457184,33.776553,1323135587,True,True,2,1,3
+Donald Lee Hollowell Parkway × Wood St,69439849,-84.457184,33.776553,1323135588,True,True,2,1,3
+15Th St × Peachtree St,69232977,-84.38388,33.7884677,423236891,True,True,2,2,5
+15Th St × Peachtree St,69232977,-84.38388,33.7884677,629278172,True,True,3,2,5
+15Th St × Peachtree St,69232977,-84.38388,33.7884677,629278173,True,False,1,1,2
+15Th St × Peachtree St,69232977,-84.38388,33.7884677,1456526290,True,False,,,
+5Th St × Peachtree St,69515840,-84.384531,33.776155,9269230,True,False,1,1,2
+5Th St × Peachtree St,69515840,-84.384531,33.776155,9269230,True,False,1,1,2
+5Th St × Peachtree St,69515840,-84.384531,33.776155,959690884,True,False,1,1,2
+5Th St × Peachtree St,69515840,-84.384531,33.776155,959690884,True,False,1,1,2
+Forsyth St × Mitchell St,69171495,-84.394329,33.7516591,39441455,False,False,,,2
+Forsyth St × Mitchell St,69171495,-84.394329,33.7516591,629278226,False,False,,,2
+Forsyth St × Mitchell St,69171495,-84.394329,33.7516591,629305952,True,False,,,4
+Forsyth St × Mitchell St,69171495,-84.394329,33.7516591,1435989863,True,False,,,4
+Fraser St × Memorial Dr,69506348,-84.38621,33.746924,546851524,True,False,,,
+Fraser St × Memorial Dr,69506348,-84.38621,33.746924,547005484,True,False,,,4
+Fraser St × Memorial Dr,69506348,-84.38621,33.746924,808039079,False,True,,,3
+Fraser St × Memorial Dr,69506348,-84.38621,33.746924,808039080,False,False,,,2
+Harriett St × McDonough Boulevard,69189823,-84.3784564,33.7168838,629305940,True,False,,,
+Harriett St × McDonough Boulevard,69189823,-84.3784564,33.7168838,629305941,True,False,,,
+Harriett St × McDonough Boulevard,69189823,-84.3784564,33.7168838,730111464,True,False,,,
+Harriett St × McDonough Boulevard,69189823,-84.3784564,33.7168838,942409479,True,False,,,
+Hunt St × North Av,69256293,-84.374759,33.771197,9263152,False,False,,,
+Hunt St × North Av,69256293,-84.374759,33.771197,431571132,True,False,,,6
+Hunt St × North Av,69256293,-84.374759,33.771197,835951054,True,False,,,
+Hunt St × North Av,69256293,-84.374759,33.771197,1377787206,True,True,3,2,5
+I-75/85 N/B Off Ramp × 10Th St,69532294,-84.390586,33.781528,62607075,False,False,,,3
+I-75/85 N/B Off Ramp × 10Th St,69532294,-84.390586,33.781528,631653296,False,True,,,3
+I-75/85 N/B Off Ramp × 10Th St,69532294,-84.390586,33.781528,631653297,True,True,4,3,7
+I-75/85 N/B Off Ramp × 10Th St,69532294,-84.390586,33.781528,761148055,True,False,3,3,6
+I-75/85 S/B Off Ramp × North Av,69259138,-84.3907098,33.7712983,9269255,False,False,,,2
+I-75/85 S/B Off Ramp × North Av,69259138,-84.3907098,33.7712983,38976989,True,False,,,4
+I-75/85 S/B Off Ramp × North Av,69259138,-84.3907098,33.7712983,303454539,True,False,2,3,5
+I-75/85 S/B Off Ramp × North Av,69259138,-84.3907098,33.7712983,1007190597,True,False,,,
+Fulton St × I-75/85 Interchange Down Town Connector,315286821,-84.3911571,33.7419175,28688727,True,False,,,
+Fulton St × I-75/85 Interchange Down Town Connector,315286821,-84.3911571,33.7419175,39160320,False,True,,,3
+Fulton St × I-75/85 Interchange Down Town Connector,315286821,-84.3911571,33.7419175,437099818,False,False,,,2
+Fulton St × I-75/85 Interchange Down Town Connector,315286821,-84.3911571,33.7419175,1135695874,True,False,,,
+Decatur St × Collins,12995609265,-84.3865521,33.7523252,133114909,True,False,1,1,2
+Decatur St × Collins,12995609265,-84.3865521,33.7523252,133114909,True,False,1,1,2
+Decatur St × Collins,12995609265,-84.3865521,33.7523252,840362906,True,False,,,
+Decatur St × Collins,12995609265,-84.3865521,33.7523252,840362906,True,False,,,
+Boulevard × Fulton Cotton Mill,5412061134,-84.3698958,33.7494997,741059522,True,True,1,1,2
+Boulevard × Fulton Cotton Mill,5412061134,-84.3698958,33.7494997,824979193,True,False,,,
+Boulevard × Fulton Cotton Mill,5412061134,-84.3698958,33.7494997,1034403112,False,False,,,1
+Boulevard × Fulton Cotton Mill,5412061134,-84.3698958,33.7494997,1270197555,False,False,,,
+Edgewood Ave × Fort St,8413393758,-84.3780524,33.7544166,966112015,False,False,,,1
+Edgewood Ave × Fort St,8413393758,-84.3780524,33.7544166,43520060,False,False,,,
+Edgewood Ave × Fort St,8413393758,-84.3780524,33.7544166,966112013,False,True,,,2
+Edgewood Ave × Fort St,8413393758,-84.3780524,33.7544166,966112014,False,False,,,2
+Auburn Ave × Fort St,3582046432,-84.3779655,33.7555181,335295939,True,False,,,
+Auburn Ave × Fort St,3582046432,-84.3779655,33.7555181,9249234,False,False,,,
+Auburn Ave × Fort St,3582046432,-84.3779655,33.7555181,1031668682,False,False,,,2
+Auburn Ave × Fort St,3582046432,-84.3779655,33.7555181,1118731506,True,False,1,1,2
+Ellis St × Fort St,69112696,-84.3783507,33.7593685,9235919,False,False,,,2
+Ellis St × Fort St,69112696,-84.3783507,33.7593685,28852664,False,False,,,2
+Ellis St × Fort St,69112696,-84.3783507,33.7593685,38974057,False,False,,,2
+Ellis St × Fort St,69112696,-84.3783507,33.7593685,1419318019,False,False,,,2
+Fort St × Andrew Young International Boulevard,69121345,-84.3789284,33.7603232,28852667,False,False,,,2
+Fort St × Andrew Young International Boulevard,69121345,-84.3789284,33.7603232,115789925,False,False,,,4
+Fort St × Andrew Young International Boulevard,69121345,-84.3789284,33.7603232,1111331909,False,False,,,2
+Fort St × Andrew Young International Boulevard,69121345,-84.3789284,33.7603232,1419318018,False,False,,,4
+Eastland Rd × Moreland Av,263820285,-84.349466,33.71942,9192412,True,False,,,
+Eastland Rd × Moreland Av,263820285,-84.349466,33.71942,562470101,True,False,,,
+Eastland Rd × Moreland Av,263820285,-84.349466,33.71942,1314845635,True,False,2,2,4
+Eastland Rd × Moreland Av,263820285,-84.349466,33.71942,1314845635,True,False,2,2,4
+Central Park Place × Ralph McGill Boulevard,6404727832,-84.3779506,33.7641041,38974975,True,False,,,
+Central Park Place × Ralph McGill Boulevard,6404727832,-84.3779506,33.7641041,38974975,True,False,,,
+Central Park Place × Ralph McGill Boulevard,6404727832,-84.3779506,33.7641041,683742572,False,False,,,
+Central Park Place × Ralph McGill Boulevard,6404727832,-84.3779506,33.7641041,683742572,False,False,,,
+Donald Lee Hollowell Parkway × Marta Station Drway,69430606,-84.4281203,33.7718669,304517311,False,False,,,2
+Donald Lee Hollowell Parkway × Marta Station Drway,69430606,-84.4281203,33.7718669,304517313,False,False,,,2
+Donald Lee Hollowell Parkway × Marta Station Drway,69430606,-84.4281203,33.7718669,304518360,True,False,,,4
+Donald Lee Hollowell Parkway × Marta Station Drway,69430606,-84.4281203,33.7718669,629305920,True,True,1,1,2
+Jones Ave × Marietta St,69407564,-84.3972731,33.7642631,116942278,True,False,,,
+Jones Ave × Marietta St,69407564,-84.3972731,33.7642631,169925545,True,False,,,
+Jones Ave × Marietta St,69407564,-84.3972731,33.7642631,1377424777,True,True,3,1,4
+Jones Ave × Marietta St,69407564,-84.3972731,33.7642631,1377426898,True,True,2,1,3
+Buford Highway × Spring St,69114062,-84.389064,33.79566,9235561,False,False,,,2
+Buford Highway × Spring St,69114062,-84.389064,33.79566,62238522,False,True,,,2
+Buford Highway × Spring St,69114062,-84.389064,33.79566,119948117,False,False,,,3
+Buford Highway × Spring St,69114062,-84.389064,33.79566,331322111,False,False,,,3
+Anderson Ave / I-20 WB Ramp × Martin Luther King Jr Dr,1600746493,-84.4450524,33.7503933,629305885,True,False,,,
+Anderson Ave / I-20 WB Ramp × Martin Luther King Jr Dr,1600746493,-84.4450524,33.7503933,1042656270,False,True,,,2
+Anderson Ave / I-20 WB Ramp × Martin Luther King Jr Dr,1600746493,-84.4450524,33.7503933,1118729511,False,True,,,1
+Anderson Ave / I-20 WB Ramp × Martin Luther King Jr Dr,1600746493,-84.4450524,33.7503933,1451767540,False,False,,,
+Joseph E Lowery Boulevard × Terminal Frieght Driveway,5999270114,-84.4173245,33.7801609,569603381,True,False,,,
+Joseph E Lowery Boulevard × Terminal Frieght Driveway,5999270114,-84.4173245,33.7801609,569603381,True,False,,,
+Joseph E Lowery Boulevard × Terminal Frieght Driveway,5999270114,-84.4173245,33.7801609,636148283,True,False,,,
+Joseph E Lowery Boulevard × Terminal Frieght Driveway,5999270114,-84.4173245,33.7801609,636148283,True,False,,,
+11Th St × Juniper St,69227178,-84.382351,33.783028,198659569,True,False,,,
+11Th St × Juniper St,69227178,-84.382351,33.783028,198659569,True,False,,,
+11Th St × Juniper St,69227178,-84.382351,33.783028,750019484,False,False,,,3
+11Th St × Juniper St,69227178,-84.382351,33.783028,750019484,False,False,,,3
+Baker Street × Luckie St,69250341,-84.3951027,33.7619831,28688144,True,False,,,4
+Baker Street × Luckie St,69250341,-84.3951027,33.7619831,28688144,True,False,,,4
+Baker Street × Luckie St,69250341,-84.3951027,33.7619831,41374791,True,False,,,
+Baker Street × Luckie St,69250341,-84.3951027,33.7619831,561083964,True,False,,,
+75SB Exit Ramp × 17Th St,303168564,-84.3927241,33.7913397,26786744,False,False,,,3
+75SB Exit Ramp × 17Th St,303168564,-84.3927241,33.7913397,73325901,False,True,,,3
+75SB Exit Ramp × 17Th St,303168564,-84.3927241,33.7913397,963897075,False,False,,,3
+75SB Exit Ramp × 17Th St,303168564,-84.3927241,33.7913397,963897076,False,False,,,
+75NB Exit Ramp × 17Th St,1278536825,-84.3905684,33.7918133,61491888,False,True,,,3
+75NB Exit Ramp × 17Th St,1278536825,-84.3905684,33.7918133,112508108,False,False,,,3
+75NB Exit Ramp × 17Th St,1278536825,-84.3905684,33.7918133,112508108,False,False,,,3
+75NB Exit Ramp × 17Th St,1278536825,-84.3905684,33.7918133,435231685,False,True,,,2
+Spring Street × 12Th St,69389973,-84.389206,33.784441,9259133,True,False,,,
+Spring Street × 12Th St,69389973,-84.389206,33.784441,9259133,True,False,,,
+Spring Street × 12Th St,69389973,-84.389206,33.784441,48663359,False,False,,,4
+Spring Street × 12Th St,69389973,-84.389206,33.784441,48663359,False,False,,,4
+Peachtree Street × 6Th St,69350685,-84.384417,33.7773562,9255480,True,False,,,
+Peachtree Street × 6Th St,69350685,-84.384417,33.7773562,42507607,True,False,1,1,2
+Peachtree Street × 6Th St,69350685,-84.384417,33.7773562,959690884,True,False,1,1,2
+Peachtree Street × 6Th St,69350685,-84.384417,33.7773562,959690884,True,False,1,1,2
+Piedmont Avenue × 8Th Street,69589527,-84.381086,33.779534,42507654,True,False,,,
+Piedmont Avenue × 8Th Street,69589527,-84.381086,33.779534,547651108,False,False,,,3
+Piedmont Avenue × 8Th Street,69589527,-84.381086,33.779534,547651109,False,False,,,3
+Piedmont Avenue × 8Th Street,69589527,-84.381086,33.779534,644037339,False,False,,,
+West Peachtree Place × Williams St,69532259,-84.3903673,33.7640255,9273654,True,False,1,1,2
+West Peachtree Place × Williams St,69532259,-84.3903673,33.7640255,9273654,True,False,1,1,2
+West Peachtree Place × Williams St,69532259,-84.3903673,33.7640255,1109213523,True,False,3,2,5
+West Peachtree Place × Williams St,69532259,-84.3903673,33.7640255,1109213523,True,False,2,3,5
+West Peachtree Place × Spring St,1896604249,-84.3889952,33.7640007,9273654,True,False,1,1,2
+West Peachtree Place × Spring St,1896604249,-84.3889952,33.7640007,9273654,True,False,1,1,2
+West Peachtree Place × Spring St,1896604249,-84.3889952,33.7640007,631165848,False,False,,,4
+West Peachtree Place × Spring St,1896604249,-84.3889952,33.7640007,1049882185,False,True,,,4
+Simpson Street × Spring St,69596509,-84.3890104,33.7633334,9273309,True,False,1,1,2
+Simpson Street × Spring St,69596509,-84.3890104,33.7633334,9273309,True,False,1,1,2
+Simpson Street × Spring St,69596509,-84.3890104,33.7633334,631165848,False,False,,,4
+Simpson Street × Spring St,69596509,-84.3890104,33.7633334,631165848,False,False,,,4
+Simpson Street × Williams St,69532246,-84.39054,33.7633412,9273309,True,False,1,1,2
+Simpson Street × Williams St,69532246,-84.39054,33.7633412,40860495,True,False,,,4
+Simpson Street × Williams St,69532246,-84.39054,33.7633412,547007114,True,False,,,
+Simpson Street × Williams St,69532246,-84.39054,33.7633412,1109213523,True,False,2,3,5
+Marietta St × Means St,69576862,-84.4031805,33.7731248,9276206,True,False,,,
+Marietta St × Means St,69576862,-84.4031805,33.7731248,1118916312,True,False,,,
+Marietta St × Means St,69576862,-84.4031805,33.7731248,1416936606,True,True,2,1,3
+Marietta St × Means St,69576862,-84.4031805,33.7731248,1416936607,True,True,2,1,3
+Glenwood Ave × Driveway,5412126034,-84.3617259,33.740508,561245879,False,False,,,
+Glenwood Ave × Driveway,5412126034,-84.3617259,33.740508,561246807,True,False,,,
+Glenwood Ave × Driveway,5412126034,-84.3617259,33.740508,569963840,True,False,,,
+Glenwood Ave × Driveway,5412126034,-84.3617259,33.740508,569963840,True,False,,,
+Avon Ave × Oakland Dr,69357527,-84.427427,33.722258,9255938,True,False,,,
+Avon Ave × Oakland Dr,69357527,-84.427427,33.722258,9255938,True,False,,,
+Avon Ave × Oakland Dr,69357527,-84.427427,33.722258,629735906,True,False,,,
+Avon Ave × Oakland Dr,69357527,-84.427427,33.722258,629735906,True,False,,,
+Marietta Blvd × Elaine Dr,69525727,-84.4294088,33.7907184,9268980,True,False,,,
+Marietta Blvd × Elaine Dr,69525727,-84.4294088,33.7907184,9268980,True,False,,,
+Marietta Blvd × Elaine Dr,69525727,-84.4294088,33.7907184,169927466,False,False,,,2
+Marietta Blvd × Elaine Dr,69525727,-84.4294088,33.7907184,169927466,False,False,,,2
+Donald Lee Hollowell Pkwy × Elizabeth Pl,69318294,-84.447389,33.774879,9253072,True,False,,,
+Donald Lee Hollowell Pkwy × Elizabeth Pl,69318294,-84.447389,33.774879,9265092,True,False,,,
+Donald Lee Hollowell Pkwy × Elizabeth Pl,69318294,-84.447389,33.774879,1214254038,True,False,,,4
+Donald Lee Hollowell Pkwy × Elizabeth Pl,69318294,-84.447389,33.774879,1214254038,True,False,,,4
+Boulevard × Ormewood Ave,69292925,-84.368251,33.734086,38943947,True,False,,,
+Boulevard × Ormewood Ave,69292925,-84.368251,33.734086,38943947,True,False,,,
+Boulevard × Ormewood Ave,69292925,-84.368251,33.734086,9263146,True,False,,,
+Boulevard × Ormewood Ave,69292925,-84.368251,33.734086,806172515,True,False,,,
+Bill Kennedy Way × Faith Ave,69389171,-84.3582174,33.7418608,38943050,True,False,,,
+Bill Kennedy Way × Faith Ave,69389171,-84.3582174,33.7418608,198951030,True,False,,,
+Bill Kennedy Way × Faith Ave,69389171,-84.3582174,33.7418608,561245932,True,False,,,
+Bill Kennedy Way × Faith Ave,69389171,-84.3582174,33.7418608,1076011346,True,False,,,
+North Ave × N. Angier Ave NE,4307528431,-84.3649247,33.7711249,9276186,True,False,,,
+North Ave × N. Angier Ave NE,4307528431,-84.3649247,33.7711249,1092954185,True,False,,,
+North Ave × N. Angier Ave NE,4307528431,-84.3649247,33.7711249,1216499871,True,False,,,
+North Ave × N. Angier Ave NE,4307528431,-84.3649247,33.7711249,1378039655,True,True,3,2,5
+Memorial Dr × Moreland Av,69499883,-84.3492144,33.747621,9190959,True,True,3,1,4
+Memorial Dr × Moreland Av,69499883,-84.3492144,33.747621,119948060,True,True,3,2,5
+Memorial Dr × Moreland Av,69499883,-84.3492144,33.747621,605238816,True,True,3,2,5
+Memorial Dr × Moreland Av,69499883,-84.3492144,33.747621,1074992996,True,True,3,1,4
+Donald Lee Hollowell Parkway × Chappell Rd,69315859,-84.433963,33.771301,243435647,True,False,,,
+Donald Lee Hollowell Parkway × Chappell Rd,69315859,-84.433963,33.771301,630644076,True,False,,,
+Donald Lee Hollowell Parkway × Chappell Rd,69315859,-84.433963,33.771301,1322090203,True,True,2,1,3
+Donald Lee Hollowell Parkway × Chappell Rd,69315859,-84.433963,33.771301,1322467897,True,False,,,4
+Cherokee Ave × Georgia Av,69348370,-84.373638,33.736598,38944625,True,False,,,
+Cherokee Ave × Georgia Av,69348370,-84.373638,33.736598,740745979,True,False,,,4
+Cherokee Ave × Georgia Av,69348370,-84.373638,33.736598,40862957,True,False,,,
+Cherokee Ave × Georgia Av,69348370,-84.373638,33.736598,630644176,True,False,1,1,2
+Irwin St × Randolph St,69639595,-84.367926,33.757603,9277442,True,False,,,
+Irwin St × Randolph St,69639595,-84.367926,33.757603,30872702,True,False,1,1,2
+Irwin St × Randolph St,69639595,-84.367926,33.757603,629238265,True,False,1,1,2
+Irwin St × Randolph St,69639595,-84.367926,33.757603,629238266,True,False,,,
+Courtland St × Linden Av,69342278,-84.384057,33.7698355,9276713,True,False,,,
+Courtland St × Linden Av,69342278,-84.384057,33.7698355,9276713,True,False,,,
+Courtland St × Linden Av,69342278,-84.384057,33.7698355,1029551225,False,False,,,5
+Courtland St × Linden Av,69342278,-84.384057,33.7698355,1029551225,False,False,,,5
+"Joseph Lowery Boulevard × Martin Luther King, Jr. Dr",69172654,-84.417541,33.7547129,9271933,True,False,,,
+"Joseph Lowery Boulevard × Martin Luther King, Jr. Dr",69172654,-84.417541,33.7547129,1377715022,True,True,2,2,4
+"Joseph Lowery Boulevard × Martin Luther King, Jr. Dr",69172654,-84.417541,33.7547129,1377732905,True,True,3,2,5
+"Joseph Lowery Boulevard × Martin Luther King, Jr. Dr",69172654,-84.417541,33.7547129,1377987044,True,True,3,1,4
+Fair St × Northside Dr,69388208,-84.40453,33.748893,9259010,True,False,,,
+Fair St × Northside Dr,69388208,-84.40453,33.748893,630644333,True,False,,,
+Fair St × Northside Dr,69388208,-84.40453,33.748893,1284450839,True,True,3,3,6
+Fair St × Northside Dr,69388208,-84.40453,33.748893,1322078677,True,True,4,2,6
+Amsterdam Ave × Monroe Dr,69229313,-84.367238,33.788219,1355126856,True,False,,,4
+Amsterdam Ave × Monroe Dr,69229313,-84.367238,33.788219,1355126856,True,False,,,4
+Amsterdam Ave × Monroe Dr,69229313,-84.367238,33.788219,1423516451,True,False,,,
+Amsterdam Ave × Monroe Dr,69229313,-84.367238,33.788219,1498096316,True,False,,,
+Central Ave × Mitchell St,69171476,-84.3906628,33.7496472,580807402,False,True,,,3
+Central Ave × Mitchell St,69171476,-84.3906628,33.7496472,580808690,False,False,,,2
+Central Ave × Mitchell St,69171476,-84.3906628,33.7496472,630697022,False,False,,,3
+Central Ave × Mitchell St,69171476,-84.3906628,33.7496472,1271253120,False,False,,,3
+Central Ave × Rawson St,69613927,-84.393372,33.744421,9274330,False,False,,,3
+Central Ave × Rawson St,69613927,-84.393372,33.744421,307098112,False,False,,,4
+Central Ave × Rawson St,69613927,-84.393372,33.744421,307098115,False,False,,,1
+Central Ave × Rawson St,69613927,-84.393372,33.744421,441553518,False,False,,,3
+Joseph Lowery Boulevard × Donald Lee Hollowell Parkway,69190088,-84.4173698,33.7730463,338503267,True,False,,,4
+Joseph Lowery Boulevard × Donald Lee Hollowell Parkway,69190088,-84.4173698,33.7730463,412175610,True,True,3,2,5
+Joseph Lowery Boulevard × Donald Lee Hollowell Parkway,69190088,-84.4173698,33.7730463,629305918,True,False,,,
+Joseph Lowery Boulevard × Donald Lee Hollowell Parkway,69190088,-84.4173698,33.7730463,1302223262,True,True,2,1,3
+Joseph Lowery Boulevard × Simpson St,69190067,-84.4174867,33.7634781,490786129,True,False,,,
+Joseph Lowery Boulevard × Simpson St,69190067,-84.4174867,33.7634781,506801252,True,False,,,
+Joseph Lowery Boulevard × Simpson St,69190067,-84.4174867,33.7634781,1302472579,True,True,2,1,3
+Joseph Lowery Boulevard × Simpson St,69190067,-84.4174867,33.7634781,1536784637,True,True,2,1,3
+Juniper St × 10Th St,69588600,-84.3824946,33.7817559,1118733307,False,False,,,3
+Juniper St × 10Th St,69588600,-84.3824946,33.7817559,505912698,True,False,,,4
+Juniper St × 10Th St,69588600,-84.3824946,33.7817559,631653295,True,False,,,4
+Juniper St × 10Th St,69588600,-84.3824946,33.7817559,750019484,False,False,,,3
+Juniper St × 3Rd St,69228773,-84.383193,33.7735845,42507974,True,False,,,
+Juniper St × 3Rd St,69228773,-84.383193,33.7735845,435349852,False,False,,,
+Juniper St × 3Rd St,69228773,-84.383193,33.7735845,970097384,False,False,,,
+Juniper St × 3Rd St,69228773,-84.383193,33.7735845,970097385,False,False,,,4
+Juniper St × 7th St,69515342,-84.382736,33.778427,9268354,True,False,1,1,2
+Juniper St × 7th St,69515342,-84.382736,33.778427,9268354,True,False,1,1,2
+Juniper St × 7th St,69515342,-84.382736,33.778427,1029549929,False,False,,,4
+Juniper St × 7th St,69515342,-84.382736,33.778427,1029549929,False,False,,,4
+Juniper St × Eighth St,69588593,-84.382634,33.779523,42507654,True,False,,,
+Juniper St × Eighth St,69588593,-84.382634,33.779523,42507654,True,False,,,
+Juniper St × Eighth St,69588593,-84.382634,33.779523,1029549929,False,False,,,4
+Juniper St × Eighth St,69588593,-84.382634,33.779523,1029549929,False,False,,,4
+Lakewood Ave × McDonough Boulevard,69193485,-84.381844,33.717701,48663392,True,False,,,
+Lakewood Ave × McDonough Boulevard,69193485,-84.381844,33.717701,1118666703,True,False,,,
+Lakewood Ave × McDonough Boulevard,69193485,-84.381844,33.717701,1118666704,True,False,,,
+Lakewood Ave × McDonough Boulevard,69193485,-84.381844,33.717701,1554713050,True,True,2,1,3
+Lambert St × North Av,69170400,-84.4048999,33.7705842,9241045,True,False,,,
+Lambert St × North Av,69170400,-84.4048999,33.7705842,218105237,False,False,,,2
+Lambert St × North Av,69170400,-84.4048999,33.7705842,280110947,False,True,,,4
+Lambert St × North Av,69170400,-84.4048999,33.7705842,1315045404,True,True,4,2,6
+Langhorn St × Ralph David Abernathy Boulevard,69319688,-84.4323913,33.7390211,9253139,True,False,,,
+Langhorn St × Ralph David Abernathy Boulevard,69319688,-84.4323913,33.7390211,1307448044,True,False,,,
+Langhorn St × Ralph David Abernathy Boulevard,69319688,-84.4323913,33.7390211,1307448045,True,False,,,
+Langhorn St × Ralph David Abernathy Boulevard,69319688,-84.4323913,33.7390211,1307448047,True,False,,,
+Lawton St × Ralph David Abernathy Boulevard,69276629,-84.423361,33.738375,1307448046,True,False,,,
+Lawton St × Ralph David Abernathy Boulevard,69276629,-84.423361,33.738375,1307448046,True,False,,,
+Lawton St × Ralph David Abernathy Boulevard,69276629,-84.423361,33.738375,1118729521,True,False,,,
+Lawton St × Ralph David Abernathy Boulevard,69276629,-84.423361,33.738375,1118729522,True,False,,,
+Lawton St × Oak St,69276627,-84.423344,33.74075,9277800,True,False,,,
+Lawton St × Oak St,69276627,-84.423344,33.74075,9277800,True,False,,,
+Lawton St × Oak St,69276627,-84.423344,33.74075,1118729520,True,False,,,
+Lawton St × Oak St,69276627,-84.423344,33.74075,1118729521,True,False,,,
+Lawton St × Lucile Av,69276623,-84.423333,33.742273,181272943,True,False,,,
+Lawton St × Lucile Av,69276623,-84.423333,33.742273,181272943,True,False,,,
+Lawton St × Lucile Av,69276623,-84.423333,33.742273,1118729519,True,False,,,
+Lawton St × Lucile Av,69276623,-84.423333,33.742273,1118729520,True,False,,,
+Lee St × Ralph David Abernathy Boulevard,69310497,-84.414078,33.73823,42003679,True,False,2,2,4
+Lee St × Ralph David Abernathy Boulevard,69310497,-84.414078,33.73823,563535952,True,False,2,2,4
+Lee St × Ralph David Abernathy Boulevard,69310497,-84.414078,33.73823,629329060,True,False,2,2,4
+Lee St × Ralph David Abernathy Boulevard,69310497,-84.414078,33.73823,1034495407,True,False,2,2,4
+Lee St × Park St,7507414295,-84.414058,33.7418207,963948268,False,False,,,1
+Lee St × Park St,7507414295,-84.414058,33.7418207,563534017,True,False,,,
+Lee St × Park St,7507414295,-84.414058,33.7418207,963948269,True,False,,,
+Lee St × Park St,7507414295,-84.414058,33.7418207,963948271,False,True,,,3
+Luckie St × North Av,69250373,-84.3961395,33.7713486,72879847,True,False,2,2,4
+Luckie St × North Av,69250373,-84.3961395,33.7713486,96443868,True,True,2,1,3
+Luckie St × North Av,69250373,-84.3961395,33.7713486,169925544,True,True,3,2,5
+Luckie St × North Av,69250373,-84.3961395,33.7713486,920925775,True,False,,,5
+Luckie St × Pine St,69250368,-84.3960997,33.7678392,340371483,True,False,,,
+Luckie St × Pine St,69250368,-84.3960997,33.7678392,1064344685,True,False,,,
+Luckie St × Pine St,69250368,-84.3960997,33.7678392,1095099374,True,False,,,
+Luckie St × Pine St,69250368,-84.3960997,33.7678392,1442134059,True,True,2,1,3
+Ellis St × Peachtree Center Av,69381934,-84.3860798,33.7584217,9262622,False,False,,,4
+Ellis St × Peachtree Center Av,69381934,-84.3860798,33.7584217,591623771,False,False,,,2
+Ellis St × Peachtree Center Av,69381934,-84.3860798,33.7584217,591623771,False,False,,,2
+Ellis St × Peachtree Center Av,69381934,-84.3860798,33.7584217,1069833399,False,False,,,2
+Joseph Lowery Boulevard × West End Av,69351687,-84.4175702,33.7444889,629329059,True,False,,,
+Joseph Lowery Boulevard × West End Av,69351687,-84.4175702,33.7444889,9255725,True,False,,,
+Joseph Lowery Boulevard × West End Av,69351687,-84.4175702,33.7444889,561733974,True,False,,,
+Joseph Lowery Boulevard × West End Av,69351687,-84.4175702,33.7444889,1378031421,True,True,2,2,4
+Brotherton St × Spring St,3740782344,-84.3979868,33.7489492,370371621,False,False,,,1
+Brotherton St × Spring St,3740782344,-84.3979868,33.7489492,370371622,False,False,,,2
+Brotherton St × Spring St,3740782344,-84.3979868,33.7489492,1435989857,True,False,,,
+Brotherton St × Spring St,3740782344,-84.3979868,33.7489492,1435989858,False,False,,,2
+Cone St × Luckie St,69250299,-84.39013,33.7578714,9247887,True,False,,,
+Cone St × Luckie St,69250299,-84.39013,33.7578714,9247887,True,False,,,
+Cone St × Luckie St,69250299,-84.39013,33.7578714,1040543381,True,False,,,
+Cone St × Luckie St,69250299,-84.39013,33.7578714,617422773,True,False,,,
+Courtland St × Ellis St,69342319,-84.3842281,33.7584019,9262622,False,False,,,4
+Courtland St × Ellis St,69342319,-84.3842281,33.7584019,9262622,False,False,,,4
+Courtland St × Ellis St,69342319,-84.3842281,33.7584019,1539788920,False,False,,,5
+Courtland St × Ellis St,69342319,-84.3842281,33.7584019,1539788920,False,False,,,5
+Courtland St × Ralph McGill Boulevard,69342303,-84.3841386,33.7643537,38974978,False,True,,,4
+Courtland St × Ralph McGill Boulevard,69342303,-84.3841386,33.7643537,533345013,True,False,,,
+Courtland St × Ralph McGill Boulevard,69342303,-84.3841386,33.7643537,533345238,False,False,,,3
+Courtland St × Ralph McGill Boulevard,69342303,-84.3841386,33.7643537,533345239,True,False,,,
+Auburn Ave × Park Place,3486603542,-84.3878676,33.755718,9240925,True,False,,,
+Auburn Ave × Park Place,3486603542,-84.3878676,33.755718,9277541,False,False,,,
+Auburn Ave × Park Place,3486603542,-84.3878676,33.755718,144500853,False,False,,,
+Auburn Ave × Park Place,3486603542,-84.3878676,33.755718,563551378,True,False,,,
+Baker St × Centennial Olympic Park Dr,69349971,-84.392028,33.76228,617206186,False,True,,,4
+Baker St × Centennial Olympic Park Dr,69349971,-84.392028,33.76228,1050052329,False,True,,,5
+Baker St × Centennial Olympic Park Dr,69349971,-84.392028,33.76228,1117890728,False,False,,,3
+Baker St × Centennial Olympic Park Dr,69349971,-84.392028,33.76228,1377710836,True,True,2,2,4
+Juniper St × 12Th St,69387078,-84.382244,33.7843032,586592806,True,False,1,1,2
+Juniper St × 12Th St,69387078,-84.382244,33.7843032,611582485,True,False,1,1,2
+Juniper St × 12Th St,69387078,-84.382244,33.7843032,750019484,False,False,,,3
+Juniper St × 12Th St,69387078,-84.382244,33.7843032,1029549928,False,True,,,4
+Linden Ave × West Peachtree St,69372780,-84.3874435,33.7697793,9276969,True,True,,,4
+Linden Ave × West Peachtree St,69372780,-84.3874435,33.7697793,1036831669,False,False,,,5
+Linden Ave × West Peachtree St,69372780,-84.3874435,33.7697793,1057523016,False,True,,,6
+Linden Ave × West Peachtree St,69372780,-84.3874435,33.7697793,1377709097,True,False,,,
+Luckie St × Spring St,3582046257,-84.3906656,33.7584029,9247887,True,False,,,
+Luckie St × Spring St,3582046257,-84.3906656,33.7584029,9247887,True,False,,,
+Luckie St × Spring St,3582046257,-84.3906656,33.7584029,179318683,False,False,,,4
+Luckie St × Spring St,3582046257,-84.3906656,33.7584029,179318683,False,False,,,4
+"Broad St × Martin Luther King, Jr. Dr",69172563,-84.3927906,33.7524275,9273460,False,False,,,
+"Broad St × Martin Luther King, Jr. Dr",69172563,-84.3927906,33.7524275,385744394,False,False,,,3
+"Broad St × Martin Luther King, Jr. Dr",69172563,-84.3927906,33.7524275,580810158,False,False,,,
+"Broad St × Martin Luther King, Jr. Dr",69172563,-84.3927906,33.7524275,629305908,False,False,,,5
+"Forsyth St × Martin Luther King, Jr. Dr",69172566,-84.3934392,33.7528253,461209717,True,False,,,
+"Forsyth St × Martin Luther King, Jr. Dr",69172566,-84.3934392,33.7528253,629305908,False,False,,,5
+"Forsyth St × Martin Luther King, Jr. Dr",69172566,-84.3934392,33.7528253,1387050476,False,False,,,5
+"Forsyth St × Martin Luther King, Jr. Dr",69172566,-84.3934392,33.7528253,1435989862,True,False,,,4
+14Th St × Howell Mill Rd,69339775,-84.411655,33.785801,361830072,True,True,2,2,4
+14Th St × Howell Mill Rd,69339775,-84.411655,33.785801,561080639,True,False,,,
+14Th St × Howell Mill Rd,69339775,-84.411655,33.785801,617528840,True,True,2,1,3
+14Th St × Howell Mill Rd,69339775,-84.411655,33.785801,1052987776,True,False,,,
+Harris St × Williams St,69462053,-84.390555,33.760983,630696901,True,False,,,4
+Harris St × Williams St,69462053,-84.390555,33.760983,630696902,True,False,,,4
+Harris St × Williams St,69462053,-84.390555,33.760983,630696903,False,False,,,3
+Harris St × Williams St,69462053,-84.390555,33.760983,631165847,False,False,,,4
+Ponce De Leon Ave × Spring St,69440383,-84.3888413,33.7724231,9263166,True,True,2,1,3
+Ponce De Leon Ave × Spring St,69440383,-84.3888413,33.7724231,561086747,True,False,,,
+Ponce De Leon Ave × Spring St,69440383,-84.3888413,33.7724231,630697021,False,False,,,4
+Ponce De Leon Ave × Spring St,69440383,-84.3888413,33.7724231,1111330994,False,False,,,4
+Spring St × Walton St,69559872,-84.3919121,33.757523,9270508,False,False,,,
+Spring St × Walton St,69559872,-84.3919121,33.757523,9270508,False,False,,,
+Spring St × Walton St,69559872,-84.3919121,33.757523,169925548,False,False,,,4
+Spring St × Walton St,69559872,-84.3919121,33.757523,381165743,False,False,,,4
+Cooper St × Ralph David Abernathy Boulevard,69291174,-84.3970607,33.7369434,629305947,True,False,,,
+Cooper St × Ralph David Abernathy Boulevard,69291174,-84.3970607,33.7369434,1029603132,True,False,,,
+Cooper St × Ralph David Abernathy Boulevard,69291174,-84.3970607,33.7369434,1031945629,False,False,,,2
+Cooper St × Ralph David Abernathy Boulevard,69291174,-84.3970607,33.7369434,1031946052,False,True,,,3
+Auburn Ave Auburn Avenue × Jesse Hill Jr. Dr,3582046429,-84.3802458,33.7555342,335295939,True,False,,,
+Auburn Ave Auburn Avenue × Jesse Hill Jr. Dr,3582046429,-84.3802458,33.7555342,989914212,True,False,,,
+Auburn Ave Auburn Avenue × Jesse Hill Jr. Dr,3582046429,-84.3802458,33.7555342,989914212,True,False,,,
+Auburn Ave Auburn Avenue × Jesse Hill Jr. Dr,3582046429,-84.3802458,33.7555342,1118731507,True,False,,,
+North Ave × Peachtree St,69256268,-84.3850163,33.7712886,119882105,True,False,2,3,5
+North Ave × Peachtree St,69256268,-84.3850163,33.7712886,338503275,True,False,,,6
+North Ave × Peachtree St,69256268,-84.3850163,33.7712886,422300227,True,False,,,4
+North Ave × Peachtree St,69256268,-84.3850163,33.7712886,1367094310,True,False,,,4
+Peachtree Place × West Peachtree St,69372806,-84.387509,33.780729,311764294,False,False,,,4
+Peachtree Place × West Peachtree St,69372806,-84.387509,33.780729,9267063,True,False,1,1,2
+Peachtree Place × West Peachtree St,69372806,-84.387509,33.780729,9267357,True,False,1,1,2
+Peachtree Place × West Peachtree St,69372806,-84.387509,33.780729,75359073,False,True,,,5
+Peachtree St × Pine St,69262915,-84.385384,33.767399,42509020,False,True,,,3
+Peachtree St × Pine St,69262915,-84.385384,33.767399,179215365,True,False,,,4
+Peachtree St × Pine St,69262915,-84.385384,33.767399,507036351,False,False,,,2
+Peachtree St × Pine St,69262915,-84.385384,33.767399,1118733308,True,False,,,4
+Peeples St × Ralph David Abernathy Boulevard,69367740,-84.420499,33.73801,9257224,True,False,,,
+Peeples St × Ralph David Abernathy Boulevard,69367740,-84.420499,33.73801,9257224,True,False,,,
+Peeples St × Ralph David Abernathy Boulevard,69367740,-84.420499,33.73801,1307448046,True,False,,,
+Peeples St × Ralph David Abernathy Boulevard,69367740,-84.420499,33.73801,1307448046,True,False,,,
+Piedmont Ave × Ralph McGill Boulevard,69172091,-84.3820698,33.7641966,38974419,False,False,,,5
+Piedmont Ave × Ralph McGill Boulevard,69172091,-84.3820698,33.7641966,38974419,False,False,,,5
+Piedmont Ave × Ralph McGill Boulevard,69172091,-84.3820698,33.7641966,38974975,True,False,,,
+Piedmont Ave × Ralph McGill Boulevard,69172091,-84.3820698,33.7641966,38974975,True,False,,,
+John Wesley Dobbs Ave × Piedmont Av,69172073,-84.382228,33.757096,9241168,False,False,,,3
+John Wesley Dobbs Ave × Piedmont Av,69172073,-84.382228,33.757096,9267766,True,False,1,2,3
+John Wesley Dobbs Ave × Piedmont Av,69172073,-84.382228,33.757096,1049575882,False,False,,,4
+John Wesley Dobbs Ave × Piedmont Av,69172073,-84.382228,33.757096,1049575883,True,False,,,
+Courtland St × Edgewood Av,3582046473,-84.3843129,33.7544879,563551381,True,False,,,
+Courtland St × Edgewood Av,3582046473,-84.3843129,33.7544879,569947374,True,False,,,
+Courtland St × Edgewood Av,3582046473,-84.3843129,33.7544879,630644309,False,True,,,4
+Courtland St × Edgewood Av,3582046473,-84.3843129,33.7544879,1424977885,False,False,,,4
+Dill Ave × Manford Rd,69255657,-84.407851,33.718273,9248224,True,False,,,
+Dill Ave × Manford Rd,69255657,-84.407851,33.718273,630014190,True,False,2,2,4
+Dill Ave × Manford Rd,69255657,-84.407851,33.718273,630401522,True,False,2,2,4
+Dill Ave × Manford Rd,69255657,-84.407851,33.718273,835949334,True,False,,,
+Auburn Ave × Hilliard St,3582046433,-84.3765953,33.7555103,9248398,False,False,,,
+Auburn Ave × Hilliard St,3582046433,-84.3765953,33.7555103,44062171,True,False,,,
+Auburn Ave × Hilliard St,3582046433,-84.3765953,33.7555103,507030164,True,False,1,1,2
+Auburn Ave × Hilliard St,3582046433,-84.3765953,33.7555103,1118731506,True,False,1,1,2
+Capitol Ave × Memorial Dr,69573600,-84.3877287,33.7469104,9271969,True,True,3,2,5
+Capitol Ave × Memorial Dr,69573600,-84.3877287,33.7469104,563545712,True,True,3,2,5
+Capitol Ave × Memorial Dr,69573600,-84.3877287,33.7469104,563545714,True,False,,,
+Capitol Ave × Memorial Dr,69573600,-84.3877287,33.7469104,1110029487,True,True,4,2,6
+Linden Ave × Peachtree St,69515827,-84.3851491,33.769812,9276713,True,False,,,
+Linden Ave × Peachtree St,69515827,-84.3851491,33.769812,1367094310,True,False,,,4
+Linden Ave × Peachtree St,69515827,-84.3851491,33.769812,1377709097,True,False,,,
+Linden Ave × Peachtree St,69515827,-84.3851491,33.769812,1377709098,True,True,3,2,5
+West Peachtree Street × 12Th St,69372822,-84.3878231,33.7844871,9259133,True,False,,,
+West Peachtree Street × 12Th St,69372822,-84.3878231,33.7844871,9258926,True,False,1,1,2
+West Peachtree Street × 12Th St,69372822,-84.3878231,33.7844871,44450083,False,False,,,3
+West Peachtree Street × 12Th St,69372822,-84.3878231,33.7844871,75359067,False,False,,,4
+Mitchell St × Peachtree St,11335176976,-84.3930381,33.7509475,629278230,True,False,1,1,2
+Mitchell St × Peachtree St,11335176976,-84.3930381,33.7509475,629305962,False,False,,,2
+Mitchell St × Peachtree St,11335176976,-84.3930381,33.7509475,1040740790,False,False,,,3
+Mitchell St × Peachtree St,11335176976,-84.3930381,33.7509475,1177485082,True,False,,,4
+I-20 E/B Off Ramp × Rawson St,3740926105,-84.3981822,33.7444504,181273008,False,False,,,3
+I-20 E/B Off Ramp × Rawson St,3740926105,-84.3981822,33.7444504,370371626,False,False,,,2
+I-20 E/B Off Ramp × Rawson St,3740926105,-84.3981822,33.7444504,370386303,False,True,,,3
+I-20 E/B Off Ramp × Rawson St,3740926105,-84.3981822,33.7444504,1008665016,False,True,,,3
+John Wesley Dobbs Ave × Peachtree Center Av,69381929,-84.3861017,33.7571364,595386368,False,True,,,3
+John Wesley Dobbs Ave × Peachtree Center Av,69381929,-84.3861017,33.7571364,9267766,True,False,2,1,3
+John Wesley Dobbs Ave × Peachtree Center Av,69381929,-84.3861017,33.7571364,1037083652,False,False,,,2
+John Wesley Dobbs Ave × Peachtree Center Av,69381929,-84.3861017,33.7571364,1037083653,True,False,1,1,2
+"Martin Luther King, Jr. Dr × Tatnall St",69172626,-84.4076563,33.7546996,629238274,False,False,,,
+"Martin Luther King, Jr. Dr × Tatnall St",69172626,-84.4076563,33.7546996,629329049,True,True,2,1,3
+"Martin Luther King, Jr. Dr × Tatnall St",69172626,-84.4076563,33.7546996,903620478,False,False,,,
+"Martin Luther King, Jr. Dr × Tatnall St",69172626,-84.4076563,33.7546996,1422248504,True,True,2,1,3
+Merritts Ave × Centennial Olympic Park Dr,69349998,-84.3921388,33.7689016,9273802,True,False,,,
+Merritts Ave × Centennial Olympic Park Dr,69349998,-84.3921388,33.7689016,43903017,True,False,,,
+Merritts Ave × Centennial Olympic Park Dr,69349998,-84.3921388,33.7689016,310948305,True,False,,,4
+Merritts Ave × Centennial Olympic Park Dr,69349998,-84.3921388,33.7689016,340371475,True,False,,,4
+Moreland Ave × Wylie St,69187013,-84.3492329,33.7524248,579580645,True,False,,,
+Moreland Ave × Wylie St,69187013,-84.3492329,33.7524248,9167066,True,False,,,
+Moreland Ave × Wylie St,69187013,-84.3492329,33.7524248,1302027831,True,True,3,2,5
+Moreland Ave × Wylie St,69187013,-84.3492329,33.7524248,1302027832,True,True,3,2,5
+Boulevard × Edgewood Av Edgewood Avenue,69292799,-84.37215,33.754305,9250631,True,False,,,
+Boulevard × Edgewood Av Edgewood Avenue,69292799,-84.37215,33.754305,9262788,True,False,,,
+Boulevard × Edgewood Av Edgewood Avenue,69292799,-84.37215,33.754305,9272974,True,False,1,1,2
+Boulevard × Edgewood Av Edgewood Avenue,69292799,-84.37215,33.754305,44163840,True,False,1,1,2
+Ivan Allen Jr Boulevard × West Peachtree Street,69191531,-84.3875164,33.764804,9243865,True,False,,,4
+Ivan Allen Jr Boulevard × West Peachtree Street,69191531,-84.3875164,33.764804,9257999,True,False,,,4
+Ivan Allen Jr Boulevard × West Peachtree Street,69191531,-84.3875164,33.764804,9265317,True,False,,,4
+Ivan Allen Jr Boulevard × West Peachtree Street,69191531,-84.3875164,33.764804,630697027,True,False,,,4
+Edgewood Ave × Park Place,3582046482,-84.3885213,33.7545008,9276228,False,False,,,1
+Edgewood Ave × Park Place,3582046482,-84.3885213,33.7545008,144500853,False,False,,,
+Edgewood Ave × Park Place,3582046482,-84.3885213,33.7545008,422711473,True,False,,,
+Edgewood Ave × Park Place,3582046482,-84.3885213,33.7545008,799578840,True,True,2,1,3
+Angier Ave × Boulevard,69146751,-84.371922,33.766387,552177899,True,False,,,
+Angier Ave × Boulevard,69146751,-84.371922,33.766387,1075611867,True,False,,,4
+Angier Ave × Boulevard,69146751,-84.371922,33.766387,1075611867,True,False,,,4
+Angier Ave × Boulevard,69146751,-84.371922,33.766387,1423084296,True,False,,,
+Boulevard × Memorial Dr,69292876,-84.368105,33.746705,1111502806,True,False,,,4
+Boulevard × Memorial Dr,69292876,-84.368105,33.746705,1111502807,True,True,3,1,4
+Boulevard × Memorial Dr,69292876,-84.368105,33.746705,1111502808,True,True,2,2,4
+Boulevard × Memorial Dr,69292876,-84.368105,33.746705,1324078898,True,False,,,4
+Cascade Ave × Ralph David Abernathy Boulevard,344924544,-84.433536,33.7388281,9244776,True,True,2,1,3
+Cascade Ave × Ralph David Abernathy Boulevard,344924544,-84.433536,33.7388281,46178965,True,False,,,
+Cascade Ave × Ralph David Abernathy Boulevard,344924544,-84.433536,33.7388281,561690853,True,False,,,
+Cascade Ave × Ralph David Abernathy Boulevard,344924544,-84.433536,33.7388281,1309550373,True,False,,,
+"Burbank Dr × Martin Luther King, Jr. Dr",69172726,-84.428123,33.753484,9263395,True,False,,,
+"Burbank Dr × Martin Luther King, Jr. Dr",69172726,-84.428123,33.753484,1380596299,True,False,,,
+"Burbank Dr × Martin Luther King, Jr. Dr",69172726,-84.428123,33.753484,1380596300,True,True,2,1,3
+"Burbank Dr × Martin Luther King, Jr. Dr",69172726,-84.428123,33.753484,1021929451,True,False,,,
+Campbellton Rd × Kenilworth Dr,69225333,-84.4341847,33.7144884,9269564,True,False,,,
+Campbellton Rd × Kenilworth Dr,69225333,-84.4341847,33.7144884,571210844,True,False,,,
+Campbellton Rd × Kenilworth Dr,69225333,-84.4341847,33.7144884,571210845,True,False,,,
+Campbellton Rd × Kenilworth Dr,69225333,-84.4341847,33.7144884,629735902,True,False,,,
+Campbellton Rd × Dill Av,69310560,-84.4251963,33.7182043,119972414,True,True,3,2,5
+Campbellton Rd × Dill Av,69310560,-84.4251963,33.7182043,629328990,True,False,,,
+Campbellton Rd × Dill Av,69310560,-84.4251963,33.7182043,630401521,True,True,3,2,5
+Campbellton Rd × Dill Av,69310560,-84.4251963,33.7182043,764120555,True,True,3,2,5
+Campbellton Rd × Oakland Av,69357548,-84.427446,33.717586,9255938,True,False,,,
+Campbellton Rd × Oakland Av,69357548,-84.427446,33.717586,9255938,True,False,,,
+Campbellton Rd × Oakland Av,69357548,-84.427446,33.717586,571210845,True,False,,,
+Campbellton Rd × Oakland Av,69357548,-84.427446,33.717586,571210845,True,False,,,
+Capitol Ave × Clarke St,69573609,-84.3877754,33.7431168,9275834,True,False,,,
+Capitol Ave × Clarke St,69573609,-84.3877754,33.7431168,28704966,False,False,,,
+Capitol Ave × Clarke St,69573609,-84.3877754,33.7431168,1022183584,True,False,,,
+Capitol Ave × Clarke St,69573609,-84.3877754,33.7431168,1314608654,True,True,3,3,6
+"Capitol Ave × Martin Luther King, Jr. Dr",69167153,-84.387283,33.7493633,9240814,False,False,,,4
+"Capitol Ave × Martin Luther King, Jr. Dr",69167153,-84.387283,33.7493633,9272764,False,False,,,3
+"Capitol Ave × Martin Luther King, Jr. Dr",69167153,-84.387283,33.7493633,579586365,False,True,,,5
+"Capitol Ave × Martin Luther King, Jr. Dr",69167153,-84.387283,33.7493633,849819590,False,True,,,4
+Caroline St × Moreland Av,69465833,-84.349134,33.7584547,243822810,False,False,,,2
+Caroline St × Moreland Av,69465833,-84.349134,33.7584547,563540043,True,False,,,
+Caroline St × Moreland Av,69465833,-84.349134,33.7584547,591826245,True,False,,,
+Caroline St × Moreland Av,69465833,-84.349134,33.7584547,1053243797,False,True,,,3
+Cascade Ave × Donnelly Av,69202420,-84.435312,33.738057,9272750,True,False,,,
+Cascade Ave × Donnelly Av,69202420,-84.435312,33.738057,9254028,True,False,,,
+Cascade Ave × Donnelly Av,69202420,-84.435312,33.738057,1309550372,True,False,,,
+Cascade Ave × Donnelly Av,69202420,-84.435312,33.738057,1309550372,True,False,,,
+Cascade Ave × Richland Rd,69202452,-84.4391513,33.7315175,506760207,True,False,,,
+Cascade Ave × Richland Rd,69202452,-84.4391513,33.7315175,506760207,True,False,,,
+Cascade Ave × Richland Rd,69202452,-84.4391513,33.7315175,9264760,False,False,,,
+Cascade Ave × Richland Rd,69202452,-84.4391513,33.7315175,611193966,True,False,,,
+Centennial Olympic Park Dr × Mills St,69097091,-84.391904,33.765318,340371475,True,False,,,4
+Centennial Olympic Park Dr × Mills St,69097091,-84.391904,33.765318,340371475,True,False,,,4
+Centennial Olympic Park Dr × Mills St,69097091,-84.391904,33.765318,440963232,True,False,,,
+Centennial Olympic Park Dr × Mills St,69097091,-84.391904,33.765318,1064344689,False,False,,,
+Central Ave × Decatur St,5006641311,-84.387635,33.753117,133114909,True,False,1,1,2
+Central Ave × Decatur St,5006641311,-84.387635,33.753117,533820012,True,False,,,
+Central Ave × Decatur St,5006641311,-84.387635,33.753117,1031935808,False,False,,,3
+Central Ave × Decatur St,5006641311,-84.387635,33.753117,1046207259,False,True,,,4
+"Central Ave × Martin Luther King, Jr. Dr",69167148,-84.3898561,33.7507996,630644331,False,False,,,4
+"Central Ave × Martin Luther King, Jr. Dr",69167148,-84.3898561,33.7507996,580808689,False,False,,,4
+"Central Ave × Martin Luther King, Jr. Dr",69167148,-84.3898561,33.7507996,630697023,False,True,,,4
+"Central Ave × Martin Luther King, Jr. Dr",69167148,-84.3898561,33.7507996,1052597162,False,True,,,5
+Georgia Ave × Grant St,69348365,-84.376467,33.736654,740745979,True,False,,,4
+Georgia Ave × Grant St,69348365,-84.376467,33.736654,740745979,True,False,,,4
+Georgia Ave × Grant St,69348365,-84.376467,33.736654,276656205,True,False,,,
+Georgia Ave × Grant St,69348365,-84.376467,33.736654,1078805776,False,True,,,2
+Georgia Ave × Hill St,69348362,-84.378412,33.736716,276656208,False,False,,,
+Georgia Ave × Hill St,69348362,-84.378412,33.736716,116893474,True,False,,,
+Georgia Ave × Hill St,69348362,-84.378412,33.736716,740745979,True,False,,,4
+Georgia Ave × Hill St,69348362,-84.378412,33.736716,740745979,True,False,,,4
+Gilmer St × Piedmont Av,5006647222,-84.3841565,33.7526352,580342814,True,False,,,
+Gilmer St × Piedmont Av,5006647222,-84.3841565,33.7526352,580342814,True,False,,,
+Gilmer St × Piedmont Av,5006647222,-84.3841565,33.7526352,630644332,False,False,,,3
+Gilmer St × Piedmont Av,5006647222,-84.3841565,33.7526352,630644332,False,False,,,3
+Glen Iris Dr × North Av,69256301,-84.367699,33.77113,9275841,True,False,1,1,2
+Glen Iris Dr × North Av,69256301,-84.367699,33.77113,431571136,True,True,3,3,6
+Glen Iris Dr × North Av,69256301,-84.367699,33.77113,630643914,True,False,1,1,2
+Glen Iris Dr × North Av,69256301,-84.367699,33.77113,1302205175,True,True,3,2,5
+Glen Iris Dr × Ponce De Leon Av,69436118,-84.367646,33.773502,630643914,True,False,1,1,2
+Glen Iris Dr × Ponce De Leon Av,69436118,-84.367646,33.773502,1198213108,True,False,,,
+Glen Iris Dr × Ponce De Leon Av,69436118,-84.367646,33.773502,1301760754,True,True,3,2,5
+Glen Iris Dr × Ponce De Leon Av,69436118,-84.367646,33.773502,1301760755,True,True,3,2,5
+Glen Iris Dr × Ralph McGill Boulevard,69465418,-84.367804,33.763952,28688645,True,False,,,
+Glen Iris Dr × Ralph McGill Boulevard,69465418,-84.367804,33.763952,630643907,True,False,,,
+Glen Iris Dr × Ralph McGill Boulevard,69465418,-84.367804,33.763952,630643911,True,False,,,
+Glen Iris Dr × Ralph McGill Boulevard,69465418,-84.367804,33.763952,1436907660,True,True,2,1,3
+Glenn St × Pryor St,69208027,-84.394581,33.738073,307098113,False,False,,,3
+Glenn St × Pryor St,69208027,-84.394581,33.738073,307098113,False,False,,,3
+Glenn St × Pryor St,69208027,-84.394581,33.738073,629305945,True,False,,,
+Glenn St × Pryor St,69208027,-84.394581,33.738073,629305945,True,False,,,
+Glenwood Ave × Bill Kennedy Way,69221903,-84.3582129,33.7397632,46184490,True,False,,,
+Glenwood Ave × Bill Kennedy Way,69221903,-84.3582129,33.7397632,569963840,True,False,,,
+Glenwood Ave × Bill Kennedy Way,69221903,-84.3582129,33.7397632,1069927558,True,False,,,
+Glenwood Ave × Bill Kennedy Way,69221903,-84.3582129,33.7397632,1076011346,True,False,,,
+Glenn St × McDaniel St,69208049,-84.401633,33.738137,9245036,True,False,1,1,2
+Glenn St × McDaniel St,69208049,-84.401633,33.738137,257518317,True,False,,,
+Glenn St × McDaniel St,69208049,-84.401633,33.738137,1118685136,True,False,,,
+Glenn St × McDaniel St,69208049,-84.401633,33.738137,1573534265,True,False,1,1,2
+Glenwood Ave × Hill St,69103961,-84.3793206,33.7428069,9234970,False,False,,,2
+Glenwood Ave × Hill St,69103961,-84.3793206,33.7428069,38944616,True,False,,,
+Glenwood Ave × Hill St,69103961,-84.3793206,33.7428069,116893472,True,False,,,
+Glenwood Ave × Hill St,69103961,-84.3793206,33.7428069,116893475,True,False,,,
+Glenwood Ave × Moreland Av,69221929,-84.3492506,33.7402407,1074992992,True,True,3,2,5
+Glenwood Ave × Moreland Av,69221929,-84.3492506,33.7402407,1074992993,True,True,3,2,5
+Glenwood Ave × Moreland Av,69221929,-84.3492506,33.7402407,1118666701,True,False,,,
+Glenwood Ave × Moreland Av,69221929,-84.3492506,33.7402407,1416945185,True,True,2,1,3
+Greensferry Ave × McDaniel St,69363537,-84.4065763,33.7462706,9256575,True,False,,,6
+Greensferry Ave × McDaniel St,69363537,-84.4065763,33.7462706,9263654,True,False,1,1,2
+Greensferry Ave × McDaniel St,69363537,-84.4065763,33.7462706,119948081,True,False,,,6
+Greensferry Ave × McDaniel St,69363537,-84.4065763,33.7462706,186649995,True,False,,,
+Harris St × Spring St,69462049,-84.3890539,33.7609928,631165847,False,False,,,4
+Harris St × Spring St,69462049,-84.3890539,33.7609928,9264876,False,False,,,4
+Harris St × Spring St,69462049,-84.3890539,33.7609928,631165844,False,False,,,4
+Harris St × Spring St,69462049,-84.3890539,33.7609928,1391634234,False,False,,,4
+Harris St × Peachtree Center Av,69381940,-84.38604,33.760966,9264594,False,False,,,3
+Harris St × Peachtree Center Av,69381940,-84.38604,33.760966,1038713473,False,False,,,2
+Harris St × Peachtree Center Av,69381940,-84.38604,33.760966,1038713474,False,False,,,3
+Harris St × Peachtree Center Av,69381940,-84.38604,33.760966,1038713475,False,True,,,3
+Harris St × Peachtree St,69245189,-84.3875672,33.7609861,9247536,True,False,,,4
+Harris St × Peachtree St,69245189,-84.3875672,33.7609861,9264876,False,False,,,4
+Harris St × Peachtree St,69245189,-84.3875672,33.7609861,563984030,True,False,,,4
+Harris St × Peachtree St,69245189,-84.3875672,33.7609861,1038713474,False,False,,,3
+Harris St × Piedmont Av,69112671,-84.382162,33.7609005,9235483,False,False,,,1
+Harris St × Piedmont Av,69112671,-84.382162,33.7609005,782638784,False,False,,,4
+Harris St × Piedmont Av,69112671,-84.382162,33.7609005,953286019,False,True,,,3
+Harris St × Piedmont Av,69112671,-84.382162,33.7609005,1117890729,False,False,,,4
+Hemphill Ave × 10Th St,69466956,-84.4041962,33.7815401,310449468,True,False,1,1,2
+Hemphill Ave × 10Th St,69466956,-84.4041962,33.7815401,361218258,True,False,,,4
+Hemphill Ave × 10Th St,69466956,-84.4041962,33.7815401,370317313,True,False,,,4
+Hemphill Ave × 10Th St,69466956,-84.4041962,33.7815401,370317315,True,False,,,
+Highland Ave × Jackson St,69207155,-84.3742796,33.7613885,169957935,True,False,,,
+Highland Ave × Jackson St,69207155,-84.3742796,33.7613885,630643899,True,False,,,
+Highland Ave × Jackson St,69207155,-84.3742796,33.7613885,1377702463,True,False,,,
+Highland Ave × Jackson St,69207155,-84.3742796,33.7613885,1380609765,True,True,2,1,3
+Hill St × Memorial Dr,69502150,-84.3793174,33.7468536,9267785,True,False,,,4
+Hill St × Memorial Dr,69502150,-84.3793174,33.7468536,630048322,True,False,,,4
+Hill St × Memorial Dr,69502150,-84.3793174,33.7468536,1322052285,True,True,2,1,3
+Hill St × Memorial Dr,69502150,-84.3793174,33.7468536,1330698139,True,True,3,1,4
+Hill St × Woodward Av,69466672,-84.3793082,33.745603,9267785,True,False,,,4
+Hill St × Woodward Av,69466672,-84.3793082,33.745603,9267785,True,False,,,4
+Hill St × Woodward Av,69466672,-84.3793082,33.745603,1466964835,True,False,,,
+Hill St × Woodward Av,69466672,-84.3793082,33.745603,1466964836,True,False,,,
+"Hill St × Martin Luther King, Jr. Dr",69167191,-84.379564,33.747396,562938287,True,False,,,
+"Hill St × Martin Luther King, Jr. Dr",69167191,-84.379564,33.747396,581519695,True,False,,,4
+"Hill St × Martin Luther King, Jr. Dr",69167191,-84.379564,33.747396,630048322,True,False,,,4
+"Hill St × Martin Luther King, Jr. Dr",69167191,-84.379564,33.747396,1383699747,True,True,2,2,4
+Holderness St × Lucile Av,69426883,-84.427121,33.742315,181272943,True,False,,,
+Holderness St × Lucile Av,69426883,-84.427121,33.742315,181272943,True,False,,,
+Holderness St × Lucile Av,69426883,-84.427121,33.742315,9264368,True,False,,,
+Holderness St × Lucile Av,69426883,-84.427121,33.742315,9264368,True,False,,,
+Holly Rd × Simpson Rd,69436691,-84.437693,33.763568,630644092,True,False,,,
+Holly Rd × Simpson Rd,69436691,-84.437693,33.763568,9263607,True,False,,,
+Holly Rd × Simpson Rd,69436691,-84.437693,33.763568,9273951,True,False,,,
+Holly Rd × Simpson Rd,69436691,-84.437693,33.763568,506799392,True,False,,,
+Howell Mill Rd × Huff Rd,69310874,-84.4118299,33.7877787,61853321,True,False,,,
+Howell Mill Rd × Huff Rd,69310874,-84.4118299,33.7877787,169927465,True,False,2,1,3
+Howell Mill Rd × Huff Rd,69310874,-84.4118299,33.7877787,361830071,True,True,2,2,4
+Howell Mill Rd × Huff Rd,69310874,-84.4118299,33.7877787,1024267052,True,False,,,
+Howell Mill Rd × 10Th St,69340214,-84.4111502,33.781578,9254778,True,False,,,
+Howell Mill Rd × 10Th St,69340214,-84.4111502,33.781578,30873166,True,False,,,
+Howell Mill Rd × 10Th St,69340214,-84.4111502,33.781578,360563384,True,True,2,2,4
+Howell Mill Rd × 10Th St,69340214,-84.4111502,33.781578,1459498107,True,True,2,1,3
+Huff Rd × Marietta Boulevard,3370843972,-84.4282242,33.7885282,143557662,False,True,,,3
+Huff Rd × Marietta Boulevard,3370843972,-84.4282242,33.7885282,169927466,False,False,,,2
+Huff Rd × Marietta Boulevard,3370843972,-84.4282242,33.7885282,169927467,True,False,,,
+Huff Rd × Marietta Boulevard,3370843972,-84.4282242,33.7885282,340371478,True,False,,,
+Faith Ave × McPherson Av,69306766,-84.3492143,33.7433244,9251507,True,False,,,
+Faith Ave × McPherson Av,69306766,-84.3492143,33.7433244,629278148,True,False,,,
+Faith Ave × McPherson Av,69306766,-84.3492143,33.7433244,629278150,True,True,3,2,5
+Faith Ave × McPherson Av,69306766,-84.3492143,33.7433244,1074992994,True,True,3,2,5
+Mary St × McDaniel St,69601639,-84.401616,33.729311,9273596,True,False,,,
+Mary St × McDaniel St,69601639,-84.401616,33.729311,9273596,True,False,,,
+Mary St × McDaniel St,69601639,-84.401616,33.729311,507009475,True,False,,,
+Mary St × McDaniel St,69601639,-84.401616,33.729311,507009475,True,False,,,
+North Ave × Parkway Dr,69207205,-84.372781,33.77118,9244993,True,False,,,
+North Ave × Parkway Dr,69207205,-84.372781,33.77118,1377742946,True,False,,,
+North Ave × Parkway Dr,69207205,-84.372781,33.77118,1377742947,True,True,3,2,5
+North Ave × Parkway Dr,69207205,-84.372781,33.77118,1377787205,True,False,,,6
+North Ave × West Lake Av,69259053,-84.441011,33.768048,9248450,True,False,,,
+North Ave × West Lake Av,69259053,-84.441011,33.768048,9248450,True,False,,,
+North Ave × West Lake Av,69259053,-84.441011,33.768048,630644089,True,False,,,
+North Ave × West Lake Av,69259053,-84.441011,33.768048,630644089,True,False,,,
+Joseph E Boone Blvd NW × Sunset Av,69525888,-84.410004,33.763435,9268983,True,False,,,
+Joseph E Boone Blvd NW × Sunset Av,69525888,-84.410004,33.763435,1301982888,True,False,,,
+Joseph E Boone Blvd NW × Sunset Av,69525888,-84.410004,33.763435,1301982888,True,False,,,
+Joseph E Boone Blvd NW × Sunset Av,69525888,-84.410004,33.763435,1573533956,True,False,,,
+State St × 10Th St,69159083,-84.3991442,33.781508,62605955,True,True,,,3
+State St × 10Th St,69159083,-84.3991442,33.781508,116941052,True,False,,,
+State St × 10Th St,69159083,-84.3991442,33.781508,370317313,True,False,,,4
+State St × 10Th St,69159083,-84.3991442,33.781508,422302241,True,False,,,4
+Alvarado Terrace × Beecher St,69283966,-84.441401,33.733673,9274325,True,False,,,
+Alvarado Terrace × Beecher St,69283966,-84.441401,33.733673,9250251,True,False,,,
+Alvarado Terrace × Beecher St,69283966,-84.441401,33.733673,1490471889,True,False,,,
+Alvarado Terrace × Beecher St,69283966,-84.441401,33.733673,1490471889,True,False,,,
+Bishop St × Northside Dr,1278582058,-84.4078596,33.7912537,112508099,False,False,,,
+Bishop St × Northside Dr,1278582058,-84.4078596,33.7912537,361218262,False,True,,,3
+Bishop St × Northside Dr,1278582058,-84.4078596,33.7912537,361218264,False,True,,,3
+Bishop St × Northside Dr,1278582058,-84.4078596,33.7912537,533140869,False,False,,,2
+Bishop St × 17th St,1278558749,-84.405649,33.7915941,1051747987,False,True,,,3
+Bishop St × 17th St,1278558749,-84.405649,33.7915941,1051747988,False,False,,,3
+Bishop St × 17th St,1278558749,-84.405649,33.7915941,1114817996,True,False,,,
+Bishop St × 17th St,1278558749,-84.405649,33.7915941,1571408911,True,True,2,1,3
+Boulevard × East Av,69146722,-84.371972,33.763233,9268922,True,False,,,
+Boulevard × East Av,69146722,-84.371972,33.763233,794486668,True,False,,,
+Boulevard × East Av,69146722,-84.371972,33.763233,1075611867,True,False,,,4
+Boulevard × East Av,69146722,-84.371972,33.763233,1377757260,True,True,3,2,5
+Boulevard × I-20 W/B Ramps,69117451,-84.36813,33.743925,181272988,False,False,,,2
+Boulevard × I-20 W/B Ramps,69117451,-84.36813,33.743925,629238168,True,True,4,3,7
+Boulevard × I-20 W/B Ramps,69117451,-84.36813,33.743925,957420235,False,True,,,3
+Boulevard × I-20 W/B Ramps,69117451,-84.36813,33.743925,1111502809,True,False,3,2,5
+Boulevard × North Av,69146775,-84.371773,33.771176,1075611867,True,False,,,4
+Boulevard × North Av,69146775,-84.371773,33.771176,630048364,True,False,,,4
+Boulevard × North Av,69146775,-84.371773,33.771176,1110254886,True,True,3,2,5
+Boulevard × North Av,69146775,-84.371773,33.771176,1377410965,True,True,3,2,5
+Hank Aaron Dr × Ralph David Abernathy Boulevard,69348334,-84.387872,33.736843,341475321,True,False,,,
+Hank Aaron Dr × Ralph David Abernathy Boulevard,69348334,-84.387872,33.736843,88171813,True,False,,,
+Hank Aaron Dr × Ralph David Abernathy Boulevard,69348334,-84.387872,33.736843,563546416,True,True,3,2,5
+Hank Aaron Dr × Ralph David Abernathy Boulevard,69348334,-84.387872,33.736843,978461725,True,False,,,
+Hank Aaron Dr × Ormond St,69478120,-84.387933,33.731748,9266858,True,False,,,
+Hank Aaron Dr × Ormond St,69478120,-84.387933,33.731748,341475321,True,False,,,
+Hank Aaron Dr × Ormond St,69478120,-84.387933,33.731748,629305942,True,False,,,
+Hank Aaron Dr × Ormond St,69478120,-84.387933,33.731748,1026918501,False,False,,,1
+Hank Aaron Dr × Haygood Av,69251980,-84.388032,33.726565,9247972,True,False,,,
+Hank Aaron Dr × Haygood Av,69251980,-84.388032,33.726565,9248249,True,False,,,
+Hank Aaron Dr × Haygood Av,69251980,-84.388032,33.726565,276656212,True,False,,,
+Hank Aaron Dr × Haygood Av,69251980,-84.388032,33.726565,276656212,True,False,,,
+Hank Aaron Dr × Milton Av,69189774,-84.388063,33.72501,9275196,True,False,,,
+Hank Aaron Dr × Milton Av,69189774,-84.388063,33.72501,9243504,True,False,,,
+Hank Aaron Dr × Milton Av,69189774,-84.388063,33.72501,9272363,True,False,2,2,4
+Hank Aaron Dr × Milton Av,69189774,-84.388063,33.72501,276656212,True,False,,,
+Capitol Ave × Mitchell St,5411837870,-84.3876809,33.7480082,561203362,True,True,2,1,3
+Capitol Ave × Mitchell St,5411837870,-84.3876809,33.7480082,564348420,False,False,,,
+Capitol Ave × Mitchell St,5411837870,-84.3876809,33.7480082,564348423,True,True,3,3,6
+Capitol Ave × Mitchell St,5411837870,-84.3876809,33.7480082,631165846,False,False,,,2
+Capitol Square × Mitchell St,69171473,-84.3893423,33.7489226,9264609,False,False,,,3
+Capitol Square × Mitchell St,69171473,-84.3893423,33.7489226,54032749,False,False,,,3
+Capitol Square × Mitchell St,69171473,-84.3893423,33.7489226,631165781,False,False,,,3
+Capitol Square × Mitchell St,69171473,-84.3893423,33.7489226,755543598,False,True,,,3
+Carnegie Way × Spring St,3582046260,-84.3894507,33.7592623,179318683,False,False,,,4
+Carnegie Way × Spring St,3582046260,-84.3894507,33.7592623,179318683,False,False,,,4
+Carnegie Way × Spring St,3582046260,-84.3894507,33.7592623,9275861,True,False,,,
+Carnegie Way × Spring St,3582046260,-84.3894507,33.7592623,9275861,True,False,,,
+Cone St × Marietta St,12882839494,-84.3920775,33.7564854,169927473,False,False,,,2
+Cone St × Marietta St,12882839494,-84.3920775,33.7564854,586590164,True,False,,,
+Cone St × Marietta St,12882839494,-84.3920775,33.7564854,1049618695,False,False,,,3
+Cone St × Marietta St,12882839494,-84.3920775,33.7564854,1391762882,True,False,,,
+Courtland St × Harris St,69342313,-84.38419,33.7609421,9264594,False,False,,,3
+Courtland St × Harris St,69342313,-84.38419,33.7609421,630697025,False,False,,,3
+Courtland St × Harris St,69342313,-84.38419,33.7609421,931393876,False,False,,,5
+Courtland St × Harris St,69342313,-84.38419,33.7609421,1376879126,False,False,,,5
+Decatur St × Edgewood Av,69515924,-84.3897927,33.7543241,9269828,True,False,,,4
+Decatur St × Edgewood Av,69515924,-84.3897927,33.7543241,9272323,True,False,,,4
+Decatur St × Edgewood Av,69515924,-84.3897927,33.7543241,54032752,True,False,,,4
+Decatur St × Edgewood Av,69515924,-84.3897927,33.7543241,422711474,True,False,,,
+Dekalb Ave × Krog St,6016411377,-84.3638707,33.7535152,9267901,True,False,,,
+Dekalb Ave × Krog St,6016411377,-84.3638707,33.7535152,44062160,True,False,1,1,2
+Dekalb Ave × Krog St,6016411377,-84.3638707,33.7535152,1378256293,True,True,2,1,3
+Dekalb Ave × Krog St,6016411377,-84.3638707,33.7535152,1378258205,True,True,2,1,3
+15Th St × West Peachtree St,69232946,-84.3877878,33.788566,73229536,False,False,,,5
+15Th St × West Peachtree St,69232946,-84.3877878,33.788566,73229547,True,False,,,4
+15Th St × West Peachtree St,69232946,-84.3877878,33.788566,631611891,False,False,,,5
+15Th St × West Peachtree St,69232946,-84.3877878,33.788566,1554667770,True,True,2,1,3
+5Th St × Spring St,69537537,-84.388793,33.776842,9269465,True,False,1,1,2
+5Th St × Spring St,69537537,-84.388793,33.776842,233974204,True,False,1,1,2
+5Th St × Spring St,69537537,-84.388793,33.776842,234013260,False,True,,,4
+5Th St × Spring St,69537537,-84.388793,33.776842,1103152009,False,False,,,4
+5Th St × Juniper St,69531971,-84.38296,33.776049,9269230,True,False,1,1,2
+5Th St × Juniper St,69531971,-84.38296,33.776049,9269230,True,False,1,1,2
+5Th St × Juniper St,69531971,-84.38296,33.776049,435349852,False,False,,,
+5Th St × Juniper St,69531971,-84.38296,33.776049,435349852,False,False,,,
+5Th St × Piedmont Av,69531973,-84.381447,33.775947,9269230,True,False,1,1,2
+5Th St × Piedmont Av,69531973,-84.381447,33.775947,44450079,True,False,,,
+5Th St × Piedmont Av,69531973,-84.381447,33.775947,547651109,False,False,,,3
+5Th St × Piedmont Av,69531973,-84.381447,33.775947,547651109,False,False,,,3
+5Th St × Techwood Dr,69350037,-84.3921012,33.7769008,26800206,True,True,2,1,3
+5Th St × Techwood Dr,69350037,-84.3921012,33.7769008,144425184,True,True,2,1,3
+5Th St × Techwood Dr,69350037,-84.3921012,33.7769008,179234387,True,False,,,
+5Th St × Techwood Dr,69350037,-84.3921012,33.7769008,310449475,True,False,,,
+5Th St/ Ferst Dr × Fowler St,69168363,-84.393635,33.776929,179234386,True,True,2,1,3
+5Th St/ Ferst Dr × Fowler St,69168363,-84.393635,33.776929,311764288,True,True,2,1,3
+5Th St/ Ferst Dr × Fowler St,69168363,-84.393635,33.776929,311764289,True,True,2,1,3
+5Th St/ Ferst Dr × Fowler St,69168363,-84.393635,33.776929,311764290,True,True,2,1,3
+Flat Shoals Ave × Glenwood Av,68196085,-84.345374,33.7401395,563545373,True,False,,,
+Flat Shoals Ave × Glenwood Av,68196085,-84.345374,33.7401395,563545374,True,False,,,
+Flat Shoals Ave × Glenwood Av,68196085,-84.345374,33.7401395,563545376,True,False,,,
+Flat Shoals Ave × Glenwood Av,68196085,-84.345374,33.7401395,586591018,True,False,,,
+Fletcher St × McDaniel St,69563008,-84.401628,33.725685,9270660,True,False,,,
+Fletcher St × McDaniel St,69563008,-84.401628,33.725685,9270660,True,False,,,
+Fletcher St × McDaniel St,69563008,-84.401628,33.725685,507009475,True,False,,,
+Fletcher St × McDaniel St,69563008,-84.401628,33.725685,507009475,True,False,,,
+Forsyth St × Luckie St,1245732604,-84.3890623,33.7568444,9247887,True,False,,,
+Forsyth St × Luckie St,1245732604,-84.3890623,33.7568444,9247887,True,False,,,
+Forsyth St × Luckie St,1245732604,-84.3890623,33.7568444,525613162,True,False,,,4
+Forsyth St × Luckie St,1245732604,-84.3890623,33.7568444,525613162,True,False,,,4
+Forsyth St × Marietta St,69336804,-84.3910302,33.7554632,133115036,False,False,,,2
+Forsyth St × Marietta St,69336804,-84.3910302,33.7554632,169926093,True,False,,,
+Forsyth St × Marietta St,69336804,-84.3910302,33.7554632,169927473,False,False,,,2
+Forsyth St × Marietta St,69336804,-84.3910302,33.7554632,586615259,True,False,,,4
+Forsyth St × Trinity Av,69195683,-84.3951726,33.750548,169926081,True,False,,,4
+Forsyth St × Trinity Av,69195683,-84.3951726,33.750548,234939833,True,True,2,1,3
+Forsyth St × Trinity Av,69195683,-84.3951726,33.750548,629305952,True,False,,,4
+Forsyth St × Trinity Av,69195683,-84.3951726,33.750548,1322116830,True,True,2,1,3
+Forsyth St × Walton St,69336800,-84.3903063,33.7559647,9270508,False,False,,,
+Forsyth St × Walton St,69336800,-84.3903063,33.7559647,586615259,True,False,,,4
+Forsyth St × Walton St,69336800,-84.3903063,33.7559647,525613162,True,False,,,4
+Forsyth St × Walton St,69336800,-84.3903063,33.7559647,609203307,False,False,,,
+Fort St × Irwin St & I-75/85 Northbound Ramp,69267591,-84.3779175,33.7577333,9249234,False,False,,,
+Fort St × Irwin St & I-75/85 Northbound Ramp,69267591,-84.3779175,33.7577333,9276431,True,False,,,
+Fort St × Irwin St & I-75/85 Northbound Ramp,69267591,-84.3779175,33.7577333,9276431,True,False,,,
+Fort St × Irwin St & I-75/85 Northbound Ramp,69267591,-84.3779175,33.7577333,28686579,False,False,,,2
+14Th St × Spring St,69424999,-84.3892454,33.7866997,9261737,False,False,,,2
+14Th St × Spring St,69424999,-84.3892454,33.7866997,48663357,False,False,,,2
+14Th St × Spring St,69424999,-84.3892454,33.7866997,629238143,False,False,,,4
+14Th St × Spring St,69424999,-84.3892454,33.7866997,711988183,False,True,,,4
+14th St × Hemphill Av,3650929427,-84.40738,33.7862348,360576963,False,False,,,2
+14th St × Hemphill Av,3650929427,-84.40738,33.7862348,360576964,False,True,,,3
+14th St × Hemphill Av,3650929427,-84.40738,33.7862348,629278073,True,False,,,4
+14th St × Hemphill Av,3650929427,-84.40738,33.7862348,1466674243,True,False,,,4
+14Th St × Williams St,69425001,-84.390425,33.7867016,1111314667,False,True,,,3
+14Th St × Williams St,69425001,-84.390425,33.7867016,311764312,False,False,,,2
+14Th St × Williams St,69425001,-84.390425,33.7867016,711988181,False,False,,,3
+14Th St × Williams St,69425001,-84.390425,33.7867016,1059205200,False,False,,,3
+14Th St × Techwood Dr,69349875,-84.3919398,33.7867123,9261759,False,False,,,2
+14Th St × Techwood Dr,69349875,-84.3919398,33.7867123,28038323,False,True,,,3
+14Th St × Techwood Dr,69349875,-84.3919398,33.7867123,73325900,False,False,,,
+14Th St × Techwood Dr,69349875,-84.3919398,33.7867123,968808052,False,True,,,4
+14Th St × West Peachtree St,69372826,-84.3878096,33.7866957,9261039,False,False,,,2
+14Th St × West Peachtree St,69372826,-84.3878096,33.7866957,9261737,False,False,,,2
+14Th St × West Peachtree St,69372826,-84.3878096,33.7866957,73229536,False,False,,,5
+14Th St × West Peachtree St,69372826,-84.3878096,33.7866957,629238142,False,False,,,4
+14Th St × State St,69159103,-84.3987361,33.786193,63063091,True,False,1,1,2
+14Th St × State St,69159103,-84.3987361,33.786193,116941052,True,False,,,
+14Th St × State St,69159103,-84.3987361,33.786193,1018536297,True,False,,,4
+14Th St × State St,69159103,-84.3987361,33.786193,1018536297,True,False,,,4
+Fowler St × 10Th St,69189231,-84.3935719,33.7815092,311764291,True,False,,,
+Fowler St × 10Th St,69189231,-84.3935719,33.7815092,311764286,True,False,,,4
+Fowler St × 10Th St,69189231,-84.3935719,33.7815092,561114325,False,False,,,
+Fowler St × 10Th St,69189231,-84.3935719,33.7815092,629787514,True,True,3,2,5
+Fraser St × Georgia Av,69348344,-84.386338,33.736827,276659597,False,False,,,
+Fraser St × Georgia Av,69348344,-84.386338,33.736827,9267911,True,False,,,
+Fraser St × Georgia Av,69348344,-84.386338,33.736827,88171813,True,False,,,
+Fraser St × Georgia Av,69348344,-84.386338,33.736827,276659598,True,False,1,1,2
+Freedom Parkway × North Highland Av,320026877,-84.3525309,33.7690462,525613029,False,False,,,1
+Freedom Parkway × North Highland Av,320026877,-84.3525309,33.7690462,525613030,True,False,,,
+Freedom Parkway × North Highland Av,320026877,-84.3525309,33.7690462,1075611853,False,True,,,2
+Freedom Parkway × North Highland Av,320026877,-84.3525309,33.7690462,1075611854,True,True,2,1,3
+Freedom Parkway × North Av,69256320,-84.359528,33.771093,9269290,False,False,,,2
+Freedom Parkway × North Av,69256320,-84.359528,33.771093,9275173,False,False,,,2
+Freedom Parkway × North Av,69256320,-84.359528,33.771093,1075611862,True,True,2,1,3
+Freedom Parkway × North Av,69256320,-84.359528,33.771093,1075611864,True,False,,,
+Freedom Parkway × Ralph McGill Boulevard,4510476479,-84.358608,33.76825,182487371,True,False,1,1,2
+Freedom Parkway × Ralph McGill Boulevard,4510476479,-84.358608,33.76825,630644293,False,False,,,2
+Freedom Parkway × Ralph McGill Boulevard,4510476479,-84.358608,33.76825,1075611856,True,True,2,1,3
+Freedom Parkway × Ralph McGill Boulevard,4510476479,-84.358608,33.76825,1075611857,False,False,,,2
+Fulton St × Pryor St,69326333,-84.3945144,33.7419441,561774333,True,False,,,
+Fulton St × Pryor St,69326333,-84.3945144,33.7419441,604430152,True,True,3,2,5
+Fulton St × Pryor St,69326333,-84.3945144,33.7419441,630778918,False,False,,,4
+Fulton St × Pryor St,69326333,-84.3945144,33.7419441,630778918,False,False,,,4
+Fulton St × McDaniel St,69623648,-84.40294,33.741584,175629415,True,False,,,
+Fulton St × McDaniel St,69623648,-84.40294,33.741584,175629415,True,False,,,
+Fulton St × McDaniel St,69623648,-84.40294,33.741584,257518317,True,False,,,
+Fulton St × McDaniel St,69623648,-84.40294,33.741584,563540325,True,False,,,
+Fulton St × Windsor St,69364051,-84.398232,33.741975,175629415,True,False,,,
+Fulton St × Windsor St,69364051,-84.398232,33.741975,175629415,True,False,,,
+Fulton St × Windsor St,69364051,-84.398232,33.741975,370386301,True,False,,,
+Fulton St × Windsor St,69364051,-84.398232,33.741975,370386301,True,False,,,
+Gennessee Ave × Lynnhaven Dr,69364133,-84.407876,33.716203,9256683,True,False,,,
+Gennessee Ave × Lynnhaven Dr,69364133,-84.407876,33.716203,9257428,True,False,,,
+Gennessee Ave × Lynnhaven Dr,69364133,-84.407876,33.716203,630401522,True,False,2,2,4
+Gennessee Ave × Lynnhaven Dr,69364133,-84.407876,33.716203,630401522,True,False,2,2,4
+Georgia Ave × Martin St,69348347,-84.384119,33.736791,276656357,False,False,,,
+Georgia Ave × Martin St,69348347,-84.384119,33.736791,276656358,True,False,,,
+Georgia Ave × Martin St,69348347,-84.384119,33.736791,276659598,True,False,1,1,2
+Georgia Ave × Martin St,69348347,-84.384119,33.736791,805295305,True,False,,,
+Joseph Lowery Boulevard × Lena St,69190052,-84.4175208,33.75662,629329058,True,False,,,
+Joseph Lowery Boulevard × Lena St,69190052,-84.4175208,33.75662,9250303,True,False,,,
+Joseph Lowery Boulevard × Lena St,69190052,-84.4175208,33.75662,629329057,True,False,,,
+Joseph Lowery Boulevard × Lena St,69190052,-84.4175208,33.75662,1377971583,True,True,2,2,4
+Ponce De Leon Ave × West Peachtree St,69372785,-84.3873528,33.7723184,44450082,False,False,,,4
+Ponce De Leon Ave × West Peachtree St,69372785,-84.3873528,33.7723184,311764308,False,False,,,4
+Ponce De Leon Ave × West Peachtree St,69372785,-84.3873528,33.7723184,629238278,True,True,2,1,3
+Ponce De Leon Ave × West Peachtree St,69372785,-84.3873528,33.7723184,1547804723,True,False,1,1,2
+Ponce De Leon Ave × Ponce De Leon Place,69436162,-84.3637094,33.7735953,9270016,True,False,,,
+Ponce De Leon Ave × Ponce De Leon Place,69436162,-84.3637094,33.7735953,9277776,True,False,,,
+Ponce De Leon Ave × Ponce De Leon Place,69436162,-84.3637094,33.7735953,1314789822,True,True,3,2,5
+Ponce De Leon Ave × Ponce De Leon Place,69436162,-84.3637094,33.7735953,1499709560,True,True,3,2,5
+Pryor Rd × University Av,69326139,-84.3933694,33.7219464,629306016,False,True,,,3
+Pryor Rd × University Av,69326139,-84.3933694,33.7219464,629306017,True,False,,,
+Pryor Rd × University Av,69326139,-84.3933694,33.7219464,1302261883,True,True,3,2,5
+Pryor Rd × University Av,69326139,-84.3933694,33.7219464,1385958158,False,False,,,2
+Pryor St × Ralph David Abernathy Boulevard,69326341,-84.3946002,33.736879,9276119,False,False,,,2
+Pryor St × Ralph David Abernathy Boulevard,69326341,-84.3946002,33.736879,307098113,False,False,,,3
+Pryor St × Ralph David Abernathy Boulevard,69326341,-84.3946002,33.736879,307098114,False,False,,,3
+Pryor St × Ralph David Abernathy Boulevard,69326341,-84.3946002,33.736879,1029570666,False,True,,,3
+Pryor St × Rawson St,69129631,-84.3944783,33.7445738,9274330,False,False,,,3
+Pryor St × Rawson St,69129631,-84.3944783,33.7445738,541312725,False,False,,,3
+Pryor St × Rawson St,69129631,-84.3944783,33.7445738,630778918,False,False,,,4
+Pryor St × Rawson St,69129631,-84.3944783,33.7445738,1111405819,False,True,,,5
+Pryor St × Wall St,69326269,-84.3894781,33.753285,9253486,False,False,,,2
+Pryor St × Wall St,69326269,-84.3894781,33.753285,580809058,False,False,,,4
+Pryor St × Wall St,69326269,-84.3894781,33.753285,1284447020,True,True,2,1,3
+Pryor St × Wall St,69326269,-84.3894781,33.753285,1284447021,True,True,2,1,3
+Ralph David Abernathy Boulevard × Windsor St,69364057,-84.3983309,33.7369811,116892789,False,False,,,2
+Ralph David Abernathy Boulevard × Windsor St,69364057,-84.3983309,33.7369811,629305946,True,False,,,
+Ralph David Abernathy Boulevard × Windsor St,69364057,-84.3983309,33.7369811,1031945630,False,True,,,3
+Ralph David Abernathy Boulevard × Windsor St,69364057,-84.3983309,33.7369811,1031945631,True,False,,,
+Pryor St × Trinity Av,69326288,-84.3927116,33.7491995,9266408,True,True,2,1,3
+Pryor St × Trinity Av,69326288,-84.3927116,33.7491995,1177485085,True,True,1,1,3
+Pryor St × Trinity Av,69326288,-84.3927116,33.7491995,1177485086,False,False,,,4
+Pryor St × Trinity Av,69326288,-84.3927116,33.7491995,1271261083,False,False,,,4
+17Th St × Village St,283192497,-84.4028076,33.7897169,26786738,False,False,,,3
+17Th St × Village St,283192497,-84.4028076,33.7897169,543944194,False,False,,,3
+17Th St × Village St,283192497,-84.4028076,33.7897169,1564562857,True,True,2,1,3
+17Th St × Village St,283192497,-84.4028076,33.7897169,1564974899,True,False,,,
+17Th St × Market St,1278536809,-84.3951278,33.7911183,25961138,True,False,,,4
+17Th St × Market St,1278536809,-84.3951278,33.7911183,1051451849,False,False,,,3
+17Th St × Market St,1278536809,-84.3951278,33.7911183,1051451850,True,False,,,
+17Th St × Market St,1278536809,-84.3951278,33.7911183,1565345376,False,True,,,4
+17Th St × Spring St,1278536804,-84.3892167,33.7917705,112508109,False,True,,,3
+17Th St × Spring St,1278536804,-84.3892167,33.7917705,630779025,False,False,,,4
+17Th St × Spring St,1278536804,-84.3892167,33.7917705,1053244320,False,True,,,4
+17Th St × Spring St,1278536804,-84.3892167,33.7917705,1053244321,False,False,,,4
+Simpson Rd × West Lake Av,69436699,-84.441029,33.763579,9276845,True,False,,,
+Simpson Rd × West Lake Av,69436699,-84.441029,33.763579,506799391,True,False,1,1,2
+Simpson Rd × West Lake Av,69436699,-84.441029,33.763579,630644089,True,False,,,
+Simpson Rd × West Lake Av,69436699,-84.441029,33.763579,1382484713,True,True,2,1,3
+16Th St × Spring St,69401702,-84.3893104,33.7899287,546847736,True,False,,,
+16Th St × Spring St,69401702,-84.3893104,33.7899287,546847737,True,False,,,
+16Th St × Spring St,69401702,-84.3893104,33.7899287,630779025,False,False,,,4
+16Th St × Spring St,69401702,-84.3893104,33.7899287,631611888,False,False,,,4
+16Th St × West Peachtree St,69372828,-84.3877831,33.7899178,9259785,True,False,,,
+16Th St × West Peachtree St,69372828,-84.3877831,33.7899178,73229529,False,False,,,5
+16Th St × West Peachtree St,69372828,-84.3877831,33.7899178,546847736,True,False,,,
+16Th St × West Peachtree St,69372828,-84.3877831,33.7899178,631611891,False,False,,,5
+16Th St × State St,69159110,-84.3987564,33.7896626,63063090,True,True,2,1,4
+16Th St × State St,69159110,-84.3987564,33.7896626,630034681,False,False,,,1
+16Th St × State St,69159110,-84.3987564,33.7896626,1029588269,False,False,,,1
+16Th St × State St,69159110,-84.3987564,33.7896626,1395694266,True,True,2,1,3
+Spring St × Peachtree Place,69494184,-84.389,33.780569,159182992,False,False,,,
+Spring St × Peachtree Place,69494184,-84.389,33.780569,234013260,False,False,,,4
+Spring St × Peachtree Place,69494184,-84.389,33.780569,9267357,True,False,1,1,2
+Spring St × Peachtree Place,69494184,-84.389,33.780569,306157879,False,False,,,3
+Spring St × 10Th St,69616397,-84.3891731,33.7815064,48663359,False,False,,,4
+Spring St × 10Th St,69616397,-84.3891731,33.7815064,306157879,False,False,,,3
+Spring St × 10Th St,69616397,-84.3891731,33.7815064,311764287,True,False,,,6
+Spring St × 10Th St,69616397,-84.3891731,33.7815064,629238141,True,False,,,6
+3Rd St × West Peachtree St,69228746,-84.3873345,33.7738329,9246349,True,False,,,
+3Rd St × West Peachtree St,69228746,-84.3873345,33.7738329,144417817,True,False,,,
+3Rd St × West Peachtree St,69228746,-84.3873345,33.7738329,311764308,False,False,,,4
+3Rd St × West Peachtree St,69228746,-84.3873345,33.7738329,311764308,False,False,,,4
+Trinity Ave × Washington St,69356492,-84.3902126,33.7478205,54032749,False,False,,,3
+Trinity Ave × Washington St,69356492,-84.3902126,33.7478205,1271279131,False,False,,,4
+Trinity Ave × Washington St,69356492,-84.3902126,33.7478205,1321792576,True,False,1,1,2
+Trinity Ave × Washington St,69356492,-84.3902126,33.7478205,1536785277,True,True,2,1,3
+West Peachtree St × Eighth St,69372795,-84.3872751,33.7795503,9276954,True,False,,,
+West Peachtree St × Eighth St,69372795,-84.3872751,33.7795503,234013261,False,False,,,4
+West Peachtree St × Eighth St,69372795,-84.3872751,33.7795503,311764298,False,False,,,4
+West Peachtree St × Eighth St,69372795,-84.3872751,33.7795503,1219754025,True,False,1,1,2
+Angier Ave × Central Park Place,69230961,-84.377783,33.767296,1030012718,False,True,,,3
+Angier Ave × Central Park Place,69230961,-84.377783,33.767296,1030012719,False,False,,,2
+Angier Ave × Central Park Place,69230961,-84.377783,33.767296,1030367156,True,False,,,
+Angier Ave × Central Park Place,69230961,-84.377783,33.767296,1423084296,True,False,,,
+Auburn Ave × Broad St,69168618,-84.3885134,33.7562479,9247887,True,False,,,
+Auburn Ave × Broad St,69168618,-84.3885134,33.7562479,133115165,True,False,1,1,2
+Auburn Ave × Broad St,69168618,-84.3885134,33.7562479,629238271,True,False,,,
+Auburn Ave × Broad St,69168618,-84.3885134,33.7562479,630644298,True,False,,,
+Auburn Ave × Courtland St,3582046426,-84.3842706,33.7555565,563551377,True,False,,,
+Auburn Ave × Courtland St,3582046426,-84.3842706,33.7555565,1118731507,True,False,,,
+Auburn Ave × Courtland St,3582046426,-84.3842706,33.7555565,1466964615,False,False,,,5
+Auburn Ave × Courtland St,3582046426,-84.3842706,33.7555565,1466964616,False,False,,,5
+Mansfield Ave × Moreland Av,69225697,-84.3490324,33.7678266,9168591,True,False,,,
+Mansfield Ave × Moreland Av,69225697,-84.3490324,33.7678266,9246146,False,False,,,
+Mansfield Ave × Moreland Av,69225697,-84.3490324,33.7678266,144479818,True,False,,,4
+Mansfield Ave × Moreland Av,69225697,-84.3490324,33.7678266,144479818,True,False,,,4
+Marietta St × Thurmond St,69304657,-84.3959965,33.7613175,28688144,True,False,,,4
+Marietta St × Thurmond St,69304657,-84.3959965,33.7613175,628175270,True,False,,,4
+Marietta St × Thurmond St,69304657,-84.3959965,33.7613175,628175270,True,False,,,4
+Marietta St × Thurmond St,69304657,-84.3959965,33.7613175,631165843,True,True,2,1,3
+"Martin Luther King, Jr. Dr × Northside Dr",69172611,-84.4028061,33.7546026,528457154,True,False,2,3,5
+"Martin Luther King, Jr. Dr × Northside Dr",69172611,-84.4028061,33.7546026,1388439809,True,False,3,2,5
+"Martin Luther King, Jr. Dr × Northside Dr",69172611,-84.4028061,33.7546026,1390637658,True,False,,,1
+"Martin Luther King, Jr. Dr × Northside Dr",69172611,-84.4028061,33.7546026,1390637659,True,False,,,
+"Martin Luther King, Jr. Dr × Walnut St",8392478947,-84.4065295,33.7546831,9278255,True,False,,,
+"Martin Luther King, Jr. Dr × Walnut St",8392478947,-84.4065295,33.7546831,9278255,True,False,,,
+"Martin Luther King, Jr. Dr × Walnut St",8392478947,-84.4065295,33.7546831,903620478,False,False,,,
+"Martin Luther King, Jr. Dr × Walnut St",8392478947,-84.4065295,33.7546831,1032493299,False,True,,,2
+"Martin Luther King, Jr. Dr × Centennial Olympic Park Dr",69172593,-84.3985941,33.7545423,9245347,True,False,,,
+"Martin Luther King, Jr. Dr × Centennial Olympic Park Dr",69172593,-84.3985941,33.7545423,483570790,True,False,,,
+"Martin Luther King, Jr. Dr × Centennial Olympic Park Dr",69172593,-84.3985941,33.7545423,694554868,True,False,,,
+"Martin Luther King, Jr. Dr × Centennial Olympic Park Dr",69172593,-84.3985941,33.7545423,1528183216,True,False,,,
+"Martin Luther King, Jr. Dr × Spring St",11305241063,-84.3947733,33.7535423,39441446,True,False,,,
+"Martin Luther King, Jr. Dr × Spring St",11305241063,-84.3947733,33.7535423,1390568378,False,False,,,4
+"Martin Luther King, Jr. Dr × Spring St",11305241063,-84.3947733,33.7535423,1390568381,False,False,,,5
+"Martin Luther King, Jr. Dr × Spring St",11305241063,-84.3947733,33.7535423,1391666518,True,False,,,4
+"Martin Luther King, Jr. Dr × Martin St",69122363,-84.3838376,33.7478934,9235925,False,False,,,
+"Martin Luther King, Jr. Dr × Martin St",69122363,-84.3838376,33.7478934,30678781,True,False,,,
+"Martin Luther King, Jr. Dr × Martin St",69122363,-84.3838376,33.7478934,541845323,True,False,,,
+"Martin Luther King, Jr. Dr × Martin St",69122363,-84.3838376,33.7478934,880487569,False,False,,,1
+"Martin Luther King, Jr. Dr × Washington St",69167151,-84.388458,33.750039,579586365,False,True,,,5
+"Martin Luther King, Jr. Dr × Washington St",69167151,-84.388458,33.750039,583666182,False,False,,,4
+"Martin Luther King, Jr. Dr × Washington St",69167151,-84.388458,33.750039,630697023,False,True,,,4
+"Martin Luther King, Jr. Dr × Washington St",69167151,-84.388458,33.750039,631165781,False,False,,,3
+Mayland Ave × Metropolitan Parkway,69191866,-84.407889,33.724697,9243900,True,False,,,
+Mayland Ave × Metropolitan Parkway,69191866,-84.407889,33.724697,630014190,True,False,2,2,4
+Mayland Ave × Metropolitan Parkway,69191866,-84.407889,33.724697,630014190,True,False,2,2,4
+Mayland Ave × Metropolitan Parkway,69191866,-84.407889,33.724697,1573534098,True,False,,,
+Mayson Turner Rd × Joseph E Boone Blvd,69436686,-84.429294,33.763528,9271777,True,False,,,
+Mayson Turner Rd × Joseph E Boone Blvd,69436686,-84.429294,33.763528,9269954,True,False,,,
+Mayson Turner Rd × Joseph E Boone Blvd,69436686,-84.429294,33.763528,306007055,True,False,,,
+Mayson Turner Rd × Joseph E Boone Blvd,69436686,-84.429294,33.763528,306007055,True,False,,,
+McDaniel St × Ralph David Abernathy Boulevard,69625500,-84.4016578,33.7370588,507009476,False,False,,,2
+McDaniel St × Ralph David Abernathy Boulevard,69625500,-84.4016578,33.7370588,629278076,True,False,,,
+McDaniel St × Ralph David Abernathy Boulevard,69625500,-84.4016578,33.7370588,1031945632,False,True,,,3
+McDaniel St × Ralph David Abernathy Boulevard,69625500,-84.4016578,33.7370588,1118685136,True,False,,,
+McDaniel St × Peters St,69239385,-84.404733,33.744729,116944946,True,False,,,
+McDaniel St × Peters St,69239385,-84.404733,33.744729,133115178,True,False,3,3,6
+McDaniel St × Peters St,69239385,-84.404733,33.744729,186649995,True,False,,,
+McDaniel St × Peters St,69239385,-84.404733,33.744729,1322118528,True,False,3,3,6
+McDaniel St × Rockwell St,69438850,-84.4017,33.731942,9263042,True,False,,,
+McDaniel St × Rockwell St,69438850,-84.4017,33.731942,9263042,True,False,,,
+McDaniel St × Rockwell St,69438850,-84.4017,33.731942,507009475,True,False,,,
+McDaniel St × Rockwell St,69438850,-84.4017,33.731942,507009475,True,False,,,
+McDaniel St × University Av,69233212,-84.401671,33.722137,436803293,True,False,1,2,3
+McDaniel St × University Av,69233212,-84.401671,33.722137,507009475,True,False,,,
+McDaniel St × University Av,69233212,-84.401671,33.722137,629306019,True,False,2,1,3
+McDaniel St × University Av,69233212,-84.401671,33.722137,808135597,True,False,,,
+McDaniel St × Whitehall St,69349359,-84.4039842,33.7435624,46225714,True,False,,,
+McDaniel St × Whitehall St,69349359,-84.4039842,33.7435624,133115037,True,True,3,2,5
+McDaniel St × Whitehall St,69349359,-84.4039842,33.7435624,133115452,True,False,,,
+McDaniel St × Whitehall St,69349359,-84.4039842,33.7435624,197722156,True,True,3,2,5
+McLendon Ave × Moreland Av,69555000,-84.349206,33.764957,9185975,True,False,1,1,2
+McLendon Ave × Moreland Av,69555000,-84.349206,33.764957,9270257,True,False,,,
+McLendon Ave × Moreland Av,69555000,-84.349206,33.764957,1067785280,True,False,,,4
+McLendon Ave × Moreland Av,69555000,-84.349206,33.764957,1314618235,True,True,3,2,5
+Memorial Dr × Pearl St,69426161,-84.362274,33.746643,116894379,True,False,,,
+Memorial Dr × Pearl St,69426161,-84.362274,33.746643,569264145,True,False,,,
+Memorial Dr × Pearl St,69426161,-84.362274,33.746643,1322546167,True,True,2,1,3
+Memorial Dr × Pearl St,69426161,-84.362274,33.746643,1322841912,True,True,2,1,3
+Memorial Dr × Stovall St,69355691,-84.354364,33.746545,9255809,True,False,,,
+Memorial Dr × Stovall St,69355691,-84.354364,33.746545,1330846748,True,False,,,
+Memorial Dr × Stovall St,69355691,-84.354364,33.746545,1330846749,True,True,2,1,3
+Memorial Dr × Stovall St,69355691,-84.354364,33.746545,1382556164,True,True,2,1,3
+Memorial Dr × Pryor St,69245675,-84.3944371,33.7469483,54032755,False,False,,,4
+Memorial Dr × Pryor St,69245675,-84.3944371,33.7469483,714358319,True,False,,,
+Memorial Dr × Pryor St,69245675,-84.3944371,33.7469483,1111405816,False,False,,,5
+Memorial Dr × Pryor St,69245675,-84.3944371,33.7469483,1111405817,True,True,2,1,3
+Metropolitan Parkway × Northside Dr,69376456,-84.4082026,33.7392949,9258258,True,False,1,1,2
+Metropolitan Parkway × Northside Dr,69376456,-84.4082026,33.7392949,119948076,True,False,3,3,6
+Metropolitan Parkway × Northside Dr,69376456,-84.4082026,33.7392949,630014198,True,False,1,1,2
+Metropolitan Parkway × Northside Dr,69376456,-84.4082026,33.7392949,954464534,True,True,3,3,6
+Humphries St × Ralph David Abernathy Boulevard,69633973,-84.4047538,33.7366253,442591117,False,False,,,2
+Humphries St × Ralph David Abernathy Boulevard,69633973,-84.4047538,33.7366253,442591123,False,False,,,2
+Humphries St × Ralph David Abernathy Boulevard,69633973,-84.4047538,33.7366253,629306021,True,False,,,
+Humphries St × Ralph David Abernathy Boulevard,69633973,-84.4047538,33.7366253,629306022,True,False,,,
+I-75/85 S/B Ramps × 10Th St,69144406,-84.391609,33.7815476,9238877,False,False,,,2
+I-75/85 S/B Ramps × 10Th St,69144406,-84.391609,33.7815476,28038409,True,True,3,4,7
+I-75/85 S/B Ramps × 10Th St,69144406,-84.391609,33.7815476,311764284,True,False,3,2,5
+I-75/85 S/B Ramps × 10Th St,69144406,-84.391609,33.7815476,885009362,False,True,,,4
+I-75/85 S/B Ramps × University Av,4346667834,-84.3955855,33.7220016,532910809,False,False,,,1
+I-75/85 S/B Ramps × University Av,4346667834,-84.3955855,33.7220016,532910816,False,False,,,2
+I-75/85 S/B Ramps × University Av,4346667834,-84.3955855,33.7220016,532910822,False,False,,,1
+I-75/85 S/B Ramps × University Av,4346667834,-84.3955855,33.7220016,1020555918,False,True,,,3
+I-85 Off & On Ramps × Peachtree St,69125674,-84.3905475,33.7980745,1029529627,False,True,,,2
+I-85 Off & On Ramps × Peachtree St,69125674,-84.3905475,33.7980745,1046429281,True,True,3,3,6
+I-85 Off & On Ramps × Peachtree St,69125674,-84.3905475,33.7980745,1320158881,False,False,,,2
+I-85 Off & On Ramps × Peachtree St,69125674,-84.3905475,33.7980745,1320564103,True,False,,,6
+Andrew Young International Boulevard × Williams St,3582046214,-84.3905698,33.7597174,143771200,True,False,2,1,3
+Andrew Young International Boulevard × Williams St,3582046214,-84.3905698,33.7597174,385941073,False,False,,,2
+Andrew Young International Boulevard × Williams St,3582046214,-84.3905698,33.7597174,525597343,True,False,1,1,2
+Andrew Young International Boulevard × Williams St,3582046214,-84.3905698,33.7597174,630696902,True,False,,,4
+Andrew Young International Boulevard × Peachtree Center Av,69381936,-84.386062,33.759685,9260027,False,False,,,2
+Andrew Young International Boulevard × Peachtree Center Av,69381936,-84.386062,33.759685,591623771,False,False,,,2
+Andrew Young International Boulevard × Peachtree Center Av,69381936,-84.386062,33.759685,591623771,False,False,,,2
+Andrew Young International Boulevard × Peachtree Center Av,69381936,-84.386062,33.759685,595123168,False,False,,,2
+Andrew Young International Boulevard × Peachtree St,69405760,-84.3876002,33.7597027,563984030,True,False,,,4
+Andrew Young International Boulevard × Peachtree St,69405760,-84.3876002,33.7597027,905997410,True,False,,,
+Andrew Young International Boulevard × Peachtree St,69405760,-84.3876002,33.7597027,1040543348,False,False,,,2
+Andrew Young International Boulevard × Peachtree St,69405760,-84.3876002,33.7597027,1127445173,False,True,,,3
+Irwin St × Jackson St,69398078,-84.374331,33.757686,507030161,True,False,,,
+Irwin St × Jackson St,69398078,-84.374331,33.757686,9276431,True,False,,,
+Irwin St × Jackson St,69398078,-84.374331,33.757686,30872702,True,False,1,1,2
+Irwin St × Jackson St,69398078,-84.374331,33.757686,629238269,True,False,,,
+Ivan Allen Jr. Boulevard × Spring Street Connector,69191540,-84.3889884,33.7646498,9243865,True,False,,,4
+Ivan Allen Jr. Boulevard × Spring Street Connector,69191540,-84.3889884,33.7646498,169925549,False,False,,,4
+Ivan Allen Jr. Boulevard × Spring Street Connector,69191540,-84.3889884,33.7646498,1049882185,False,True,,,4
+Ivan Allen Jr. Boulevard × Spring Street Connector,69191540,-84.3889884,33.7646498,1376996093,True,False,,,4
+Jackson St × John Wesley Dobbs Av,69398081,-84.374337,33.7587767,79387246,True,False,,,
+Jackson St × John Wesley Dobbs Av,69398081,-84.374337,33.7587767,629238268,True,False,,,
+Jackson St × John Wesley Dobbs Av,69398081,-84.374337,33.7587767,629238269,True,False,,,
+Jackson St × John Wesley Dobbs Av,69398081,-84.374337,33.7587767,1072935144,True,False,1,1,2
+"James P. Brawley Dr × Martin Luther King, Jr. Dr",69172635,-84.412771,33.754695,629329050,True,False,,,
+"James P. Brawley Dr × Martin Luther King, Jr. Dr",69172635,-84.412771,33.754695,1205172594,True,False,,,
+"James P. Brawley Dr × Martin Luther King, Jr. Dr",69172635,-84.412771,33.754695,1378316581,True,True,2,1,3
+"James P. Brawley Dr × Martin Luther King, Jr. Dr",69172635,-84.412771,33.754695,1378320285,True,True,2,1,3
+James P. Brawley Dr × Simpson St,69184228,-84.412607,33.763443,1424963402,True,False,,,
+James P. Brawley Dr × Simpson St,69184228,-84.412607,33.763443,1301982889,True,True,2,1,3
+James P. Brawley Dr × Simpson St,69184228,-84.412607,33.763443,1301982890,True,True,2,1,3
+James P. Brawley Dr × Simpson St,69184228,-84.412607,33.763443,1466674135,True,False,,,
+Johnson Rd × Marietta Rd,69195357,-84.43659,33.788397,9254886,True,False,,,
+Johnson Rd × Marietta Rd,69195357,-84.43659,33.788397,133115169,True,False,,,4
+Johnson Rd × Marietta Rd,69195357,-84.43659,33.788397,1118679446,True,False,,,
+Johnson Rd × Marietta Rd,69195357,-84.43659,33.788397,1536785235,True,True,2,1,3
+Joseph Lowery Boulevard × Ralph David Abernathy Boulevard,69573269,-84.417725,33.737991,1307448046,True,False,,,
+Joseph Lowery Boulevard × Ralph David Abernathy Boulevard,69573269,-84.417725,33.737991,629238289,True,False,,,
+Joseph Lowery Boulevard × Ralph David Abernathy Boulevard,69573269,-84.417725,33.737991,1378042073,True,True,3,2,5
+Joseph Lowery Boulevard × Ralph David Abernathy Boulevard,69573269,-84.417725,33.737991,1428950814,True,True,2,2,4
+Joseph Lowery Boulevard × Oglethorpe Av,69545771,-84.417719,33.735825,306021857,True,False,,,
+Joseph Lowery Boulevard × Oglethorpe Av,69545771,-84.417719,33.735825,306021857,True,False,,,
+Joseph Lowery Boulevard × Oglethorpe Av,69545771,-84.417719,33.735825,9269837,True,False,,,
+Joseph Lowery Boulevard × Oglethorpe Av,69545771,-84.417719,33.735825,1573534085,True,False,,,
+Joseph Lowery Boulevard × Oak St,69573255,-84.4176277,33.7406673,181272949,True,False,,,
+Joseph Lowery Boulevard × Oak St,69573255,-84.4176277,33.7406673,533224220,False,False,,,
+Joseph Lowery Boulevard × Oak St,69573255,-84.4176277,33.7406673,533224222,False,False,,,2
+Joseph Lowery Boulevard × Oak St,69573255,-84.4176277,33.7406673,1061283054,False,False,,,2
+Joseph Lowery Boulevard × Cunningham Place,69573246,-84.417592,33.743237,9277978,True,False,,,
+Joseph Lowery Boulevard × Cunningham Place,69573246,-84.417592,33.743237,533224225,True,False,,,
+Joseph Lowery Boulevard × Cunningham Place,69573246,-84.417592,33.743237,560686850,True,False,,,
+Joseph Lowery Boulevard × Cunningham Place,69573246,-84.417592,33.743237,629329059,True,False,,,
+Joseph Lowery Boulevard × Fair St,69388272,-84.41753,33.749069,9259017,True,False,,,
+Joseph Lowery Boulevard × Fair St,69388272,-84.41753,33.749069,9271933,True,False,,,
+Joseph Lowery Boulevard × Fair St,69388272,-84.41753,33.749069,9271933,True,False,,,
+Joseph Lowery Boulevard × Fair St,69388272,-84.41753,33.749069,1573534045,True,False,,,
+Courtland St × Currier St,69276558,-84.3841218,33.7655024,836936142,True,False,1,1,2
+Courtland St × Currier St,69276558,-84.3841218,33.7655024,1029547285,False,True,,,5
+Courtland St × Currier St,69276558,-84.3841218,33.7655024,1029547287,False,False,,,4
+Courtland St × Currier St,69276558,-84.3841218,33.7655024,1339750136,True,False,,,
+Courtland St × Gilmer St,69201271,-84.3853205,33.753486,9244683,False,False,,,4
+Courtland St × Gilmer St,69201271,-84.3853205,33.753486,580342814,True,False,,,
+Courtland St × Gilmer St,69201271,-84.3853205,33.753486,580342815,False,False,,,4
+Courtland St × Gilmer St,69201271,-84.3853205,33.753486,872063498,False,False,,,
+Courtland St × John Wesley Dobbs Av,69342320,-84.3842473,33.7571171,435586505,False,False,,,5
+Courtland St × John Wesley Dobbs Av,69342320,-84.3842473,33.7571171,435586505,False,False,,,5
+Courtland St × John Wesley Dobbs Av,69342320,-84.3842473,33.7571171,9267766,True,False,1,2,3
+Courtland St × John Wesley Dobbs Av,69342320,-84.3842473,33.7571171,9267766,True,False,2,1,3
+Courtland St × International Boulevard,69342315,-84.3842091,33.7596661,9260027,False,False,,,2
+Courtland St × International Boulevard,69342315,-84.3842091,33.7596661,9260027,False,False,,,2
+Courtland St × International Boulevard,69342315,-84.3842091,33.7596661,1539788920,False,False,,,5
+Courtland St × International Boulevard,69342315,-84.3842091,33.7596661,1539788920,False,False,,,5
+Courtland St × Juniper St,69256277,-84.3834571,33.7712856,41546924,False,False,,,5
+Courtland St × Juniper St,69256277,-84.3834571,33.7712856,41546926,True,True,3,3,6
+Courtland St × Juniper St,69256277,-84.3834571,33.7712856,119882105,True,False,3,2,5
+Courtland St × Juniper St,69256277,-84.3834571,33.7712856,1029551225,False,False,,,5
+Courtland St × Pine St,69262916,-84.3840925,33.7674631,1029547282,False,False,,,4
+Courtland St × Pine St,69262916,-84.3840925,33.7674631,1029551229,False,False,,,4
+Courtland St × Pine St,69262916,-84.3840925,33.7674631,1036830537,False,True,,,2
+Courtland St × Pine St,69262916,-84.3840925,33.7674631,1466392611,True,False,1,1,2
+Custer Ave × Moreland Av,69272139,-84.349501,33.715533,9249752,True,False,,,
+Custer Ave × Moreland Av,69272139,-84.349501,33.715533,630644146,True,False,1,1,2
+Custer Ave × Moreland Av,69272139,-84.349501,33.715533,1008174851,True,True,3,2,5
+Custer Ave × Moreland Av,69272139,-84.349501,33.715533,1074992984,True,True,3,2,5
+Currier St × Piedmont Av,69172092,-84.382049,33.765551,38974419,False,False,,,5
+Currier St × Piedmont Av,69172092,-84.382049,33.765551,38974419,False,False,,,5
+Currier St × Piedmont Av,69172092,-84.382049,33.765551,562694060,True,False,,,
+Currier St × Piedmont Av,69172092,-84.382049,33.765551,836936142,True,False,1,1,2
+Decatur St × Grant St,69430434,-84.376677,33.750175,9262397,True,False,,,
+Decatur St × Grant St,69430434,-84.376677,33.750175,563554851,True,False,,,
+Decatur St × Grant St,69430434,-84.376677,33.750175,630643898,True,False,,,
+Decatur St × Grant St,69430434,-84.376677,33.750175,1378282089,True,True,2,1,3
+Decatur St × Park Place,69326265,-84.3890028,33.7538889,9253486,False,False,,,2
+Decatur St × Park Place,69326265,-84.3890028,33.7538889,9269828,True,False,,,4
+Decatur St × Park Place,69326265,-84.3890028,33.7538889,9276228,False,False,,,1
+Decatur St × Park Place,69326265,-84.3890028,33.7538889,630391545,True,False,,,
+Deering Rd × Northside Dr,69476707,-84.4078641,33.7961662,561173099,True,False,,,
+Deering Rd × Northside Dr,69476707,-84.4078641,33.7961662,1120881577,True,False,,,
+Deering Rd × Northside Dr,69476707,-84.4078641,33.7961662,1314764790,True,True,3,2,5
+Deering Rd × Northside Dr,69476707,-84.4078641,33.7961662,1314766263,True,True,3,2,5
+Dill Ave × Sylvan Rd,69255685,-84.418075,33.718309,9248224,True,False,,,
+Dill Ave × Sylvan Rd,69255685,-84.418075,33.718309,563533835,True,False,1,1,2
+Dill Ave × Sylvan Rd,69255685,-84.418075,33.718309,563533835,True,False,1,1,2
+Dill Ave × Sylvan Rd,69255685,-84.418075,33.718309,1118685132,True,False,,,
+Donnelly Ave × Hall St,69276650,-84.424773,33.731725,9254028,True,False,,,
+Donnelly Ave × Hall St,69276650,-84.424773,33.731725,9260185,True,False,,,
+Donnelly Ave × Hall St,69276650,-84.424773,33.731725,46178961,True,False,,,
+Donnelly Ave × Hall St,69276650,-84.424773,33.731725,629735913,True,False,,,
+East Confederate Ave × Woodland Av,7104817611,-84.3530028,33.725282,760535355,True,False,,,
+East Confederate Ave × Woodland Av,7104817611,-84.3530028,33.725282,760535355,True,False,,,
+East Confederate Ave × Woodland Av,7104817611,-84.3530028,33.725282,760535356,True,False,,,
+East Confederate Ave × Woodland Av,7104817611,-84.3530028,33.725282,1283236071,True,False,,,
+Edgewood Ave × Hilliard St,3582046459,-84.3766067,33.7543922,9248398,False,False,,,
+Edgewood Ave × Hilliard St,3582046459,-84.3766067,33.7543922,9277444,False,False,,,
+Edgewood Ave × Hilliard St,3582046459,-84.3766067,33.7543922,905997420,True,False,1,1,2
+Edgewood Ave × Hilliard St,3582046459,-84.3766067,33.7543922,905997420,True,False,1,1,2
+Edgewood Ave × Jackson St,3582046452,-84.3743863,33.7543598,9248416,True,False,,,
+Edgewood Ave × Jackson St,3582046452,-84.3743863,33.7543598,9259643,True,False,1,1,2
+Edgewood Ave × Jackson St,3582046452,-84.3743863,33.7543598,1378033903,True,True,2,1,3
+Edgewood Ave × Jackson St,3582046452,-84.3743863,33.7543598,1390663415,True,True,2,1,3
+Edgewood Ave × Krog St,69214484,-84.3641365,33.754618,44062160,True,False,1,1,2
+Edgewood Ave × Krog St,69214484,-84.3641365,33.754618,44062160,True,False,1,1,2
+Edgewood Ave × Krog St,69214484,-84.3641365,33.754618,243830599,True,False,1,1,2
+Edgewood Ave × Krog St,69214484,-84.3641365,33.754618,243830599,True,False,1,1,2
+18Th St × Spring St,69431254,-84.3891547,33.793316,30978553,False,False,,,3
+18Th St × Spring St,69431254,-84.3891547,33.793316,30978553,False,False,,,3
+18Th St × Spring St,69431254,-84.3891547,33.793316,9262467,True,False,,,
+18Th St × Spring St,69431254,-84.3891547,33.793316,995187720,True,False,,,
+Eighth St × Monroe Dr,69644028,-84.369409,33.779493,9278026,True,False,,,
+Eighth St × Monroe Dr,69644028,-84.369409,33.779493,75359068,True,False,,,
+Eighth St × Monroe Dr,69644028,-84.369409,33.779493,75359070,True,False,,,
+Eighth St × Monroe Dr,69644028,-84.369409,33.779493,561683942,True,False,,,
+Eighth St × Howell Mill Rd,69340209,-84.4102403,33.779653,9254778,True,False,,,
+Eighth St × Howell Mill Rd,69340209,-84.4102403,33.779653,9254778,True,False,,,
+Eighth St × Howell Mill Rd,69340209,-84.4102403,33.779653,1079695223,True,False,,,
+Eighth St × Howell Mill Rd,69340209,-84.4102403,33.779653,1079695223,True,False,,,
+Metropolitan Parkway × Shelton Av,69469155,-84.408116,33.734415,9265879,True,False,,,
+Metropolitan Parkway × Shelton Av,69469155,-84.408116,33.734415,9265879,True,False,,,
+Metropolitan Parkway × Shelton Av,69469155,-84.408116,33.734415,1493318192,True,False,2,2,4
+Metropolitan Parkway × Shelton Av,69469155,-84.408116,33.734415,1493318192,True,False,2,2,4
+Metropolitan Parkway × University Av,69233222,-84.407857,33.722179,9277928,True,False,,,
+Metropolitan Parkway × University Av,69233222,-84.407857,33.722179,436803293,True,False,2,1,3
+Metropolitan Parkway × University Av,69233222,-84.407857,33.722179,630014190,True,False,2,2,4
+Metropolitan Parkway × University Av,69233222,-84.407857,33.722179,630014190,True,False,2,2,4
+Mitchell St × Northside Dr,69171444,-84.4028167,33.7538942,9241108,True,False,,,
+Mitchell St × Northside Dr,69171444,-84.4028167,33.7538942,528457154,True,False,3,2,5
+Mitchell St × Northside Dr,69171444,-84.4028167,33.7538942,959867797,True,True,3,1,4
+Mitchell St × Northside Dr,69171444,-84.4028167,33.7538942,1322054829,True,True,3,3,6
+Mitchell St × Pryor St,69171479,-84.3918551,33.7502984,580807402,False,True,,,3
+Mitchell St × Pryor St,69171479,-84.3918551,33.7502984,1040740789,False,False,,,4
+Mitchell St × Pryor St,69171479,-84.3918551,33.7502984,1040740790,False,False,,,3
+Mitchell St × Pryor St,69171479,-84.3918551,33.7502984,1177485086,False,False,,,4
+Monroe Dr × Piedmont Av,69589641,-84.36899,33.797095,1355126856,True,False,,,4
+Monroe Dr × Piedmont Av,69589641,-84.36899,33.797095,1377416116,True,True,3,2,5
+Monroe Dr × Piedmont Av,69589641,-84.36899,33.797095,1377424634,True,True,3,2,5
+Monroe Dr × Piedmont Av,69589641,-84.36899,33.797095,1446233300,True,True,3,2,5
+Monroe Dr × Montgomery Ferry Rd,69438496,-84.372304,33.80184,222681158,True,False,1,1,2
+Monroe Dr × Montgomery Ferry Rd,69438496,-84.372304,33.80184,290277128,True,False,1,1,2
+Monroe Dr × Montgomery Ferry Rd,69438496,-84.372304,33.80184,1382917361,True,True,2,1,3
+Monroe Dr × Montgomery Ferry Rd,69438496,-84.372304,33.80184,1423508867,True,False,,,
+Monroe Dr × Worchester Dr,1926466428,-84.3671139,33.7908244,182297489,True,False,1,1,2
+Monroe Dr × Worchester Dr,1926466428,-84.3671139,33.7908244,226275934,True,False,,,
+Monroe Dr × Worchester Dr,1926466428,-84.3671139,33.7908244,1355126856,True,False,,,4
+Monroe Dr × Worchester Dr,1926466428,-84.3671139,33.7908244,1355126856,True,False,,,4
+Moreland Ave × North Av,69256337,-84.3489973,33.7710811,9170874,True,False,,,
+Moreland Ave × North Av,69256337,-84.3489973,33.7710811,630048359,True,False,,,4
+Moreland Ave × North Av,69256337,-84.3489973,33.7710811,630048359,True,False,,,4
+Moreland Ave × North Av,69256337,-84.3489973,33.7710811,1075611852,True,True,,,3
+Moreland Ave × Ormewood Av,69440146,-84.3493096,33.7341061,9263148,True,False,,,
+Moreland Ave × Ormewood Av,69440146,-84.3493096,33.7341061,933056112,True,False,1,1,2
+Moreland Ave × Ormewood Av,69440146,-84.3493096,33.7341061,1074992989,True,True,3,2,5
+Moreland Ave × Ormewood Av,69440146,-84.3493096,33.7341061,1074992990,True,True,3,2,5
+Moreland Ave × Vickers,384328323,-84.349453,33.721807,9266141,True,False,,,
+Moreland Ave × Vickers,384328323,-84.349453,33.721807,242088804,True,False,,,
+Moreland Ave × Vickers,384328323,-84.349453,33.721807,1041398806,True,True,3,2,5
+Moreland Ave × Vickers,384328323,-84.349453,33.721807,1074992986,True,True,4,2,6
+Murphy Ave × Ralph David Abernathy Boulevard,69208008,-84.4123832,33.7382475,506774530,True,False,1,1,2
+Murphy Ave × Ralph David Abernathy Boulevard,69208008,-84.4123832,33.7382475,9245034,True,False,2,2,4
+Murphy Ave × Ralph David Abernathy Boulevard,69208008,-84.4123832,33.7382475,9264578,True,False,1,1,2
+Murphy Ave × Ralph David Abernathy Boulevard,69208008,-84.4123832,33.7382475,9276117,True,False,2,2,4
+Myrtle St × Ponce De Leon Av,69436067,-84.380255,33.772578,9277340,True,False,,,
+Myrtle St × Ponce De Leon Av,69436067,-84.380255,33.772578,1173960160,True,True,3,2,5
+Myrtle St × Ponce De Leon Av,69436067,-84.380255,33.772578,1314815265,True,True,3,2,5
+Myrtle St × Ponce De Leon Av,69436067,-84.380255,33.772578,1423320886,True,False,,,
+Nelson St × Centennial Olympic Park Dr,69276180,-84.400063,33.751142,9249923,True,False,,,
+Nelson St × Centennial Olympic Park Dr,69276180,-84.400063,33.751142,9276007,True,False,,,
+Nelson St × Centennial Olympic Park Dr,69276180,-84.400063,33.751142,40867711,True,False,1,1,2
+Nelson St × Centennial Olympic Park Dr,69276180,-84.400063,33.751142,143769605,True,False,1,1,2
+North Ave × West Peachtree St,69256234,-84.387421,33.771271,9248264,True,False,,,6
+North Ave × West Peachtree St,69256234,-84.387421,33.771271,9248452,True,True,3,3,6
+North Ave × West Peachtree St,69256234,-84.387421,33.771271,44450082,False,False,,,4
+North Ave × West Peachtree St,69256234,-84.387421,33.771271,1036831668,False,True,,,6
+North Ave × Spring St,69259129,-84.388845,33.771239,9248452,True,True,3,3,6
+North Ave × Spring St,69259129,-84.388845,33.771239,119882106,True,True,4,2,6
+North Ave × Spring St,69259129,-84.388845,33.771239,175629467,False,False,,,5
+North Ave × Spring St,69259129,-84.388845,33.771239,630697021,False,False,,,4
+North Ave × North Highland Av,69256333,-84.352517,33.771075,712007597,True,False,,,
+North Ave × North Highland Av,69256333,-84.352517,33.771075,712007597,True,False,,,
+North Ave × North Highland Av,69256333,-84.352517,33.771075,1021874475,True,False,,,
+North Ave × North Highland Av,69256333,-84.352517,33.771075,1379242512,True,True,2,1,3
+North Highland Ave × Saint Charles Av,69283737,-84.352499,33.775424,9250714,True,False,,,
+North Highland Ave × Saint Charles Av,69283737,-84.352499,33.775424,525613028,True,False,,,
+North Highland Ave × Saint Charles Av,69283737,-84.352499,33.775424,525613028,True,False,,,
+North Highland Ave × Saint Charles Av,69283737,-84.352499,33.775424,9250239,True,False,,,
+North Highland Ave × North Morningside Dr,69456022,-84.355392,33.791021,9264366,True,False,,,
+North Highland Ave × North Morningside Dr,69456022,-84.355392,33.791021,75359079,True,False,,,
+North Highland Ave × North Morningside Dr,69456022,-84.355392,33.791021,75359079,True,False,,,
+North Highland Ave × North Morningside Dr,69456022,-84.355392,33.791021,116895277,True,False,,,
+North Highland Ave × Virginia Av,69464795,-84.354334,33.782379,525613028,True,False,,,
+North Highland Ave × Virginia Av,69464795,-84.354334,33.782379,75359079,True,False,,,
+North Highland Ave × Virginia Av,69464795,-84.354334,33.782379,1063604059,True,False,,,
+North Highland Ave × Virginia Av,69464795,-84.354334,33.782379,1102858240,True,False,,,
+Northside Dr × 10th St,5443534937,-84.4074236,33.7815552,112511427,False,False,,,3
+Northside Dr × 10th St,5443534937,-84.4074236,33.7815552,1052911414,False,True,,,4
+Northside Dr × 10th St,5443534937,-84.4074236,33.7815552,1378287119,True,True,3,1,4
+Northside Dr × 10th St,5443534937,-84.4074236,33.7815552,1378287119,True,False,1,3,4
+Northside Dr × I-75 S/B Ramp,3657266861,-84.4077442,33.8013583,562422787,True,False,,,
+Northside Dr × I-75 S/B Ramp,3657266861,-84.4077442,33.8013583,630014202,False,False,,,1
+Northside Dr × I-75 S/B Ramp,3657266861,-84.4077442,33.8013583,1479114909,False,False,,,3
+Northside Dr × I-75 S/B Ramp,3657266861,-84.4077442,33.8013583,1479114910,False,False,,,3
+Park Dr × Ponce De Leon Place,69464777,-84.363507,33.781747,1467111309,True,False,,,
+Park Dr × Ponce De Leon Place,69464777,-84.363507,33.781747,9270016,True,False,,,
+Park Dr × Ponce De Leon Place,69464777,-84.363507,33.781747,173336551,True,False,,,
+Park Dr × Ponce De Leon Place,69464777,-84.363507,33.781747,1467111307,True,False,,,
+Peachtree Ave × 8Th St,69515841,-84.384212,33.779526,9276712,True,False,1,1,2
+Peachtree Ave × 8Th St,69515841,-84.384212,33.779526,910583331,True,False,1,1,2
+Peachtree Ave × 8Th St,69515841,-84.384212,33.779526,959690884,True,False,1,1,2
+Peachtree Ave × 8Th St,69515841,-84.384212,33.779526,959690884,True,False,1,1,2
+Peachtree Rd. × Peachtree Pl.,69488055,-84.3840981,33.7807811,959690884,True,False,1,1,2
+Peachtree Rd. × Peachtree Pl.,69488055,-84.3840981,33.7807811,60832343,True,False,,,
+Peachtree Rd. × Peachtree Pl.,69488055,-84.3840981,33.7807811,354587521,True,False,,,4
+Peachtree Rd. × Peachtree Pl.,69488055,-84.3840981,33.7807811,1284482559,True,False,1,1,2
+Peachtree St × 17Th St,69515896,-84.3863766,33.7925132,9270296,True,False,1,1,2
+Peachtree St × 17Th St,69515896,-84.3863766,33.7925132,371602523,True,False,,,4
+Peachtree St × 17Th St,69515896,-84.3863766,33.7925132,9268415,True,False,,,4
+Peachtree St × 17Th St,69515896,-84.3863766,33.7925132,63063102,True,False,1,1,2
+Peachtree St × 25Th St,69512140,-84.3927659,33.8014865,9268145,True,False,,,
+Peachtree St × 25Th St,69512140,-84.3927659,33.8014865,767948515,True,False,,,6
+Peachtree St × 25Th St,69512140,-84.3927659,33.8014865,1314995926,True,True,3,3,6
+Peachtree St × 25Th St,69512140,-84.3927659,33.8014865,1315227206,True,True,1,1,2
+Peachtree St × 10Th St,69515842,-84.3840244,33.7817186,234013266,True,False,,,4
+Peachtree St × 10Th St,69515842,-84.3840244,33.7817186,354587521,True,False,,,4
+Peachtree St × 10Th St,69515842,-84.3840244,33.7817186,1377394234,True,True,3,1,4
+Peachtree St × 10Th St,69515842,-84.3840244,33.7817186,1377396917,True,True,3,2,5
+Peachtree St × 12Th St,69387071,-84.3830794,33.7843299,9258925,True,False,,,
+Peachtree St × 12Th St,69387071,-84.3830794,33.7843299,354587522,True,False,,,4
+Peachtree St × 12Th St,69387071,-84.3830794,33.7843299,354587522,True,False,,,4
+Peachtree St × 12Th St,69387071,-84.3830794,33.7843299,611582485,True,False,1,1,2
+Peachtree St × Ponce De Leon Av,69436045,-84.3849109,33.7722457,30978410,True,True,2,1,3
+Peachtree St × Ponce De Leon Av,69436045,-84.3849109,33.7722457,422300227,True,False,,,4
+Peachtree St × Ponce De Leon Av,69436045,-84.3849109,33.7722457,959690884,True,False,1,1,2
+Peachtree St × Ponce De Leon Av,69436045,-84.3849109,33.7722457,1547804724,True,False,1,1,2
+Peachtree St × Ralph McGill Boulevard,69465389,-84.3857571,33.7645468,9265317,True,False,,,4
+Peachtree St × Ralph McGill Boulevard,69465389,-84.3857571,33.7645468,630644314,True,False,,,4
+Peachtree St × Ralph McGill Boulevard,69465389,-84.3857571,33.7645468,630644318,True,False,,,
+Peachtree St × Ralph McGill Boulevard,69465389,-84.3857571,33.7645468,630644323,True,False,,,
+Peachtree St × 3Rd St,11332434689,-84.3847802,33.7736907,9246349,True,False,,,
+Peachtree St × 3Rd St,11332434689,-84.3847802,33.7736907,42507974,True,False,,,
+Peachtree St × 3Rd St,11332434689,-84.3847802,33.7736907,959690884,True,False,1,1,2
+Peachtree St × 3Rd St,11332434689,-84.3847802,33.7736907,959690884,True,False,1,1,2
+Peachtree St × Sixteenth St,69392941,-84.3851763,33.7906852,9259282,True,False,1,1,2
+Peachtree St × Sixteenth St,69392941,-84.3851763,33.7906852,371602523,True,False,,,4
+Peachtree St × Sixteenth St,69392941,-84.3851763,33.7906852,629278084,True,False,,,
+Peachtree St × Sixteenth St,69392941,-84.3851763,33.7906852,629278088,True,False,,,4
+Peachtree St × W. Peachtree St @ (South Junction),69245196,-84.3875346,33.7622531,9247536,True,False,,,4
+Peachtree St × W. Peachtree St @ (South Junction),69245196,-84.3875346,33.7622531,617206187,False,False,,,4
+Peachtree St × W. Peachtree St @ (South Junction),69245196,-84.3875346,33.7622531,630696900,False,False,,,4
+Peachtree St × W. Peachtree St @ (South Junction),69245196,-84.3875346,33.7622531,630697026,True,False,,,4
+Peters St × Spring St,69239349,-84.3970891,33.750597,9247132,True,False,,,4
+Peters St × Spring St,69239349,-84.3970891,33.750597,563539374,True,False,,,4
+Peters St × Spring St,69239349,-84.3970891,33.750597,563539375,True,False,,,4
+Peters St × Spring St,69239349,-84.3970891,33.750597,1267484791,True,True,2,1,3
+Piedmont Ave × Tenth St,69589540,-84.3804635,33.7817935,547651108,False,False,,,3
+Piedmont Ave × Tenth St,69589540,-84.3804635,33.7817935,9272986,False,False,,,3
+Piedmont Ave × Tenth St,69589540,-84.3804635,33.7817935,505912698,True,False,,,4
+Piedmont Ave × Tenth St,69589540,-84.3804635,33.7817935,505912698,True,False,,,4
+Piedmont Ave × Pine St,69172097,-84.382019,33.767509,38974419,False,False,,,5
+Piedmont Ave × Pine St,69172097,-84.382019,33.767509,38974419,False,False,,,5
+Piedmont Ave × Pine St,69172097,-84.382019,33.767509,1466392611,True,False,1,1,2
+Piedmont Ave × Pine St,69172097,-84.382019,33.767509,1466392612,True,False,1,1,2
+Pine St × West Peachtree St,69262906,-84.3874569,33.7673478,9249360,False,True,,,3
+Pine St × West Peachtree St,69262906,-84.3874569,33.7673478,38976077,True,False,,,
+Pine St × West Peachtree St,69262906,-84.3874569,33.7673478,96398242,False,False,,,2
+Pine St × West Peachtree St,69262906,-84.3874569,33.7673478,1455666612,True,False,,,
+Pine St × Centennial Olympic Park Dr,69268441,-84.391893,33.767806,340371475,True,False,,,4
+Pine St × Centennial Olympic Park Dr,69268441,-84.391893,33.767806,340371475,True,False,,,4
+Pine St × Centennial Olympic Park Dr,69268441,-84.391893,33.767806,340371483,True,False,,,
+Pine St × Centennial Olympic Park Dr,69268441,-84.391893,33.767806,563804591,True,False,,,
+Andrew Young International Boulevard × Spring St,1896604241,-84.3890688,33.7597147,179318683,False,False,,,4
+Andrew Young International Boulevard × Spring St,1896604241,-84.3890688,33.7597147,179318683,False,False,,,4
+Andrew Young International Boulevard × Spring St,1896604241,-84.3890688,33.7597147,1040543348,False,False,,,2
+Andrew Young International Boulevard × Spring St,1896604241,-84.3890688,33.7597147,1040543348,False,False,,,2
+Jessie Hill Jr. Dr × Decatur St,69373735,-84.3842314,33.7506235,278887740,True,False,,,4
+Jessie Hill Jr. Dr × Decatur St,69373735,-84.3842314,33.7506235,329965272,True,False,1,1,2
+Jessie Hill Jr. Dr × Decatur St,69373735,-84.3842314,33.7506235,1378024086,True,True,3,1,4
+Jessie Hill Jr. Dr × Decatur St,69373735,-84.3842314,33.7506235,1466674223,True,False,,,4
+Jessie Hill Jr. Dr × Edgewood Av,8413393760,-84.3802891,33.7544576,9268678,True,False,,,
+Jessie Hill Jr. Dr × Edgewood Av,8413393760,-84.3802891,33.7544576,905997418,False,False,,,
+Jessie Hill Jr. Dr × Edgewood Av,8413393760,-84.3802891,33.7544576,989914212,True,False,,,
+Jessie Hill Jr. Dr × Edgewood Av,8413393760,-84.3802891,33.7544576,989914213,False,False,,,
+Jessie Hill Jr. Dr × John Wesley Dobbs Av,69501932,-84.3802477,33.7574074,435591243,False,False,,,2
+Jessie Hill Jr. Dr × John Wesley Dobbs Av,69501932,-84.3802477,33.7574074,563551375,True,False,,,
+Jessie Hill Jr. Dr × John Wesley Dobbs Av,69501932,-84.3802477,33.7574074,1021973640,False,False,,,
+Jessie Hill Jr. Dr × John Wesley Dobbs Av,69501932,-84.3802477,33.7574074,1049575883,True,False,,,
+Central Ave × Trinity Av,69476284,-84.3915282,33.7485518,630778919,False,True,,,4
+Central Ave × Trinity Av,69476284,-84.3915282,33.7485518,1053849375,True,False,2,2,4
+Central Ave × Trinity Av,69476284,-84.3915282,33.7485518,1053849376,False,False,,,3
+Central Ave × Trinity Av,69476284,-84.3915282,33.7485518,1177485087,True,True,2,1,3
+Chapel St × Centennial Olympic Park Dr,69212375,-84.39914,33.7523282,9276007,True,False,,,
+Chapel St × Centennial Olympic Park Dr,69212375,-84.39914,33.7523282,54032790,True,False,,,
+Chapel St × Centennial Olympic Park Dr,69212375,-84.39914,33.7523282,343096197,True,False,,,
+Chapel St × Centennial Olympic Park Dr,69212375,-84.39914,33.7523282,1029606878,False,True,,,2
+"Chappell Rd × Martin Luther King, Jr. Dr",69172744,-84.433328,33.753791,9241622,True,False,,,
+"Chappell Rd × Martin Luther King, Jr. Dr",69172744,-84.433328,33.753791,630644081,True,False,,,
+"Chappell Rd × Martin Luther King, Jr. Dr",69172744,-84.433328,33.753791,1380596298,True,False,,,
+"Chappell Rd × Martin Luther King, Jr. Dr",69172744,-84.433328,33.753791,1380596298,True,False,,,
+Chappell Rd × Simpson Rd,69315775,-84.432966,33.763546,146903564,True,False,,,
+Chappell Rd × Simpson Rd,69315775,-84.432966,33.763546,306007055,True,False,,,
+Chappell Rd × Simpson Rd,69315775,-84.432966,33.763546,506799392,True,False,,,
+Chappell Rd × Simpson Rd,69315775,-84.432966,33.763546,506799393,True,False,,,
+Charles Allen Dr × Parkway Dr,69207210,-84.3728166,33.773146,9269157,True,False,,,
+Charles Allen Dr × Parkway Dr,69207210,-84.3728166,33.773146,767912501,True,True,4,2,6
+Charles Allen Dr × Parkway Dr,69207210,-84.3728166,33.773146,1314845162,True,True,3,2,5
+Charles Allen Dr × Parkway Dr,69207210,-84.3728166,33.773146,1377742946,True,False,,,
+Chattahoochee Ave × Holmes St,69339874,-84.4160222,33.7996086,9278659,True,False,,,4
+Chattahoochee Ave × Holmes St,69339874,-84.4160222,33.7996086,361827919,True,False,1,1,2
+Chattahoochee Ave × Holmes St,69339874,-84.4160222,33.7996086,361827920,True,False,1,2,3
+Chattahoochee Ave × Holmes St,69339874,-84.4160222,33.7996086,361828346,True,True,3,1,4
+Chattahoochee Ave × Ellsworth Industrial Boulevard,69569803,-84.427013,33.800778,9271539,True,False,1,1,2
+Chattahoochee Ave × Ellsworth Industrial Boulevard,69569803,-84.427013,33.800778,169927462,True,False,,,
+Chattahoochee Ave × Ellsworth Industrial Boulevard,69569803,-84.427013,33.800778,169927463,True,False,,,4
+Chattahoochee Ave × Ellsworth Industrial Boulevard,69569803,-84.427013,33.800778,475048453,True,False,,,4
+Chester Ave × Memorial Dr,69389157,-84.359087,33.746604,9259081,True,False,,,
+Chester Ave × Memorial Dr,69389157,-84.359087,33.746604,1323077745,True,False,1,1,3
+Chester Ave × Memorial Dr,69389157,-84.359087,33.746604,1323077746,True,False,,,
+Chester Ave × Memorial Dr,69389157,-84.359087,33.746604,1323077747,True,True,2,1,3
+"Chicamauga Ave × Martin Luther King, Jr. Dr",69172738,-84.43206,33.753731,9251330,True,False,,,
+"Chicamauga Ave × Martin Luther King, Jr. Dr",69172738,-84.43206,33.753731,9263275,True,False,,,
+"Chicamauga Ave × Martin Luther King, Jr. Dr",69172738,-84.43206,33.753731,1380596298,True,False,,,
+"Chicamauga Ave × Martin Luther King, Jr. Dr",69172738,-84.43206,33.753731,1380596298,True,False,,,
+Cone St × Walton St,69493756,-84.391361,33.7569984,9270508,False,False,,,
+Cone St × Walton St,69493756,-84.391361,33.7569984,9270508,False,False,,,
+Cone St × Walton St,69493756,-84.391361,33.7569984,586590164,True,False,,,
+Cone St × Walton St,69493756,-84.391361,33.7569984,9267328,True,False,,,
+Connally St × Memorial Dr,69444023,-84.3815365,33.7468926,9263526,True,False,,,
+Connally St × Memorial Dr,69444023,-84.3815365,33.7468926,629238163,True,False,,,4
+Connally St × Memorial Dr,69444023,-84.3815365,33.7468926,1364243389,True,False,,,
+Connally St × Memorial Dr,69444023,-84.3815365,33.7468926,1364243390,True,False,,,4
+Eleventh St × Peachtree St,69227168,-84.3838515,33.7832062,9246225,True,False,1,1,2
+Eleventh St × Peachtree St,69227168,-84.3838515,33.7832062,198659569,True,False,,,
+Eleventh St × Peachtree St,69227168,-84.3838515,33.7832062,631653294,True,True,3,2,5
+Eleventh St × Peachtree St,69227168,-84.3838515,33.7832062,1377424701,True,True,3,2,5
+Ellis St × Peachtree St,3582046274,-84.3876252,33.7584382,133115165,True,False,1,1,2
+Ellis St × Peachtree St,3582046274,-84.3876252,33.7584382,9262919,False,False,,,
+Ellis St × Peachtree St,3582046274,-84.3876252,33.7584382,560066927,False,False,,,1
+Ellis St × Peachtree St,3582046274,-84.3876252,33.7584382,905997410,True,False,,,
+Ellis St × Piedmont Av,69172074,-84.3822079,33.7583802,782638784,False,False,,,4
+Ellis St × Piedmont Av,69172074,-84.3822079,33.7583802,954309330,False,True,,,4
+Ellis St × Piedmont Av,69172074,-84.3822079,33.7583802,954309331,False,False,,,4
+Ellis St × Piedmont Av,69172074,-84.3822079,33.7583802,1049575882,False,False,,,4
+Fair St × Peters St,69239370,-84.401148,33.747976,39447068,True,False,1,1,2
+Fair St × Peters St,69239370,-84.401148,33.747976,39447068,True,False,1,1,2
+Fair St × Peters St,69239370,-84.401148,33.747976,143768663,True,False,,,
+Fair St × Peters St,69239370,-84.401148,33.747976,1573534051,True,False,,,
+Amsterdam Ave × North Highland Av,69229271,-84.3553685,33.7875827,9246383,True,False,,,
+Amsterdam Ave × North Highland Av,69229271,-84.3553685,33.7875827,9246383,True,False,,,
+Amsterdam Ave × North Highland Av,69229271,-84.3553685,33.7875827,75359079,True,False,,,
+Amsterdam Ave × North Highland Av,69229271,-84.3553685,33.7875827,75359079,True,False,,,
+Angier Ave × Parkway Dr,69207181,-84.373376,33.766336,9244993,True,False,,,
+Angier Ave × Parkway Dr,69207181,-84.373376,33.766336,9244993,True,False,,,
+Angier Ave × Parkway Dr,69207181,-84.373376,33.766336,1423084296,True,False,,,
+Angier Ave × Parkway Dr,69207181,-84.373376,33.766336,1423084296,True,False,,,
+Argonne Ave × Ponce De Leon Av,69279713,-84.377702,33.772554,9250084,True,False,,,
+Argonne Ave × Ponce De Leon Av,69279713,-84.377702,33.772554,44450085,True,False,1,1,2
+Argonne Ave × Ponce De Leon Av,69279713,-84.377702,33.772554,1314860801,True,True,3,2,5
+Argonne Ave × Ponce De Leon Av,69279713,-84.377702,33.772554,1314860802,True,True,3,2,5
+Arkwright Place × Moreland Av,69209935,-84.3492045,33.7480782,9167861,True,False,,,
+Arkwright Place × Moreland Av,69209935,-84.3492045,33.7480782,605238816,True,False,2,3,5
+Arkwright Place × Moreland Av,69209935,-84.3492045,33.7480782,605238817,True,True,3,2,5
+Arkwright Place × Moreland Av,69209935,-84.3492045,33.7480782,856050048,True,False,,,
+Armstead Place × Spring St,69372261,-84.388808,33.7758859,9257938,True,False,1,1,2
+Armstead Place × Spring St,69372261,-84.388808,33.7758859,42793519,True,False,,,
+Armstead Place × Spring St,69372261,-84.388808,33.7758859,234013259,False,False,,,4
+Armstead Place × Spring St,69372261,-84.388808,33.7758859,1103152009,False,False,,,4
+Atlanta Ave × Capitol Av,69189007,-84.38795,33.730397,9244183,False,False,,,2
+Atlanta Ave × Capitol Av,69189007,-84.38795,33.730397,276656200,False,False,,,1
+Atlanta Ave × Capitol Av,69189007,-84.38795,33.730397,276656212,True,False,,,
+Atlanta Ave × Capitol Av,69189007,-84.38795,33.730397,629305942,True,False,,,
+Atlanta Ave × Hill St,69189027,-84.378512,33.730323,276656210,True,False,1,1,2
+Atlanta Ave × Hill St,69189027,-84.378512,33.730323,607701919,True,False,1,1,2
+Atlanta Ave × Hill St,69189027,-84.378512,33.730323,630644173,True,False,,,
+Atlanta Ave × Hill St,69189027,-84.378512,33.730323,740426336,False,False,,,1
+Atlanta Ave × Martin St,69189013,-84.384382,33.730374,276656200,False,False,,,1
+Atlanta Ave × Martin St,69189013,-84.384382,33.730374,1026918499,False,False,,,1
+Atlanta Ave × Martin St,69189013,-84.384382,33.730374,1026918500,True,False,,,
+Atlanta Ave × Martin St,69189013,-84.384382,33.730374,1026918502,False,False,,,
+Auburn Ave × Bell St,3582046430,-84.379425,33.7555314,9269357,False,True,,,2
+Auburn Ave × Bell St,3582046430,-84.379425,33.7555314,9269357,False,True,,,2
+Auburn Ave × Bell St,3582046430,-84.379425,33.7555314,335295939,True,False,,,
+Auburn Ave × Bell St,3582046430,-84.379425,33.7555314,335295939,True,False,,,
+Auburn Ave × Boulevard,69168675,-84.372136,33.755473,9262788,True,False,,,
+Auburn Ave × Boulevard,69168675,-84.372136,33.755473,507030160,True,False,1,1,2
+Auburn Ave × Boulevard,69168675,-84.372136,33.755473,525762027,True,False,1,1,2
+Auburn Ave × Boulevard,69168675,-84.372136,33.755473,563533861,True,False,,,4
+Auburn Ave × Peachtree Center Av,3582046422,-84.3861218,33.7555636,563551378,True,False,,,
+Auburn Ave × Peachtree Center Av,3582046422,-84.3861218,33.7555636,630644327,True,False,,,
+Auburn Ave × Peachtree Center Av,3582046422,-84.3861218,33.7555636,1037077590,False,True,,,3
+Auburn Ave × Peachtree Center Av,3582046422,-84.3861218,33.7555636,1037083651,False,False,,,2
+Auburn Ave × Piedmont Av,3582046427,-84.3822548,33.7555521,9241168,False,False,,,3
+Auburn Ave × Piedmont Av,3582046427,-84.3822548,33.7555521,630048318,False,False,,,3
+Auburn Ave × Piedmont Av,3582046427,-84.3822548,33.7555521,1118731507,True,False,,,
+Auburn Ave × Piedmont Av,3582046427,-84.3822548,33.7555521,1118731507,True,False,,,
+Avon Ave × Cascade Circle,69202498,-84.450248,33.723214,9259494,True,False,,,
+Avon Ave × Cascade Circle,69202498,-84.450248,33.723214,9263037,True,False,,,
+Avon Ave × Cascade Circle,69202498,-84.450248,33.723214,506760207,True,False,,,
+Avon Ave × Cascade Circle,69202498,-84.450248,33.723214,506760207,True,False,,,
+Baker St × Peachtree Center Av,69381942,-84.3860156,33.7622338,630696899,False,False,,,2
+Baker St × Peachtree Center Av,69381942,-84.3860156,33.7622338,630696900,False,False,,,4
+Baker St × Peachtree Center Av,69381942,-84.3860156,33.7622338,1021982019,False,False,,,3
+Baker St × Peachtree Center Av,69381942,-84.3860156,33.7622338,1038713476,False,False,,,2
+Baker St × Piedmont Av,69172080,-84.3821169,33.7621979,38974417,False,False,,,5
+Baker St × Piedmont Av,69172080,-84.3821169,33.7621979,38974432,False,False,,,
+Baker St × Piedmont Av,69172080,-84.3821169,33.7621979,273202282,False,False,,,5
+Baker St × Piedmont Av,69172080,-84.3821169,33.7621979,273202287,False,False,,,
+Baker St × Williams St,69500542,-84.390548,33.7622729,40860495,True,False,,,4
+Baker St × Williams St,69500542,-84.390548,33.7622729,617206186,False,True,,,4
+Baker St × Williams St,69500542,-84.390548,33.7622729,630696901,True,False,,,4
+Baker St × Williams St,69500542,-84.390548,33.7622729,631165845,False,False,,,4
+Barnett St × Ponce De Leon Av,69436184,-84.3587341,33.7738235,9275167,True,False,,,
+Barnett St × Ponce De Leon Av,69436184,-84.3587341,33.7738235,9275167,True,False,,,
+Barnett St × Ponce De Leon Av,69436184,-84.3587341,33.7738235,311774611,True,True,3,2,5
+Barnett St × Ponce De Leon Av,69436184,-84.3587341,33.7738235,311774615,True,True,3,2,5
+Beecher Rd × Cascade Av,69202442,-84.4375364,33.7334178,1490471889,True,False,,,
+Beecher Rd × Cascade Av,69202442,-84.4375364,33.7334178,9264517,True,False,,,
+Beecher Rd × Cascade Av,69202442,-84.4375364,33.7334178,1490471888,True,False,,,
+Beecher Rd × Cascade Av,69202442,-84.4375364,33.7334178,1490471890,True,True,2,1,3
+Bell St × Decatur St,69390162,-84.379528,33.749767,38945244,True,False,,,
+Bell St × Decatur St,69390162,-84.379528,33.749767,581519694,True,False,,,
+Bell St × Decatur St,69390162,-84.379528,33.749767,1377984201,True,True,2,1,3
+Bell St × Decatur St,69390162,-84.379528,33.749767,1377998220,True,True,2,1,3
+Bell St × Edgewood Av,8413393765,-84.3794308,33.7544446,9269357,False,True,,,2
+Bell St × Edgewood Av,8413393765,-84.3794308,33.7544446,905997417,False,False,,,
+Bell St × Edgewood Av,8413393765,-84.3794308,33.7544446,905997418,False,False,,,
+Bell St × Edgewood Av,8413393765,-84.3794308,33.7544446,1102851575,False,True,,,2
+Bellemeade Ave × Defoor Av,69335877,-84.4159631,33.8004713,9266984,True,False,1,1,2
+Bellemeade Ave × Defoor Av,69335877,-84.4159631,33.8004713,361827921,True,True,3,2,5
+Bellemeade Ave × Defoor Av,69335877,-84.4159631,33.8004713,361827922,True,False,2,2,4
+Bellemeade Ave × Defoor Av,69335877,-84.4159631,33.8004713,894690597,True,False,1,1,2
+Biltmore Place × Sixth St,69328520,-84.3872945,33.7775536,9253622,True,False,,,
+Biltmore Place × Sixth St,69328520,-84.3872945,33.7775536,9255480,True,False,,,
+Biltmore Place × Sixth St,69328520,-84.3872945,33.7775536,234013261,False,False,,,4
+Biltmore Place × Sixth St,69328520,-84.3872945,33.7775536,234013261,False,False,,,4
+Boulevard × Custer Av,69272077,-84.368547,33.71711,629238169,True,False,,,4
+Boulevard × Custer Av,69272077,-84.368547,33.71711,629305939,True,False,,,
+Boulevard × Custer Av,69272077,-84.368547,33.71711,1245451453,True,False,,,
+Boulevard × Custer Av,69272077,-84.368547,33.71711,1466964709,True,False,1,1,2
+Boulevard × Confederate Av,69133574,-84.368223,33.735688,38943947,True,False,,,
+Boulevard × Confederate Av,69133574,-84.368223,33.735688,38943947,True,False,,,
+Boulevard × Confederate Av,69133574,-84.368223,33.735688,806172512,True,False,,,
+Boulevard × Confederate Av,69133574,-84.368223,33.735688,1118666697,True,False,,,
+Boulevard × Freedom Parkway,69286342,-84.3720588,33.760107,563533857,True,False,,,4
+Boulevard × Freedom Parkway,69286342,-84.3720588,33.760107,563533858,True,True,3,2,5
+Boulevard × Freedom Parkway,69286342,-84.3720588,33.760107,563533859,False,True,,,4
+Boulevard × Freedom Parkway,69286342,-84.3720588,33.760107,629796616,False,False,,,2
+Boulevard × Highland Av,69146707,-84.372027,33.761356,1377702462,True,True,3,2,5
+Boulevard × Highland Av,69146707,-84.372027,33.761356,1377702463,True,False,,,
+Boulevard × Highland Av,69146707,-84.372027,33.761356,1377702464,True,False,,,4
+Boulevard × Highland Av,69146707,-84.372027,33.761356,1379292519,True,True,2,1,3
+Boulevard × John Wesley Dobbs Av,69435779,-84.372087,33.759347,563533861,True,False,,,4
+Boulevard × John Wesley Dobbs Av,69435779,-84.372087,33.759347,563533861,True,False,,,4
+Boulevard × John Wesley Dobbs Av,69435779,-84.372087,33.759347,1072935144,True,False,1,1,2
+Boulevard × John Wesley Dobbs Av,69435779,-84.372087,33.759347,1423083006,True,False,1,1,2
+Boulevard × Irwin St,69435776,-84.372109,33.75766,563533861,True,False,,,4
+Boulevard × Irwin St,69435776,-84.372109,33.75766,563533861,True,False,,,4
+Boulevard × Irwin St,69435776,-84.372109,33.75766,30872702,True,False,1,1,2
+Boulevard × Irwin St,69435776,-84.372109,33.75766,30872702,True,False,1,1,2
+Boulevard × McDonough Boulevard,69193533,-84.3685804,33.7138195,146767467,True,False,,,
+Boulevard × McDonough Boulevard,69193533,-84.3685804,33.7138195,629238169,True,False,,,4
+Boulevard × McDonough Boulevard,69193533,-84.3685804,33.7138195,1379655271,True,True,2,1,3
+Boulevard × McDonough Boulevard,69193533,-84.3685804,33.7138195,1466964704,True,False,,,
+Boulevard × Monroe Dr,69146790,-84.370957,33.7736584,630048362,True,True,3,3,6
+Boulevard × Monroe Dr,69146790,-84.370957,33.7736584,1377701377,True,True,2,1,3
+Boulevard × Monroe Dr,69146790,-84.370957,33.7736584,1499709565,True,False,,,4
+Boulevard × Monroe Dr,69146790,-84.370957,33.7736584,1499709567,True,True,3,2,5
+Boulevard × Ralph McGill Boulevard,69146733,-84.371957,33.763958,28688645,True,False,,,
+Boulevard × Ralph McGill Boulevard,69146733,-84.371957,33.763958,630643904,True,False,,,
+Boulevard × Ralph McGill Boulevard,69146733,-84.371957,33.763958,1075611867,True,False,,,4
+Boulevard × Ralph McGill Boulevard,69146733,-84.371957,33.763958,1075611867,True,False,,,4
+Boulevard × Wabash Av,69146743,-84.371944,33.764849,9246915,True,False,,,
+Boulevard × Wabash Av,69146743,-84.371944,33.764849,1075611867,True,False,,,4
+Boulevard × Wabash Av,69146743,-84.371944,33.764849,1075611867,True,False,,,4
+Boulevard × Wabash Av,69146743,-84.371944,33.764849,1423083095,True,False,,,
+Boulevard Dr/ Hosea Williams Dr × Moreland Av,69435788,-84.3492112,33.7535509,9175949,True,False,,,
+Boulevard Dr/ Hosea Williams Dr × Moreland Av,69435788,-84.3492112,33.7535509,9262789,True,False,,,
+Boulevard Dr/ Hosea Williams Dr × Moreland Av,69435788,-84.3492112,33.7535509,1314623237,True,True,3,2,5
+Boulevard Dr/ Hosea Williams Dr × Moreland Av,69435788,-84.3492112,33.7535509,1314626869,True,True,3,2,5
+Browning St × Laurel Av,69172773,-84.440243,33.752053,9274369,True,False,,,
+Browning St × Laurel Av,69172773,-84.440243,33.752053,1380587514,True,True,2,1,3
+Browning St × Laurel Av,69172773,-84.440243,33.752053,9264803,True,False,,,
+Browning St × Laurel Av,69172773,-84.440243,33.752053,1380173110,True,True,2,1,3
+Spring Street NW × 4th Street NW,69370174,-84.388818,33.775115,9257613,True,False,,,
+Spring Street NW × 4th Street NW,69370174,-84.388818,33.775115,143787139,True,False,,,
+Spring Street NW × 4th Street NW,69370174,-84.388818,33.775115,234013259,False,False,,,4
+Spring Street NW × 4th Street NW,69370174,-84.388818,33.775115,234013259,False,False,,,4
+Spring Street NW × 3rd Street NW,69233387,-84.3888318,33.7738811,144417817,True,False,,,
+Spring Street NW × 3rd Street NW,69233387,-84.3888318,33.7738811,144417817,True,False,,,
+Spring Street NW × 3rd Street NW,69233387,-84.3888318,33.7738811,234013259,False,False,,,4
+Spring Street NW × 3rd Street NW,69233387,-84.3888318,33.7738811,1117890735,False,False,,,4
+West Peachtree St NW × 4th St NW,69365771,-84.3873221,33.7750909,9257613,True,False,,,
+West Peachtree St NW × 4th St NW,69365771,-84.3873221,33.7750909,42507975,True,False,,,
+West Peachtree St NW × 4th St NW,69365771,-84.3873221,33.7750909,311764308,False,False,,,4
+West Peachtree St NW × 4th St NW,69365771,-84.3873221,33.7750909,311764308,False,False,,,4
+West Peachtree St NW × 13th St NW,69249251,-84.387815,33.7857397,9247809,True,False,,,
+West Peachtree St NW × 13th St NW,69249251,-84.387815,33.7857397,9248097,True,False,1,1,2
+West Peachtree St NW × 13th St NW,69249251,-84.387815,33.7857397,44450083,False,False,,,3
+West Peachtree St NW × 13th St NW,69249251,-84.387815,33.7857397,1051776111,False,False,,,5
+Peachtree St NE × 13th St NE,69249210,-84.3829993,33.7854532,9247806,True,False,,,
+Peachtree St NE × 13th St NE,69249210,-84.3829993,33.7854532,354587522,True,False,,,4
+Peachtree St NE × 13th St NE,69249210,-84.3829993,33.7854532,354587522,True,False,,,4
+Peachtree St NE × 13th St NE,69249210,-84.3829993,33.7854532,561173073,True,False,,,
+Juniper St NE × 13th St NE,69249214,-84.382174,33.785432,9272944,False,False,,,4
+Juniper St NE × 13th St NE,69249214,-84.382174,33.785432,750019483,True,False,,,
+Juniper St NE × 13th St NE,69249214,-84.382174,33.785432,1029549928,False,True,,,4
+Juniper St NE × 13th St NE,69249214,-84.382174,33.785432,1424485367,True,False,,,
+Marietta Blvd NW × Thomas St NW,3370843981,-84.436063,33.8015911,1388097240,True,False,,,
+Marietta Blvd NW × Thomas St NW,3370843981,-84.436063,33.8015911,1388097240,True,False,,,
+Marietta Blvd NW × Thomas St NW,3370843981,-84.436063,33.8015911,424164912,False,False,,,2
+Marietta Blvd NW × Thomas St NW,3370843981,-84.436063,33.8015911,424164912,False,False,,,2
+Northside Dr NW × 11th St NW,3650929430,-84.4074203,33.7830191,9246471,True,False,,,
+Northside Dr NW × 11th St NW,3650929430,-84.4074203,33.7830191,112511427,False,False,,,3
+Northside Dr NW × 11th St NW,3650929430,-84.4074203,33.7830191,1227565871,False,False,,,3
+Northside Dr NW × 11th St NW,3650929430,-84.4074203,33.7830191,1274802818,True,False,,,
+Ivan Allen Blvd × A Parking,7555506096,-84.3935337,33.7645381,193179043,True,False,,,
+Ivan Allen Blvd × A Parking,7555506096,-84.3935337,33.7645381,288351601,False,False,,,2
+Ivan Allen Blvd × A Parking,7555506096,-84.3935337,33.7645381,807957603,False,False,,,2
+Ivan Allen Blvd × A Parking,7555506096,-84.3935337,33.7645381,848757195,True,False,,,
+PEACHTREE ST NE × 4TH ST NE,69365780,-84.3846522,33.774916,42507975,True,False,,,
+PEACHTREE ST NE × 4TH ST NE,69365780,-84.3846522,33.774916,42507975,True,False,,,
+PEACHTREE ST NE × 4TH ST NE,69365780,-84.3846522,33.774916,959690884,True,False,1,1,2
+PEACHTREE ST NE × 4TH ST NE,69365780,-84.3846522,33.774916,959690884,True,False,1,1,2
+Ralph David Abernathy Blvd × Georgia State University Stadium PHB ( Street H),69348310,-84.389373,33.737461,1123553443,True,False,,,
+Ralph David Abernathy Blvd × Georgia State University Stadium PHB ( Street H),69348310,-84.389373,33.737461,1193413473,True,False,,,
+Ralph David Abernathy Blvd × Georgia State University Stadium PHB ( Street H),69348310,-84.389373,33.737461,1379017226,True,False,,,
+Ralph David Abernathy Blvd × Georgia State University Stadium PHB ( Street H),69348310,-84.389373,33.737461,1379017226,True,False,,,
+SR 42 × PHB,2271170137,-84.3490499,33.7671041,144479818,True,False,,,4
+SR 42 × PHB,2271170137,-84.3490499,33.7671041,144479818,True,False,,,4
+SR 42 × PHB,2271170137,-84.3490499,33.7671041,217813180,True,False,,,
+SR 42 × PHB,2271170137,-84.3490499,33.7671041,562443481,True,False,,,
+Ferst Dr × Ponders Av,1117527718,-84.4028011,33.77386,42112849,True,False,,,
+Ferst Dr × Ponders Av,1117527718,-84.4028011,33.77386,43391736,True,False,,,3
+Ferst Dr × Ponders Av,1117527718,-84.4028011,33.77386,179238155,True,False,1,1,2
+Ferst Dr × Ponders Av,1117527718,-84.4028011,33.77386,327496715,True,False,1,1,2
+Joseph Lowery Boulevard × Beecher St,69458080,-84.417725,33.733427,306021857,True,False,,,
+Joseph Lowery Boulevard × Beecher St,69458080,-84.417725,33.733427,306021857,True,False,,,
+Joseph Lowery Boulevard × Beecher St,69458080,-84.417725,33.733427,9264518,True,False,,,
+Joseph Lowery Boulevard × Beecher St,69458080,-84.417725,33.733427,1573534092,True,False,,,
+North Ave NE × Somerset Ter NE,69256308,-84.362288,33.771134,9253629,True,False,,,
+North Ave NE × Somerset Ter NE,69256308,-84.362288,33.771134,782645243,True,False,,,
+North Ave NE × Somerset Ter NE,69256308,-84.362288,33.771134,1118174878,True,False,,,
+North Ave NE × Somerset Ter NE,69256308,-84.362288,33.771134,1379292687,True,False,2,2,4
+Spring St × 8Th St,69616394,-84.3888227,33.7795655,9276954,True,False,,,
+Spring St × 8Th St,69616394,-84.3888227,33.7795655,9276954,True,False,,,
+Spring St × 8Th St,69616394,-84.3888227,33.7795655,234013260,False,True,,,4
+Spring St × 8Th St,69616394,-84.3888227,33.7795655,234013260,False,False,,,4
+"Martin Luther King, Jr. Dr × Pryor St",69167146,-84.3909892,33.7514101,630644331,False,False,,,4
+"Martin Luther King, Jr. Dr × Pryor St",69167146,-84.3909892,33.7514101,1390865994,True,False,,,
+"Martin Luther King, Jr. Dr × Pryor St",69167146,-84.3909892,33.7514101,1390865994,True,False,,,
+"Martin Luther King, Jr. Dr × Pryor St",69167146,-84.3909892,33.7514101,1390865995,True,False,,,
+North Highland Ave × Ponce De Leon Av,69436193,-84.352509,33.773833,422710712,True,True,4,2,6
+North Highland Ave × Ponce De Leon Av,69436193,-84.352509,33.773833,525613028,True,False,,,
+North Highland Ave × Ponce De Leon Av,69436193,-84.352509,33.773833,630048361,True,False,,,
+North Highland Ave × Ponce De Leon Av,69436193,-84.352509,33.773833,1314767698,True,True,3,2,5
+Ralph David Avernathy Blvd SW × Pollard Blvd SW,69348292,-84.3908623,33.7368663,563546417,True,False,,,
+Ralph David Avernathy Blvd SW × Pollard Blvd SW,69348292,-84.3908623,33.7368663,9255297,True,True,3,2,5
+Ralph David Avernathy Blvd SW × Pollard Blvd SW,69348292,-84.3908623,33.7368663,563546418,True,False,,,
+Ralph David Avernathy Blvd SW × Pollard Blvd SW,69348292,-84.3908623,33.7368663,1377452535,True,True,3,2,5
+SR 154 × Gibson St SE,69335656,-84.3556589,33.7465601,9254525,True,False,,,
+SR 154 × Gibson St SE,69335656,-84.3556589,33.7465601,563537707,True,True,2,1,3
+SR 154 × Gibson St SE,69335656,-84.3556589,33.7465601,1342061826,True,True,2,1,3
+SR 154 × Gibson St SE,69335656,-84.3556589,33.7465601,1416299805,True,False,,,
+Spring St NW × Pine St NW,69268531,-84.3878937,33.7673666,9249360,False,True,,,3
+Spring St NW × Pine St NW,69268531,-84.3878937,33.7673666,9267155,False,False,,,3
+Spring St NW × Pine St NW,69268531,-84.3878937,33.7673666,96398244,False,True,,,4
+Spring St NW × Pine St NW,69268531,-84.3878937,33.7673666,1029597389,False,False,,,2
+Chattahoochee Ave × Southland Cir,69490074,-84.429858,33.8015821,1441870234,True,False,,,4
+Chattahoochee Ave × Southland Cir,69490074,-84.429858,33.8015821,1441870235,True,True,3,2,5
+Chattahoochee Ave × Southland Cir,69490074,-84.429858,33.8015821,1510959914,False,False,,,
+Chattahoochee Ave × Southland Cir,69490074,-84.429858,33.8015821,1521078076,True,False,1,1,2
+14th St NW × Interlock Ave,69425069,-84.410321,33.785828,981568754,True,False,,,
+14th St NW × Interlock Ave,69425069,-84.410321,33.785828,1052987776,True,False,,,
+14th St NW × Interlock Ave,69425069,-84.410321,33.785828,1052987776,True,False,,,
+14th St NW × Interlock Ave,69425069,-84.410321,33.785828,1280115601,True,False,,,
+Peachtree St × Trinity Av,69476287,-84.3938925,33.7498466,169927472,True,False,,,
+Peachtree St × Trinity Av,69476287,-84.3938925,33.7498466,1177485081,True,True,2,1,3
+Peachtree St × Trinity Av,69476287,-84.3938925,33.7498466,1177485082,True,False,,,4
+Peachtree St × Trinity Av,69476287,-84.3938925,33.7498466,1177485084,True,True,2,1,3
+Juniper Street × 6Th St,69350687,-84.3828269,33.7772592,42507607,True,False,1,1,2
+Juniper Street × 6Th St,69350687,-84.3828269,33.7772592,435349852,False,False,,,
+Juniper Street × 6Th St,69350687,-84.3828269,33.7772592,435349855,False,False,,,
+Juniper Street × 6Th St,69350687,-84.3828269,33.7772592,1029549929,False,False,,,4
+Howell Mill Rd × White St,69339890,-84.41559,33.801378,9264315,True,False,,,
+Howell Mill Rd × White St,69339890,-84.41559,33.801378,62605969,True,False,,,
+Howell Mill Rd × White St,69339890,-84.41559,33.801378,361827923,True,False,,,4
+Howell Mill Rd × White St,69339890,-84.41559,33.801378,361827923,True,False,,,4
+Central Ave × Memorial Dr,69657397,-84.3927955,33.7469377,1053849377,False,False,,,4
+Central Ave × Memorial Dr,69657397,-84.3927955,33.7469377,1053849378,False,True,,,5
+Central Ave × Memorial Dr,69657397,-84.3927955,33.7469377,1053849379,True,False,,,
+Central Ave × Memorial Dr,69657397,-84.3927955,33.7469377,1377166241,True,True,2,1,3
+Magnolia St × Northside Dr,69521845,-84.402773,33.758056,1303022552,True,False,2,3,5
+Magnolia St × Northside Dr,69521845,-84.402773,33.758056,1303022552,True,False,3,2,5
+Magnolia St × Northside Dr,69521845,-84.402773,33.758056,9268829,True,False,,,
+Magnolia St × Northside Dr,69521845,-84.402773,33.758056,667730445,True,False,,,
+Flat Shoals Ave × Metropolitan Av,68211342,-84.347193,33.741898,9170994,True,False,,,
+Flat Shoals Ave × Metropolitan Av,68211342,-84.347193,33.741898,9170994,True,False,,,
+Flat Shoals Ave × Metropolitan Av,68211342,-84.347193,33.741898,563545373,True,False,,,
+Flat Shoals Ave × Metropolitan Av,68211342,-84.347193,33.741898,563545373,True,False,,,
+Capitol Ave × Fulton St,69573611,-84.3877898,33.7418889,9275557,True,False,,,
+Capitol Ave × Fulton St,69573611,-84.3877898,33.7418889,9275155,True,False,,,
+Capitol Ave × Fulton St,69573611,-84.3877898,33.7418889,38945818,True,False,,,
+Capitol Ave × Fulton St,69573611,-84.3877898,33.7418889,1022183584,True,False,,,
+Central Ave × Ralph David Abernathy Boulevard,4402671253,-84.3934803,33.7367916,1010181505,False,False,,,3
+Central Ave × Ralph David Abernathy Boulevard,4402671253,-84.3934803,33.7367916,1033718448,False,False,,,2
+Central Ave × Ralph David Abernathy Boulevard,4402671253,-84.3934803,33.7367916,1033718449,False,False,,,3
+Central Ave × Ralph David Abernathy Boulevard,4402671253,-84.3934803,33.7367916,1033718450,False,True,,,3
+Fairlie St × Marietta St,69576506,-84.391546,33.7559655,169927473,False,False,,,2
+Fairlie St × Marietta St,69576506,-84.391546,33.7559655,169927473,False,False,,,2
+Fairlie St × Marietta St,69576506,-84.391546,33.7559655,586615645,False,False,,,
+Fairlie St × Marietta St,69576506,-84.391546,33.7559655,619380484,True,False,,,
+Techwood Dr × 3Rd St,69199062,-84.3919846,33.7739082,9244537,False,False,,,
+Techwood Dr × 3Rd St,69199062,-84.3919846,33.7739082,42113276,True,False,,,
+Techwood Dr × 3Rd St,69199062,-84.3919846,33.7739082,179234388,True,False,1,1,2
+Techwood Dr × 3Rd St,69199062,-84.3919846,33.7739082,179234389,True,False,1,1,2
+5TH ST NW × WILLIAMS ST NW,69532277,-84.390396,33.776871,26800206,True,False,1,2,3
+5TH ST NW × WILLIAMS ST NW,69532277,-84.390396,33.776871,62607076,False,False,,,1
+5TH ST NW × WILLIAMS ST NW,69532277,-84.390396,33.776871,9269253,True,False,,,
+5TH ST NW × WILLIAMS ST NW,69532277,-84.390396,33.776871,233974204,True,False,1,1,2
+Formwalt St × Fulton St,69532465,-84.395732,33.7419606,561774333,True,False,,,
+Formwalt St × Fulton St,69532465,-84.395732,33.7419606,561774333,True,False,,,
+Formwalt St × Fulton St,69532465,-84.395732,33.7419606,807409588,True,False,,,
+Formwalt St × Fulton St,69532465,-84.395732,33.7419606,807409588,True,False,,,
+Marietta Boulevard × Tacoma Dr,69547305,-84.4318456,33.7947229,9270282,True,False,,,
+Marietta Boulevard × Tacoma Dr,69547305,-84.4318456,33.7947229,9270282,True,False,,,
+Marietta Boulevard × Tacoma Dr,69547305,-84.4318456,33.7947229,169927466,False,False,,,2
+Marietta Boulevard × Tacoma Dr,69547305,-84.4318456,33.7947229,169927466,False,False,,,2
+Martin St × Memorial Dirve,69362092,-84.3838402,33.7468772,9256324,True,False,,,
+Martin St × Memorial Dirve,69362092,-84.3838402,33.7468772,30678783,True,False,,,
+Martin St × Memorial Dirve,69362092,-84.3838402,33.7468772,547005483,False,True,,,3
+Martin St × Memorial Dirve,69362092,-84.3838402,33.7468772,808039074,False,False,,,2
+Andrew Young International Boulevard × Piedmont Av,69122237,-84.382188,33.759658,9260027,False,False,,,2
+Andrew Young International Boulevard × Piedmont Av,69122237,-84.382188,33.759658,38974044,False,False,,,4
+Andrew Young International Boulevard × Piedmont Av,69122237,-84.382188,33.759658,782638784,False,False,,,4
+Andrew Young International Boulevard × Piedmont Av,69122237,-84.382188,33.759658,782638784,False,False,,,4
+Edgewood Ave × Elizabeth St,69182905,-84.355508,33.756608,9242139,True,False,,,
+Edgewood Ave × Elizabeth St,69182905,-84.355508,33.756608,9242139,True,False,,,
+Edgewood Ave × Elizabeth St,69182905,-84.355508,33.756608,133114922,True,False,1,1,2
+Edgewood Ave × Elizabeth St,69182905,-84.355508,33.756608,133114923,True,False,,,
+Mitchell St × Spring St,69171513,-84.3956705,33.7523901,39441444,True,False,,,
+Mitchell St × Spring St,69171513,-84.3956705,33.7523901,55464780,True,False,,,4
+Mitchell St × Spring St,69171513,-84.3956705,33.7523901,629278226,False,False,,,2
+Mitchell St × Spring St,69171513,-84.3956705,33.7523901,1390568373,True,False,,,4
+North Ave × Centennial Olympic Park Dr,69259142,-84.3920541,33.7712937,30455705,True,True,2,1,3
+North Ave × Centennial Olympic Park Dr,69259142,-84.3920541,33.7712937,169925547,True,True,3,2,5
+North Ave × Centennial Olympic Park Dr,69259142,-84.3920541,33.7712937,303454535,True,True,3,2,5
+North Ave × Centennial Olympic Park Dr,69259142,-84.3920541,33.7712937,303454539,True,True,3,2,5
+Parkway Dr × Ralph McGill Boulevard,69207168,-84.373664,33.763976,9244993,True,False,,,
+Parkway Dr × Ralph McGill Boulevard,69207168,-84.373664,33.763976,630643904,True,False,,,
+Parkway Dr × Ralph McGill Boulevard,69207168,-84.373664,33.763976,1030012715,True,False,,,
+Parkway Dr × Ralph McGill Boulevard,69207168,-84.373664,33.763976,1445358602,True,True,2,1,3
+Peachtree St × 7Th St,69515340,-84.384307,33.7785227,9268354,True,False,1,1,2
+Peachtree St × 7Th St,69515340,-84.384307,33.7785227,9268354,True,False,1,1,2
+Peachtree St × 7Th St,69515340,-84.384307,33.7785227,959690884,True,False,1,1,2
+Peachtree St × 7Th St,69515340,-84.384307,33.7785227,959690884,True,False,1,1,2
+Piedmont Ave × Ponce De Leon Av,69172112,-84.3817824,33.772501,41546921,True,True,3,2,5
+Piedmont Ave × Ponce De Leon Av,69172112,-84.3817824,33.772501,431571138,False,True,,,4
+Piedmont Ave × Ponce De Leon Av,69172112,-84.3817824,33.772501,547651109,False,False,,,3
+Piedmont Ave × Ponce De Leon Av,69172112,-84.3817824,33.772501,1118916318,True,False,2,2,4
+Argonne Ave × North Av,69256287,-84.377735,33.771233,1014049098,True,False,,,6
+Argonne Ave × North Av,69256287,-84.377735,33.771233,9250084,True,False,,,
+Argonne Ave × North Av,69256287,-84.377735,33.771233,1030012721,False,True,,,3
+Argonne Ave × North Av,69256287,-84.377735,33.771233,1302212735,True,True,3,2,5
+Auburn Ave × Jackson St,3582046439,-84.37438,33.755491,9259643,True,False,1,1,2
+Auburn Ave × Jackson St,3582046439,-84.37438,33.755491,507030160,True,False,1,1,2
+Auburn Ave × Jackson St,3582046439,-84.37438,33.755491,507030161,True,False,,,
+Auburn Ave × Jackson St,3582046439,-84.37438,33.755491,507030164,True,False,1,1,2
+Barnett St × Saint Charles Place,69294918,-84.358716,33.775423,9250714,True,False,,,
+Barnett St × Saint Charles Place,69294918,-84.358716,33.775423,9250714,True,False,,,
+Barnett St × Saint Charles Place,69294918,-84.358716,33.775423,9275167,True,False,,,
+Barnett St × Saint Charles Place,69294918,-84.358716,33.775423,9275167,True,False,,,

@@ -60,12 +60,14 @@ def write_demand(config: PipelineConfig, scenario: Scenario, directory: Path):
                 if rate <= 0 or end <= begin:
                     continue
                 flow_id = f'{cohort}_{arm}_{movement}'
+                count = scheduled_count(rate, end - begin)
+                # Use the planned count so SUMO headway rounding cannot add a departure.
                 ET.SubElement(root, 'flow', id=flow_id, type='car', route=f'{arm}_{movement}',
-                              begin=str(begin), end=str(end), vehsPerHour=f'{rate:.12g}',
+                              begin=str(begin), vehsPerHour=f'{rate:.12g}', number=str(count),
                               departLane='0', departPos='base', departSpeed='max', arrivalPos='max')
                 rows.append({'flow_id': flow_id, 'cohort': cohort, 'approach': arm,
                              'movement': movement, 'rate_vph': rate, 'begin_s': begin, 'end_s': end,
-                             'scheduled_vehicles': scheduled_count(rate, end - begin)})
+                             'scheduled_vehicles': count})
     directory.mkdir(parents=True, exist_ok=True)
     write_xml(root, directory / 'demand.rou.xml')
     frame = pd.DataFrame(rows)

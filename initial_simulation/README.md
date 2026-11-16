@@ -137,7 +137,7 @@ The resulting nine scenarios are ordered by increasing Q, then increasing D. For
 
 The pipeline creates route-specific `<flow vehsPerHour="...">` definitions, not a native SUMO imbalance parameter. Left, through, and right movements receive 10%, 80%, and 10% of each approach's rate.
 
-A regular SUMO flow requests its first vehicle at `begin` and repeats before `end`. Integer vehicle counts therefore need not equal `rate × duration` exactly. For example, 45 veh/h over 1800 seconds produces 23 requests. `scenarios.csv` reports requested Q/D alongside effective Q/D, turning share, and scheduled evaluation counts. These are input checks, not additional scenario features. Uninserted demand remains part of the evaluation cohort.
+A regular SUMO flow requests its first vehicle at `begin` and repeats at the configured rate. Python sets the flow count from the rate and window duration so that SUMO headway rounding cannot add a departure. Integer vehicle counts need not equal `rate × duration` exactly. For example, 45 veh/h over 1800 seconds produces 23 requests. `scenarios.csv` reports requested Q/D alongside effective Q/D, turning share, and scheduled evaluation counts. These are input checks, not additional scenario features. Uninserted demand remains part of the evaluation cohort.
 
 ### Demand pilot
 
